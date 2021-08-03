@@ -1,5 +1,9 @@
 book_filename: "Nephromaths"
 chapter_name: "Chapter "
-output_dir: ~/OneDrive - University of Edinburgh/R files/RMD - Blogdown/KidneyFish/static/books/NEPHROMATHS
+
+output_dir: _book
+#output_dir: ~/OneDrive - University of Edinburgh/R files/RMD - Blogdown/KidneyFish/static/books/NEPHROMATHS
+
+
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
