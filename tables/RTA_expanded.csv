@@ -1,0 +1,59 @@
+﻿pRTA (isolated),inherited,inherited
+pRTA (isolated),acquired,topiramate
+pRTA (with Fanconi),inherited,NBCe1A (AR with ocular abnormalities)
+pRTA (with Fanconi),metabolic,Wilson's
+pRTA (with Fanconi),metabolic,cystinosis
+pRTA (with Fanconi),metabolic,fructose intolerance
+pRTA (with Fanconi),metabolic,Dent disease
+pRTA (with Fanconi),metabolic,mitochondrial cytopathies
+pRTA (with Fanconi),dysproteinaemia,myeloma
+pRTA (with Fanconi),dysproteinaemia,LCDD
+pRTA (with Fanconi),dysproteinaemia,"LCFS is κ in 96 %,"
+pRTA (with Fanconi),dysproteinaemia,amyloid
+pRTA (with Fanconi),TIN,Sjogren's
+pRTA (with Fanconi),TIN,other TIN
+pRTA (with Fanconi),TIN,allograft rejection
+pRTA (with Fanconi),drugs (Abx / cART),tenofovir
+pRTA (with Fanconi),drugs (Abx / cART),lamivudine
+pRTA (with Fanconi),drugs (Abx / cART),aminoglycosides
+pRTA (with Fanconi),drugs (Abx / cART),outdated tetracyclines
+pRTA (with Fanconi),drugs (other),cisplatin
+pRTA (with Fanconi),drugs (other),valproate
+pRTA (with Fanconi),drugs (other),lenalinomide
+pRTA (with Fanconi),toxins,Pb
+pRTA (with Fanconi),toxins,Hg
+pRTA (with Fanconi),toxins,Cd
+pRTA (with Fanconi),toxins,aristolochic acid
+dRTA,inherited,AEI (AR)
+dRTA,inherited,H-ATPase B1 (AR with SNHL)
+dRTA,inherited,H-ATPase A4 (AR)
+dRTA,TIN,chronic pyelonephritis
+dRTA,TIN,chronic TIN
+dRTA,TIN,obstructive uropathy
+dRTA,TIN,sickle cell
+dRTA,TIN,allograft rejection
+dRTA,autoimmune,hypergammaglobulinaemia
+dRTA,autoimmune,SLE
+dRTA,autoimmune,Sjogren's
+dRTA,autoimmune,chronic active hepatitis
+dRTA,autoimmune,PBC
+dRTA,drugs,Li+
+dRTA,drugs,amphoterocin
+dRTA,drugs,toluene
+dRTA,nephrocalcinosis,hyperPTH
+dRTA,nephrocalcinosis,idiopathic hypercalciuria
+dRTA,nephrocalcinosis,MSK
+type IV,low renin,DM
+type IV,low renin,NSAIDs
+type IV,low renin,CNIs
+type IV,low renin,β–
+type IV,high renin,Addison's
+type IV,high renin,CAH
+type IV,high renin,ACEi / ARB
+type IV,high renin,heparin
+type IV,high renin,ketoconazole
+type IV,abnormal CD,TIN
+type IV,abnormal CD,sprionolactone / amiloride
+type IV,abnormal CD,trimethoprim
+type III,inherited,CAII (AR with osteopetrosis / cerebral calcification)
+type III,acquired,topiramate (CA inhibition)

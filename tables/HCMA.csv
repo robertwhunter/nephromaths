@@ -1,0 +1,9 @@
+﻿pos U AG (unable to acidify urine),RTA,RTA type I (always)
+pos U AG (unable to acidify urine),RTA,RTA type IV (always)
+pos U AG (unable to acidify urine),RTA,RTA type II (sometimes) *
+neg U AG (able to acidify urine),renal (FEHCO3 > 10 – 15 %),RTA type II (sometimes) *
+neg U AG (able to acidify urine),renal (FEHCO3 > 10 – 15 %),RTA of renal insufficiency (GFR > 15)
+neg U AG (able to acidify urine),extrarenal (FEHCO3 << 5 % **),diarrhoea (GI HCO3 loss)
+neg U AG (able to acidify urine),extrarenal (FEHCO3 << 5 % **),ureteric diversion
+neg U AG (able to acidify urine),extrarenal (FEHCO3 << 5 % **),pancreatic secretions
+neg U AG (able to acidify urine),extrarenal (FEHCO3 << 5 % **),biliary secretions

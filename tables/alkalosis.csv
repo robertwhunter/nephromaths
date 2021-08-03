@@ -1,0 +1,10 @@
+﻿low ECF volume = chloride-depletion / chloride-responsive,GI chloride loss,vomiting / NG losses
+low ECF volume = chloride-depletion / chloride-responsive,GI chloride loss,colonic villous adenoma / congenital chloride diarrhoea / high-volume ileostomy (rare)
+low ECF volume = chloride-depletion / chloride-responsive,renal chloride loss,loop / thiazide diuretics *
+low ECF volume = chloride-depletion / chloride-responsive,renal chloride loss,Bartter / Gitelman *
+normal ECF volume = chloride-resistant,renal H + loss,true mineralocorticoid XS (low-renin / high-renin)
+normal ECF volume = chloride-resistant,renal H + loss,apparent mineralocorticoid XS (and Liddle’s)
+normal ECF volume = chloride-resistant,renal H + loss,Cushings
+normal ECF volume = chloride-resistant,renal H + loss,post-hypercapnic alkalosis (UCl < 10 mM)
+normal ECF volume = chloride-resistant,renal H + loss,milk-alkali syndrome
+normal ECF volume = chloride-resistant,intracellular H + shift,hypokalaemia

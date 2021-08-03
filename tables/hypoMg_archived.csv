@@ -1,0 +1,12 @@
+﻿with hypoK,PPIs
+with hypoK,diuretics (loop / thiazides)
+with hypoK,Bartter / Gitelman
+with hypoK,Conn
+with hypoK,amphotericin
+with hyperK,CNIs
+with hyperK,K-sparing diuretics
+with hyperK,poorly-controlled DM
+with hypoCa,PPIs
+with hypoCa,post-parathyroidectomy
+with hypoCa,TRPM6 / claudin 16 mutations
+isolated (rare),EGF / NaKATPase-γ mutations

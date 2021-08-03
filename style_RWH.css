@@ -1,0 +1,103 @@
+.caption {
+  color: #777;
+  margin-top: 10px;
+}
+
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+/* INLINE CODE STYLING */
+/**/
+/**/
+
+.book .book-body .page-wrapper .page-inner section.normal code {
+  font-family: monospace;
+  color: dodgerblue; 
+  font-weight: bold; 
+  background-color: hsl(190,60%,80%);
+}
+
+/* PANELS */
+/**/
+/**/
+
+/*
+div.eqnpanel {
+  background-color: hsl(190,60%,80%);
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-left: 12px solid dodgerblue;
+  font-family: "Computer Modern";
+  font-style: italic;
+}
+*/
+
+.eqnpanel {
+  background-color: hsl(190,60%,80%);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 4px solid dodgerblue;
+  border-bottom: 4px solid dodgerblue;
+  font-family: "Computer Modern";
+  font-style: italic;
+  text-align: left;
+}
+
+.algpanel {
+  background-color: hsl(60,100%,80%);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 4px solid orange;
+  border-bottom: 4px solid orange;
+  font-family: Monospace;
+}
+
+/*
+.algpanel {
+  background-color: hsl(60,100%,80%);
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 0;
+  padding-bottom: 5px;
+  border-left: 12px solid orange;
+}
+*/
+
+/* Define text styles */
+/*
+p {
+	color: black;
+	font-family: Gill Sans, Calibri, Arial Black, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+
+h1,h2,h3 { font-family: Gill Sans, Calibri, Arial Black, Arial, Helvetica, sans-serif; color: black; }
+
+/* h2 { font-family: Gill Sans, Calibri, Arial Black, Arial, Helvetica, sans-serif; font-size: 200%; }
+h3 { font-family: Gill Sans, Calibri, Arial Black, Arial, Helvetica, sans-serif; font-size: 150%; } */

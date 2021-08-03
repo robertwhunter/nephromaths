@@ -1,0 +1,19 @@
+﻿pRTA (isolated),inherited,inherited
+pRTA (isolated),acquired,topiramate
+pRTA (with Fanconi),inherited,NBCe1A (AR with ocular abnormalities)
+pRTA (with Fanconi),metabolic,"Wilson’s, cystinosis, fructose intolerance, Dent’s, mitochondrial cytopathies"
+pRTA (with Fanconi),dysproteinaemia,"myeloma, LCDD, LCFS is κ in 96 %, amyloid"
+pRTA (with Fanconi),TIN,"Sjogren’s, other TIN, allograft rejection"
+pRTA (with Fanconi),drugs (Abx / cART),"tenofovir, lamivudine, aminoglycosides, outdated tetracyclines"
+pRTA (with Fanconi),drugs (other),"cisplatin, valproate, lenalinomide"
+pRTA (with Fanconi),toxins,"Pb, Hg, Cd, aristolochic acid"
+dRTA,inherited,"AEI (AR), H-ATPase B1 (AR with SNHL), H-ATPase A4 (AR)"
+dRTA,TIN,"chronic pyelonephritis, chronic TIN, obstructive uropathy, sickle cell, rejection"
+dRTA,autoimmune,"hypergammaglobulinaemia, SLE, Sjogren’s, chronic active hepatitis, PBC"
+dRTA,drugs,"Li+, amphoterecin, toluene"
+dRTA,nephrocalcinosis,"hyperPTH, idiopathic hypercalciuria, MSK"
+type IV,low renin,"DM, NSAIDs, CNIs, β–"
+type IV,high renin,"Addisons, CAH, ACEi, ARB, heparin, ketoconazole"
+type IV,abnormal CD,"TIN, spiro, amiloride, trimethoprim"
+type III,inherited,CAII (AR with osteopetrosis / cerebral calcification)
+type III,acquired,topiramate (CA inhibition)

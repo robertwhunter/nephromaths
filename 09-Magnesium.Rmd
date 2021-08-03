@@ -1,0 +1,46 @@
+# Magnesium
+
+90 % of total body Mg is held in in stores in bone / muscle.  
+
+```{block2, type='eqnpanel'}
+\begin{equation}
+  \text{fractional excretion, }FE_{Mg} = \frac{U_{Mg}}{P_{Mg} \times 0.7} \times \frac{P_{Creat}}{U_{Creat}}
+  (\#eq:FEMg)
+\end{equation}
+    
+```
+
+When calculating FE~Mg~, divide the result by 0.7.  This is because P~Mg~ is multiplied by 0.7 to account for protein binding; only 70% of circulating Mg is free and therefore able to be filtered; 30% is albumin-bound [@agus1999].  
+
+FE~Mg~ \> 3 -- 4 % = renal loss.
+
+PPIs cause hypoNa, hypoK, hypoMg, hypoPO4.  
+
+
+## Differential diagnosis of hypomagesaemia
+
+<!-- +  with hyperK  -->
+<!--     +  *CNIs*  -->
+<!--     +  *K-sparing diuretics*  -->
+<!--     +  *poorly-controlled DM*   -->
+<!-- +  with hypoK  -->
+<!--     +  *PPIs*  -->
+<!--     +  *diuretics (loop / thiazides)*  -->
+<!--     +  *Bartter / Gitelman*  -->
+<!--     +  *Conn*  -->
+<!--     +  *amphotericin*   -->
+<!-- +  with hypoCa  -->
+<!--     +  *PPIs*  -->
+<!--     +  *post-parathyroidectomy*  -->
+<!--     +  *TRPM6 / claudin 16 mutations*   -->
+<!-- +  isolated (rare)  -->
+<!--     +  *EGF / NaKATPase-γ mutations*  -->
+    
+    ```{r, echo=FALSE, message=FALSE, warning=FALSE}
+source('~/OneDrive - University of Edinburgh/R files/R Scripts/Markdown_tables.R')
+df_table <- read.csv("tables/hypoMg.csv", header = FALSE)
+
+df_table %>% table_2cols()
+
+```
+    

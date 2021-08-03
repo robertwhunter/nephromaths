@@ -1,0 +1,19 @@
+bookdown::gitbook:
+  css: style_RWH.css
+  split_by: chapter
+  split_bib: FALSE
+  config:
+    toc:
+      collapse: subsection
+      before: |
+        <li><a href="https://www.kidneyfish.net">KidneyFish</a></li>
+        <li><a href="./">Nephromaths</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+bookdown::epub_book:
+  stylesheet: style.css
