@@ -128,6 +128,9 @@ df_table %>% table_3cols(caps = T)
 
 ```
 
+![](figures/HypoK.png)
+
+
 ### Vomiting
 
 In [vomiting](#vomit), K is lost through extra-renal and renal routes. Volume contraction stimulates aldosterone; contribution for chloride depletion and bicarbonaturia. A urinary pH and U~Cl~ may be informative.  
@@ -186,7 +189,11 @@ Renal excretion of K^+^ may be impaired if any of the following are limited [@hu
 - delivery of Na^+^ to the distal nephron 
 - aldosterone signalling in the distal nephron 
 
-Therefore causes of hyperkalaemia:  
+
+![](figures/K_loop_annotated.png)
+
+
+Therefore the causes of hyperkalaemia are:  
 
 <!-- - excessive potassium load  -->
 <!--     - diet  -->
@@ -214,7 +221,9 @@ df_hyperK3 %>% table_3cols(caps = T)
 
 ```
 
-![](figures/K_loop_annotated.png)
+### Drug causes of hyperkalaemia
+
+![](figures/HyperK_drugs.png)
 
 ### Causes of spurious hyperkalaemia  
 
