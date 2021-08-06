@@ -73,6 +73,7 @@ plasma-sodium
 renal-water-excretion
 UOsm
 hyponatraemia
+drug-causes-of-hyponatraemia
 correction-for-hyperglycaemia
 urine-sodium
 fena
@@ -80,7 +81,7 @@ feurate-as-an-alternative-index-of-volume-status
 free-water-clearance
 calculating-free-water-clearance
 clinical-utility-of-free-water-clearance
-drug-causes-of-hyponatraemia
+drug-causes-of-hyponatraemia-1
 hypernatraemia
 potassium
 quantification
@@ -94,6 +95,7 @@ non-reasbsorbable-anions
 hypokalaemic-periodic-paralysis
 hyperkalaemia
 causes-of-hyperkalaemia
+drug-causes-of-hyperkalaemia
 causes-of-spurious-hyperkalaemia
 acid-base-chloride
 normal-ranges
@@ -119,6 +121,7 @@ TMPGFR
 reference-ranges
 causes-of-hypophosphataemia
 calcium
+investigations-in-hypercalcaemia
 urine-calcium
 interpreting-the-results
 unit-conversions

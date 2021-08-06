@@ -51,6 +51,13 @@ Drug causes of hypercalcaemia:
 </tbody>
 </table>
 
+<!--
+![](figures/HyperCa_drugs.png)
+-->
+
+## Investigations in hypercalcaemia:
+
+![](figures/HyperCa.png)
 
 ## Urine calcium
 

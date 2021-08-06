@@ -125,6 +125,11 @@ The causes of hyponatraemia can be classified by volume status, U~Osm~ and U~Na~
 
 ![](figures/Na_loop_annotated.png)
 
+### Drug causes of hyponatraemia
+
+![](figures/HypoNa_drugs.png)
+
+
 
 ### Correction for hyperglycaemia  
 Hyponatraemia can result from an influx of water into the vascular (and interstitial) space in presence of an abnormaly high concentration of a plasma osmole.  The commonest such clinical scenario is that of hyperglycaemia.  (Hyponatraemia in this context is not dangerous *per se* because plasma tonicity is maintained near normal by glucose, an [effective osmole](#tonicity).)  
