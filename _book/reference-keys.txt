@@ -43,7 +43,6 @@ eq:TmPGFRone
 eq:TmPGFRtwo
 eq:TmPGFR2alpha
 eq:FEMg
-eq:dailyOL
 intro
 work-in-progress
 what-this-book-is---and-what-it-is-not
@@ -133,9 +132,4 @@ differential-diagnosis-of-hypomagesaemia
 app1
 notation
 glossary-of-abbreviations
-app2
-why-drinking-seawater-causes-dehydration
-why-giving-0.9-nacl-can-exacerbate-hyponatraemia-in-some-circumstances
-calculating-the-water-intake-required-to-cause-hyponatraemia
-why-poor-diet-low-dietary-solute-intake-can-cause-hyponatraemia
 appendix-3---references

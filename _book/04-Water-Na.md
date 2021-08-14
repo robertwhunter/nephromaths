@@ -94,7 +94,7 @@ These simple relationships can be used to explore a number of phenomena, such as
 + calculating the water intake that would cause hyponatraemia  
 + explaining why poor diet (low dietary solute intake) can cause hyponatraemia    
 
-These are considered in more detail in [Appendix 2](#app2). 
+These are considered in more detail in [this blog post](https://www.kidneyfish.net/post/e-mc-2). 
 
 
 ## Hyponatraemia
