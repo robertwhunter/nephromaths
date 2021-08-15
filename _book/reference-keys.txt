@@ -132,4 +132,4 @@ differential-diagnosis-of-hypomagesaemia
 app1
 notation
 glossary-of-abbreviations
-appendix-3---references
+appendix-2---references
