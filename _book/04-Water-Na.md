@@ -293,7 +293,7 @@ The first clinical sign that over-correction is imminent is a rise in urine outp
 
 \BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
   \text{safe upper limit for urine flow ,}V_{safe} = 1 \text{ ml per kg BW per hr}
-  (\#eq:unsafe_uo_hypoNa)
+  (\#eq:unsafeuo)
 \end{equation}
     
 ...up to a maximum of 100 ml per hr

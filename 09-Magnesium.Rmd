@@ -36,7 +36,7 @@ PPIs cause hypoNa, hypoK, hypoMg, hypoPO4.
 <!-- +  isolated (rare)  -->
 <!--     +  *EGF / NaKATPase-γ mutations*  -->
     
-    ```{r, echo=FALSE, message=FALSE, warning=FALSE}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 source('~/OneDrive - University of Edinburgh/R files/R Scripts/Markdown_tables.R')
 df_table <- read.csv("tables/hypoMg.csv", header = FALSE)
 
