@@ -96,53 +96,53 @@ Broadly, hypophosphataemia may be due to:
 <table>
 <tbody>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;vertical-align: top !important;" rowspan="2"> TRANSCELLULAR SHIFTS (TMP/GFR NOT LOW) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TRANSCELLULAR SHIFTS (TMP/GFR NOT LOW) </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> respiratory </td>
    <td style="text-align:left;"> respiratory alkalosis </td>
   </tr>
   <tr>
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TRANSCELLULAR SHIFTS (TMP/GFR NOT LOW) </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> metabolic </td>
    <td style="text-align:left;"> re-feeding syndrome </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;vertical-align: top !important;" rowspan="4"> IMPAIRED GI ABSORPTION (TMP/GFR NOT LOW) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;vertical-align: top !important;" rowspan="3"> vit D-indep </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> IMPAIRED GI ABSORPTION (TMP/GFR NOT LOW) </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> vit D-indep </td>
    <td style="text-align:left;"> poor dietary intake </td>
   </tr>
   <tr>
-   
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> IMPAIRED GI ABSORPTION (TMP/GFR NOT LOW) </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> vit D-indep </td>
    <td style="text-align:left;"> malabsorption (including in EtOH XS) </td>
   </tr>
   <tr>
-   
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> IMPAIRED GI ABSORPTION (TMP/GFR NOT LOW) </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> vit D-indep </td>
    <td style="text-align:left;"> phosphate binders (including antacids) </td>
   </tr>
   <tr>
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> IMPAIRED GI ABSORPTION (TMP/GFR NOT LOW) </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> vit D-dep </td>
    <td style="text-align:left;"> vitamin D deficient / impaired signalling </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;vertical-align: top !important;" rowspan="4"> RENAL LOSSES (TMP/GFR LOW) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;vertical-align: top !important;" rowspan="2"> FGF23-dep </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES (TMP/GFR LOW) </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-dep </td>
    <td style="text-align:left;"> inherited (e.g. XLH, fibrous dysplasia…) </td>
   </tr>
   <tr>
-   
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES (TMP/GFR LOW) </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-dep </td>
    <td style="text-align:left;"> acquired (e.g. tumour-associated osteomalacia, post-renal transplant…) </td>
   </tr>
   <tr>
-   
-   <td style="text-align:left;font-style: italic;background-color: white !important;vertical-align: top !important;" rowspan="2"> FGF23-indep </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES (TMP/GFR LOW) </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-indep </td>
    <td style="text-align:left;"> without Fanconi (hyperPTH, diuretics, HHRH) </td>
   </tr>
   <tr>
-   
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES (TMP/GFR LOW) </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-indep </td>
    <td style="text-align:left;"> with Fanconi syndrome (inherited or acquired) </td>
   </tr>
 </tbody>

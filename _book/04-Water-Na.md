@@ -223,7 +223,7 @@ Traditionally, this was calculated by first determinine the total clearance of o
 \end{equation}
 </div>\EndKnitrBlock{eqnpanel}
 
-However, as not all urinary osmoles are [*effective* osmoles](#tonicity) with respect to cell membranes, it makes more sense to determine the clearance of water that is free from only effective osmoles when working out how renal water clearance is likely to affect P~Na~.  Therefore, it is usually preferable to calculate `electrolyte-free` water clearance [@nguyen2006a]:
+However, as not all urinary osmoles are [*effective* osmoles](#tonicity) with respect to cell membranes, it makes more sense to determine the clearance of water that is free from only effective osmoles when working out how renal water clearance is likely to affect P~Na~.  Therefore, it is usually preferable to calculate `electrolyte-free` water clearance [@nguyen2006a].  This approach was originally advocated by [Goldberg, 1981](https://pubmed.ncbi.nlm.nih.gov/7230957/) and then elaborated on by [Rose, 1986](https://pubmed.ncbi.nlm.nih.gov/3799631/):
 
 \BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
   \text{electrolyte-free water clearance, }C_{H_{2}O}(e) = V\times(1-\frac{U_{Na}+U_{K}+U_{OEOs}}{P_{Na}+P_{OEOs}})\\ \approx\frac{OL}{U_{Osm}}\times(1-\frac{U_{Na}+U_{K}}{P_{Na}})
@@ -233,7 +233,7 @@ However, as not all urinary osmoles are [*effective* osmoles](#tonicity) with re
 Other effective osmoles (OEOs) may be: glucose, mannitol...
 </div>\EndKnitrBlock{eqnpanel}
 
-Most of the time, this can be simplified by considering only the dominiant urinary cations, sodium and potassium.  The `urine:plasma electrolyte ratio` is a related concept:  
+Most of the time, this can be simplified by considering only the dominiant urinary cations, sodium and potassium - or even further by calculating the `urine:plasma electrolyte ratio`, as proposed by [Furst, 2000](https://pubmed.ncbi.nlm.nih.gov/10768609/):  
 
 \BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
   \text{electrolyte clearance, }C_{El} = \frac{U_{Na+K}\times V}{P_{Na}}
@@ -271,17 +271,35 @@ The estimates for net free water loss (and the restriction on water intake that 
 <br>
 <br>
 
-Based on this, Joel Topft and others have proposed an approximate guide to fluid restriction:  
+Based on this, a popular approximate guide to fluid restriction is:  
 
-+----------------------+---------------------------------+
-|U:P electrolytes      | set fluid restriction to...     |
-+======================+=================================+
-| UNa + UK \> PNa      | 500 ml (and give furosemide bd) |
-+----------------------+---------------------------------+
-| UNa + UK \~ PNa      | 500 - 800 ml                    |
-+----------------------+---------------------------------+
-| UNa + UK \< PNa      | \>1000 ml                       |
-+----------------------+---------------------------------+
++----------------------+----------------------------------------------------+
+|U:P electrolytes      | set fluid restriction to...                        |
++======================+====================================================+
+| UNa + UK \> PNa      | 500 ml (and give furosemide +/- supplemental NaCl) |
++----------------------+----------------------------------------------------+
+| UNa + UK \~ PNa      | 500 - 800 ml                                       |
++----------------------+----------------------------------------------------+
+| UNa + UK \< PNa      | \>1000 ml                                          |
++----------------------+----------------------------------------------------+
+
+<br>
+
+### Urine flow rate in hyponatraemia
+
+Patients with hypovolaemic hyponatraemia are at particular risk of "over-correction" - i.e. a rapid rise in P~Na~ that might precipitate osmotic demyelination.  This is because after the initial phases of volume resuscitation, the volume stimulus to ADH secretion is removed and there is then a profound osmotic stimulus suppressing ADH production.  
+
+The first clinical sign that over-correction is imminent is a rise in urine output.  But how much urine is too much urine?  Using some complicated mathematics and reasonable assumptions, [Buchkremer et al.](https://pubmed.ncbi.nlm.nih.gov/30122547/) used the Edelman equation to derive an estimate for this:  
+
+\BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
+  \text{safe upper limit for urine flow ,}V_{safe} = 1 \text{ ml per kg BW per hr}
+  (\#eq:unsafe_uo_hypoNa)
+\end{equation}
+    
+...up to a maximum of 100 ml per hr
+</div>\EndKnitrBlock{eqnpanel}
+
+<br>
 
 ### Drug causes of hyponatraemia
 
@@ -300,35 +318,35 @@ Based on this, Joel Topft and others have proposed an approximate guide to fluid
    <td style="text-align:left;"> NSAIDs / antibiotics / PPIs (if AIN) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;vertical-align: top !important;" rowspan="6"> SIADH </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
    <td style="text-align:left;"> antidepressants (SSRIs, TCAs) </td>
   </tr>
   <tr>
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
    <td style="text-align:left;"> antipsychotics </td>
   </tr>
   <tr>
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
    <td style="text-align:left;"> anticonvulsants (esp. carbemazepine) </td>
   </tr>
   <tr>
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
    <td style="text-align:left;"> anti-cancer (vinscritine, cisplatin…) </td>
   </tr>
   <tr>
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
    <td style="text-align:left;"> opioids </td>
   </tr>
   <tr>
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
    <td style="text-align:left;"> MDMA </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;vertical-align: top !important;" rowspan="2"> Reset osmostat </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Reset osmostat </td>
    <td style="text-align:left;"> venlafaxine </td>
   </tr>
   <tr>
-   
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Reset osmostat </td>
    <td style="text-align:left;"> carbamazepine </td>
   </tr>
   <tr>
@@ -357,8 +375,6 @@ The treatment of hypernatraemia is simple: give more free water (either enterall
   \text{water defecit } = TBW \times (\frac{P_{Na}}{140}-1)\approx \frac{P_{Na}-140}{3}
   (\#eq:aqdef)
 \end{equation}
-
 </div>\EndKnitrBlock{eqnpanel}
 
 Armed with this estimate, fluid may be prescribed at an appropriate rate to achieve gradual restoration of normal plasma tonicity.  
-

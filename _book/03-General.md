@@ -98,21 +98,21 @@ Balanced crystalloids contain lactate, acetate or gluconate, which are metabolis
 It is helpful to consider electrolyte supplements in the context of normal dietary intake:  
 
 
-source                          Na     K      Cl    HCO3   urea 
-------------------------------  -----  -----  ----  -----  -----
-typical daily Western diet      160    60     -     -      -    
-WHO daily recommendations       < 90   > 90   -     -      -    
-total body K (50 mmol per kg)   -      3000   -     -      -    
-1L 0.9% NaCl                    154    -      154   -      -    
-1L plasmalyte-148               140    5      98    50     -    
-2 tabs slow sodium tds          60     -      60    -      -    
-2 tabs sando-K tds              -      75     48    24     -    
-10 ml K citrate                 -      30     -     12     -    
-10 ml Kay-Cee-L                 -      10     10    -      -    
-1L 1.26% NaHCO3                 150    -      -     150    -    
-50 ml 8.4 % NaHCO3              -      -      -     50     -    
-1g NaHCO3 tds                   36     -      -     36     -    
-10g protein                     -      -      -     -      50   
+|source                        |Na   |K    |Cl  |HCO3 |urea |
+|:-----------------------------|:----|:----|:---|:----|:----|
+|typical daily Western diet    |160  |60   |-   |-    |-    |
+|WHO daily recommendations     |< 90 |> 90 |-   |-    |-    |
+|total body K (50 mmol per kg) |-    |3000 |-   |-    |-    |
+|1L 0.9% NaCl                  |154  |-    |154 |-    |-    |
+|1L plasmalyte-148             |140  |5    |98  |50   |-    |
+|2 tabs slow sodium tds        |60   |-    |60  |-    |-    |
+|2 tabs sando-K tds            |-    |75   |48  |24   |-    |
+|10 ml K citrate               |-    |30   |-   |12   |-    |
+|10 ml Kay-Cee-L               |-    |10   |10  |-    |-    |
+|1L 1.26% NaHCO3               |150  |-    |-   |150  |-    |
+|50 ml 8.4 % NaHCO3            |-    |-    |-   |50   |-    |
+|1g NaHCO3 tds                 |36   |-    |-   |36   |-    |
+|10g protein                   |-    |-    |-   |-    |50   |
 
 NB the values (all mmoles) in the table above are very approximate; HCO3 refers to bicarbonate or bicarbonate-equivalents (i.e. substances that will be metabolised to bicarbonate).   
 

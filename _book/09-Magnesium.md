@@ -37,67 +37,67 @@ PPIs cause hypoNa, hypoK, hypoMg, hypoPO4.
     <table>
     <tbody>
       <tr>
-       <td style="text-align:left;font-weight: bold;background-color: white !important;vertical-align: top !important;" rowspan="3"> GI losses </td>
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> GI losses </td>
        <td style="text-align:left;"> PPIs </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> GI losses </td>
        <td style="text-align:left;"> EtOH </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> GI losses </td>
        <td style="text-align:left;"> malabsorption </td>
       </tr>
       <tr>
-       <td style="text-align:left;font-weight: bold;background-color: white !important;vertical-align: top !important;" rowspan="7"> renal losses </td>
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> renal losses </td>
        <td style="text-align:left;"> diuretics (loop / thiazides) </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> renal losses </td>
        <td style="text-align:left;"> Bartter / Gitelman </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> renal losses </td>
        <td style="text-align:left;"> CNIs </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> renal losses </td>
        <td style="text-align:left;"> amphoterocin </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> renal losses </td>
        <td style="text-align:left;"> anti-EGF therapy </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> renal losses </td>
        <td style="text-align:left;"> EtOH </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> renal losses </td>
        <td style="text-align:left;"> poorly-controlled diabetes </td>
       </tr>
       <tr>
-       <td style="text-align:left;font-weight: bold;background-color: white !important;vertical-align: top !important;" rowspan="4"> ICF shift </td>
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> ICF shift </td>
        <td style="text-align:left;"> hungry bone syndrome </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> ICF shift </td>
        <td style="text-align:left;"> re-feeding syndrome </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> ICF shift </td>
        <td style="text-align:left;"> insulin </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> ICF shift </td>
        <td style="text-align:left;"> pancreatitis </td>
       </tr>
       <tr>
-       <td style="text-align:left;font-weight: bold;background-color: white !important;vertical-align: top !important;" rowspan="2"> endocrine </td>
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> endocrine </td>
        <td style="text-align:left;"> Conn syndrome </td>
       </tr>
       <tr>
-       
+       <td style="text-align:left;font-weight: bold;background-color: white !important;"> endocrine </td>
        <td style="text-align:left;"> hyperPTH </td>
       </tr>
     </tbody>

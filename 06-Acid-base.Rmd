@@ -1,5 +1,30 @@
 # Acid-base & chloride
 
+<!--
+
+## Renal control of acid-base balance  
+
+net acid excretion = titratable acid + NH4+ - HCO3-
+
+Robinson 1961 (and see also Hamm CJASN 2015 etc.):
+
+If acid load on Western diet = 1 mmol/kg/day and urine pH 4 = 0.1 mM then without buffering would need 700L urine per day!  
+
+Therefore to excrete an acid load:  
+
+1) reabsorb filtered HCO3  
+2) excrete titratable acid (H2PO4) = net HCO3 reabsorption  
+3) excrete ammonium (glutamine > NH3 + H+ > NH4) = net HCO3 reabsorption  
+
+Excretion of NH4 is upregulated in response to acid load.  (Titratable acid = fixed.)  
+
+In book chapter:
+
+- acid excreted as NH4+ to avoid v. low urine pH = urate precipitation (pK 5.3)  
+- base excreted as citrate (and other organic anions) to avoid v. high urine pH = calcium phosphate precipitation (pK 6.8)  
+
+-->
+
 ## Normal ranges
 
 - pH: *7.35 -- 7.45*
@@ -244,6 +269,8 @@ df_table %>% table_2cols()
 Propylene glycol (a solvent for parenteral medications: lorazepam, diazepam, phenobarbital) is metabolised to L- and D-lactate.
 
 \* WGMA with elevated OG = EtOH ketoacidosis, MeOH and the glycols. The OG is NOT elevated with salicylates. There is a time-dependant conversion from OG to AG following ingestion of toxic alcohol (metabolites are charged and bind to Na). 
+
+NB Ethylene glycol = high lactate (false +ve) on ABG machine but not formal lab assay.  
 
 <!-- Administer fomepizole early (before significant acidosis). Indications for RRT (prefer HD to HF): acidosis, renal failure, EG level \> 50 mg/L. -->
 
