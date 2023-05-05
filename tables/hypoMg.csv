@@ -1,1 +1,21 @@
-GI losses,PPIsGI losses,EtOHGI losses,malabsorptionrenal losses,diuretics (loop / thiazides)renal losses,Bartter / Gitelmanrenal losses,CNIsrenal losses,amphoterocinrenal losses,anti-EGF therapyrenal losses,EtOHrenal losses,poorly-controlled diabetesICF shift,hungry bone syndromeICF shift,re-feeding syndromeICF shift,insulinICF shift,pancreatitisendocrine,Conn syndromeendocrine,hyperPTH
+GI losses,PPIs
+GI losses,EtOH
+GI losses,malabsorption
+GI losses,vomiting / diarrhoea
+renal losses,diuretics (loop / thiazides)
+renal losses,genetic tubulopathies (see below)
+renal losses,aminoglycosides
+renal losses,CNIs
+renal losses,amphoterocin
+renal losses,cisplatin chemotherapy (long-lasting)
+renal losses,anti-EGF therapy
+renal losses,EtOH
+renal losses,osmotic diuresis
+renal losses,poorly-controlled diabetes
+renal losses ,anti-claudin autoAbs (very rare!)
+ICF shift,hungry bone syndrome
+ICF shift,re-feeding syndrome
+ICF shift,insulin
+ICF shift,pancreatitis
+endocrine,Conn syndrome
+endocrine,hyperPTH

@@ -127,8 +127,58 @@ The causes of hyponatraemia can be classified by volume status, U~Osm~ and U~Na~
 
 ### Drug causes of hyponatraemia
 
-![](figures/HypoNa_drugs.png)
-
+<table>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Mechanism </td>
+   <td style="text-align:left;"> Drugs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Impaired urinary dilution </td>
+   <td style="text-align:left;"> thiazide diuretics </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Renal salt wasting </td>
+   <td style="text-align:left;"> NSAIDs / antibiotics / PPIs (if AIN) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
+   <td style="text-align:left;"> antidepressants (SSRIs, TCAs) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;"> antipsychotics </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;"> anticonvulsants (esp. carbemazepine) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;"> anti-cancer (vinscritine, cisplatin…) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;"> opioids </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;"> MDMA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Reset osmostat </td>
+   <td style="text-align:left;"> venlafaxine </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;"> carbamazepine </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Excessive thirst </td>
+   <td style="text-align:left;"> MDMA </td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Correction for hyperglycaemia  
@@ -285,6 +335,9 @@ Based on this, a popular approximate guide to fluid restriction is:
 
 <br>
 
+EFWC can also be monitored serially in hypoNa to determine whether the patient is getting better or not.  Ideally use short timed collections (e.g. 4 hrs) so can include urine volume.  Can run urine through an ABG machine to get immediate electrolyte content.  
+<br>
+
 ### Urine flow rate in hyponatraemia
 
 Patients with hypovolaemic hyponatraemia are at particular risk of "over-correction" - i.e. a rapid rise in P~Na~ that might precipitate osmotic demyelination.  This is because after the initial phases of volume resuscitation, the volume stimulus to ADH secretion is removed and there is then a profound osmotic stimulus suppressing ADH production.  
@@ -322,23 +375,23 @@ The first clinical sign that over-correction is imminent is a rise in urine outp
    <td style="text-align:left;"> antidepressants (SSRIs, TCAs) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;"> antipsychotics </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;"> anticonvulsants (esp. carbemazepine) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;"> anti-cancer (vinscritine, cisplatin…) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;"> opioids </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;"> MDMA </td>
   </tr>
   <tr>
@@ -346,7 +399,7 @@ The first clinical sign that over-correction is imminent is a rise in urine outp
    <td style="text-align:left;"> venlafaxine </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Reset osmostat </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;"> carbamazepine </td>
   </tr>
   <tr>
@@ -360,18 +413,74 @@ The first clinical sign that over-correction is imminent is a rise in urine outp
 
 ## Hypernatraemia
 
-In contrast to hyponatraemia, which may pose a diagnostic conundrum, in hypernatraemia it is almost always easy to work out the underlying cause.  Hypernatraemia is caused by loss of free water (dehydration).  Because the thirst resoponse is such a powerful negative feedback controlled of P~Osm~, in most cases hypernatraemia arises through *lack of access to water* rather than excessive water losses *per se*.  This is often iatrogenic: a classic example being the patient with chronic diabetes insipidus who, having been used to drinking many litres of water per day, becomes hypernatraemic when they are admitted to hospital and their access to water is limited.  
+### Causes of hypernatraemia    
 
-\BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
+In contrast to hyponatraemia, which may pose a diagnostic conundrum, in hypernatraemia it is almost always easy to work out the underlying cause.  Hypernatraemia is caused by loss of free water (dehydration) or gain of Na.  
 
-  \text{water excess } = TBW \times (1-\frac{P_{Na}}{140})
-  (\#eq:aqxs)
-\end{equation}</div>\EndKnitrBlock{eqnpanel}
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:center;"> Na gain </th>
+   <th style="text-align:center;"> water loss </th>
+   <th style="text-align:center;"> hypotonic fluid loss (renal) </th>
+   <th style="text-align:center;"> hypotonic fluid loss (other) </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> NaHCO\(_3\) </td>
+   <td style="text-align:center;"> insensible losses </td>
+   <td style="text-align:center;"> osmotic diuresis (glucose, urea…) </td>
+   <td style="text-align:center;"> vomiting / NG losses </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> NaCl </td>
+   <td style="text-align:center;"> hypodipsia </td>
+   <td style="text-align:center;"> post-obstructive diuresis </td>
+   <td style="text-align:center;"> diarrhoea </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> soy ingestion </td>
+   <td style="text-align:center;"> NDI </td>
+   <td style="text-align:center;"> post-ATI diuresis </td>
+   <td style="text-align:center;"> burns </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> sea water </td>
+   <td style="text-align:center;"> central DI </td>
+   <td style="text-align:center;"> loop diuretics </td>
+   <td style="text-align:center;"> sweating </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> primary aldosteronism </td>
+   <td style="text-align:center;"> gestational DI </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+</tbody>
+</table>
 
+Because the thirst resoponse is such a powerful negative feedback controlled of P~Osm~, in most cases hypernatraemia arises through *lack of access to water* rather than excessive water losses *per se*.  This is often iatrogenic: a classic example being the patient with chronic diabetes insipidus who, having been used to drinking many litres of water per day, becomes hypernatraemic when they are admitted to hospital and their access to water is limited.  
+
+Differential diagnosis of hypernatraemia due to free water deficiency:  
+
+![](figures/hyperNa_causes.png)
+
+### Diagnosis in hypernatraemia
+
+![](figures/hyperNa_algorithm.png)
+
+### Treatment of hypernatraemia  
 
 The treatment of hypernatraemia is simple: give more free water (either enterally or as intravenous 5% glucose).  The total body water deficit can be estimated as follows (where total body water, TBW is given by \@ref(eq:TBW)):
 
-\BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
+\BeginKnitrBlock{eqnpanel}<div class="eqnpanel">
+\begin{equation}
+  \text{water excess } = TBW \times (1-\frac{P_{Na}}{140})
+  (\#eq:aqxs)
+\end{equation}
+
+\begin{equation}
   \text{water defecit } = TBW \times (\frac{P_{Na}}{140}-1)\approx \frac{P_{Na}-140}{3}
   (\#eq:aqdef)
 \end{equation}

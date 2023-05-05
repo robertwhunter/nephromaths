@@ -1,8 +1,16 @@
 # Potassium
 
+98% of body K^+^ resides within cells:  
+
+![](figures/K_balance.png)
+
 Extracellular potassium is regulated by parallel aldo-dependent and aldo-independent negative feedback loops, with K sensors in the adrenal cortex and DCT respectively:  
 
-![](figures/K_loop.png)
+![](figures/K_loop.png)  
+
+Therefore plasma [K^+^] is sensed at two points, the DCT and the *zona glomerulosa* of the adrenal gland.  In response to these inputs, the kidney responds by altering the balance between electroneutral (K-sparing) and electrogenic (K-wasting) Na^+^ reabsorption in the distal tubule:
+
+![](figures/distal_tubule.png)
 
 
 ## Quantification
@@ -47,7 +55,7 @@ The TTKG is used to estimate [K^+^] in the tubular fluid at the end of the CCD (
 
 ```{block2, type='eqnpanel'}
 \begin{equation}
-  \text{transtubular potassium gradient, } TTKG=\frac{\frac{U_{K}}{P_{K}}}{\frac{U_{Osm}}{P_{Osm}}}=\frac{U_{K}\times P_{Osm}}{P_{K}\times {U_{Osm}}}
+  \text{transtubular potassium gradient, } TTKG=\frac{(U_{K}/P_{K})}{(U_{Osm}/P_{Osm)}}=\frac{U_{K}\times P_{Osm}}{P_{K}\times {U_{Osm}}}
   (\#eq:TTKG)
 \end{equation}
 ```
@@ -97,7 +105,9 @@ In hypokalaemia:
 
 i) spurious 
 ii) distribution (ECF/ICF shifts) 
-iii) K loss (renal or extra-renal)   
+iii) K loss (renal or extra-renal)
+
+![](figures/hypoK_differential.png)
 
 ### Causes of K loss
 
@@ -128,7 +138,16 @@ df_table %>% table_3cols(caps = T)
 
 ```
 
+
+### Diagnostic approach
+
+Stratify according to the following schemata:  
+
 ![](figures/HypoK.png)
+
+or
+
+![](figures/hypoK_diagnosis.png)
 
 
 ### Vomiting
@@ -191,7 +210,9 @@ Renal excretion of K^+^ may be impaired if any of the following are limited [@hu
 
 
 ![](figures/K_loop_annotated.png)
+Hyperkalaemia is often due to an inappropriate shift from electrogenic to electroneutral Na^+^ reabsorption:  
 
+![](figures/hyperK_causes.png)
 
 Therefore the causes of hyperkalaemia are:  
 
@@ -221,11 +242,14 @@ df_hyperK3 %>% table_3cols(caps = T)
 
 ```
 
-### Drug causes of hyperkalaemia
+Use FECl response to thiazides as functional test for PHAII (normal response is < 3% increment).  
 
-![](figures/HyperK_drugs.png)
 
-### Causes of spurious hyperkalaemia  
+### Causes of spurious hyper- and hypokalaemia  
+
+PseudohyperK from K-EDTA contamination.   
+
+PseudohyperK due to prolonged delay prior to centrifugation *(blood cells leak K in cold weather)*.  
 
 PseudohypoK due to prolonged delay prior to centrifugation *(blood cells take up K via Na-K-ATPase in the warm; "seasonal pseudohypoK" in summer)*.
 

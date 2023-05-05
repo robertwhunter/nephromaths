@@ -1,8 +1,21 @@
 # Phosphate
 
+## Urinary phosphate
+
 The usual reason to measure urinary phosphate excretion is to distinguish renal from extra-renal phosphate wasting in chronic hypophosphataemia.  Renal phosphate wasting may occur in isolation or as part of a Fanconi syndrome [@imel2012a].  
 
-## Measuring urinary phosphate and calculating TmP/GFR {#TMPGFR}
+### General approach
+
+Usually simplest and therefore preferable to calculate FEPO~4~ (or TRP) rather than TmP/GFR.  
+
+Other investigations in hypophosphataemia:  
+
+- repeat plasma phosphate (often transient and may have self-corrected)  
+- Ca, PTH (+/- vitD)  
+- Fanconi screen (LMWH proteinuria, uricosuria, glycosuria)  
+- DEXA (low BMD vs. osteomalacia)  
+
+### Measuring urinary phosphate and calculating TmP/GFR {#TMPGFR}
 
 A fasted, morning sample is preferred to minimise the effects of circadian and post-prandial changes in phosphate and creatinine [@imel2012a].  
 
@@ -65,13 +78,30 @@ If TRP > 0.86 then values lie on splay and...
 
 There is some evidence that using the equation is less likely result in errors [@barth2000].  
 
+
 ### Reference ranges
 
-As a general rule, TRP < 0.8 is abnormal (or < 0.9 if P~PO4~ < 0.8 mM).  
+The normal renal response to hypophosphateaemia is to drop FEPO~4~ to 5% (i.e. TRP \> 0.95).  
 
-Age-specific reference ranges for TmP/GFR have been reported [@payne1998a].  These are approximately the same as reference ranges for P~PO4~.  
+Therefore, FEPO~4~ \> 20% (TRP \< 0.8) is abnormal; or 10% and 0.9 if P~PO4~ \< 0.8 mM).  
 
-## Causes of hypophosphataemia  
+Age-specific reference ranges for TmP/GFR have been reported [@payne1998a].  These are approximately the same as reference ranges for P~PO4~.  In other words, [TmP/GFR < 0.8 mM](https://pubmed.ncbi.nlm.nih.gov/17895770/) indicates renal phosphate wasting in hypophosphataemia.  
+
+
+## Hypophosphataemia
+
+### Consequences
+
+Largely due to lack of ATP:  
+
+- osteomalacia  
+- muscle weakness / respiratory failure  
+- arrhythmia  
+- rhabdo  
+- metabolic acidosis  
+- haemolytic anaemia  
+
+### Causes of hypophosphataemia  
 
 The differential diagnosis and diagnostic approach is reviewed by Imel & Econs [-@imel2012a].  
 
@@ -96,55 +126,99 @@ Broadly, hypophosphataemia may be due to:
 <table>
 <tbody>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TRANSCELLULAR SHIFTS (TMP/GFR NOT LOW) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> CELLULAR SHIFTS </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> respiratory </td>
    <td style="text-align:left;"> respiratory alkalosis </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TRANSCELLULAR SHIFTS (TMP/GFR NOT LOW) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> metabolic </td>
    <td style="text-align:left;"> re-feeding syndrome </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> IMPAIRED GI ABSORPTION (TMP/GFR NOT LOW) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> hungry bones </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> LOW GI ABSORPTION </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> vit D-indep </td>
    <td style="text-align:left;"> poor dietary intake </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> IMPAIRED GI ABSORPTION (TMP/GFR NOT LOW) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> vit D-indep </td>
-   <td style="text-align:left;"> malabsorption (including in EtOH XS) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> malabsorption (usually EtOH XS) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> IMPAIRED GI ABSORPTION (TMP/GFR NOT LOW) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> vit D-indep </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> phosphate binders (including antacids) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> IMPAIRED GI ABSORPTION (TMP/GFR NOT LOW) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> vit D-dep </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> liver disease </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> vitamin D deficient / impaired signalling </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES (TMP/GFR LOW) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-dep </td>
    <td style="text-align:left;"> inherited (e.g. XLH, fibrous dysplasia…) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES (TMP/GFR LOW) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-dep </td>
-   <td style="text-align:left;"> acquired (e.g. tumour-associated osteomalacia, post-renal transplant…) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> acquired (e.g. tumour-induced osteomalacia, post-transplant…) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES (TMP/GFR LOW) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-indep </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> without Fanconi (hyperPTH, diuretics, HHRH) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES (TMP/GFR LOW) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-indep </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> with Fanconi syndrome (inherited or acquired) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> MISCELLANEOUS </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-dep </td>
+   <td style="text-align:left;"> IV iron (inhibits FGF-23 clearance) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> sepsis / burns </td>
   </tr>
 </tbody>
 </table>
+
+### Notes on specific causes
+
+**Renal phosphate wasting:**
+
+Outside of the post-transplant setting, the only three possible causes are:  
+
+i) Fanconi syndrome  
+ii) hereditary hypophosphataemic rickets  
+iii) TIO  
+
+
+**Hereditary hypophosphataemic rickets:**
+Almost always X-linked (PHEX mutations - leading to increased FGF-23).  
+
+<br>
+
+**TIO**
+
+- benign mesenchymal tumours secreting FGF-23 (or sometimes other phosphatonins)  
+- isolated hypoPO4  
+- usually profound and symptomatic (multiple pathological fractures)  
+- differentiated from genetic causes by historically normal phosphate level  
+- usually very hard to find the tumour; can use MRI, PET but Ix of choice is dotadate scan (used for NET tumours)  
 

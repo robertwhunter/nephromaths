@@ -18,9 +18,7 @@ df_table %>% table_2cols()
 
 ```
 
-<!--
-![](figures/HyperCa_drugs.png)
--->
+<!-- ![](figures/HyperCa_drugs.png) -->
 
 ## Investigations in hypercalcaemia:
 

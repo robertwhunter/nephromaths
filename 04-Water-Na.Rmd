@@ -137,8 +137,13 @@ The causes of hyponatraemia can be classified by volume status, U~Osm~ and U~Na~
 
 ### Drug causes of hyponatraemia
 
-![](figures/HypoNa_drugs.png)
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+source('~/OneDrive - University of Edinburgh/R files/R Scripts/Markdown_tables.R')
+df_table <- read.csv("tables/HypoNa_drugs.csv", header = FALSE)
 
+df_table %>% table_2cols()
+
+```
 
 
 ### Correction for hyperglycaemia  
@@ -307,6 +312,9 @@ Based on this, a popular approximate guide to fluid restriction is:
 
 <br>
 
+EFWC can also be monitored serially in hypoNa to determine whether the patient is getting better or not.  Ideally use short timed collections (e.g. 4 hrs) so can include urine volume.  Can run urine through an ABG machine to get immediate electrolyte content.  
+<br>
+
 ### Urine flow rate in hyponatraemia
 
 Patients with hypovolaemic hyponatraemia are at particular risk of "over-correction" - i.e. a rapid rise in P~Na~ that might precipitate osmotic demyelination.  This is because after the initial phases of volume resuscitation, the volume stimulus to ADH secretion is removed and there is then a profound osmotic stimulus suppressing ADH production.  
@@ -339,20 +347,43 @@ df_table %>% table_2cols()
 
 ## Hypernatraemia
 
-In contrast to hyponatraemia, which may pose a diagnostic conundrum, in hypernatraemia it is almost always easy to work out the underlying cause.  Hypernatraemia is caused by loss of free water (dehydration).  Because the thirst resoponse is such a powerful negative feedback controlled of P~Osm~, in most cases hypernatraemia arises through *lack of access to water* rather than excessive water losses *per se*.  This is often iatrogenic: a classic example being the patient with chronic diabetes insipidus who, having been used to drinking many litres of water per day, becomes hypernatraemic when they are admitted to hospital and their access to water is limited.  
+### Causes of hypernatraemia    
 
-```{block2, type='eqnpanel'}
-\begin{equation}
+In contrast to hyponatraemia, which may pose a diagnostic conundrum, in hypernatraemia it is almost always easy to work out the underlying cause.  Hypernatraemia is caused by loss of free water (dehydration) or gain of Na.  
 
-  \text{water excess } = TBW \times (1-\frac{P_{Na}}{140})
-  (\#eq:aqxs)
-\end{equation}
+```{r echo = FALSE, message = FALSE}
+
+NA_sub_x <- function(df, x) {
+  df[is.na(df)] <- x
+  return(df)
+}
+
+df <- readr::read_csv("tables/hyperNa.csv", show_col_types = FALSE)
+df %>% NA_sub_x(' ') %>% knitr::kable(align = rep('c',4)) 
+
 ```
 
+Because the thirst resoponse is such a powerful negative feedback controlled of P~Osm~, in most cases hypernatraemia arises through *lack of access to water* rather than excessive water losses *per se*.  This is often iatrogenic: a classic example being the patient with chronic diabetes insipidus who, having been used to drinking many litres of water per day, becomes hypernatraemic when they are admitted to hospital and their access to water is limited.  
+
+Differential diagnosis of hypernatraemia due to free water deficiency:  
+
+![](figures/hyperNa_causes.png)
+
+### Diagnosis in hypernatraemia
+
+![](figures/hyperNa_algorithm.png)
+
+### Treatment of hypernatraemia  
 
 The treatment of hypernatraemia is simple: give more free water (either enterally or as intravenous 5% glucose).  The total body water deficit can be estimated as follows (where total body water, TBW is given by \@ref(eq:TBW)):
 
 ```{block2, type='eqnpanel'}
+
+\begin{equation}
+  \text{water excess } = TBW \times (1-\frac{P_{Na}}{140})
+  (\#eq:aqxs)
+\end{equation}
+
 \begin{equation}
   \text{water defecit } = TBW \times (\frac{P_{Na}}{140}-1)\approx \frac{P_{Na}-140}{3}
   (\#eq:aqdef)

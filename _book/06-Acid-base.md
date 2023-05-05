@@ -24,13 +24,13 @@ In book chapter:
 - base excreted as citrate (and other organic anions) to avoid v. high urine pH = calcium phosphate precipitation (pK 6.8)  
 
 -->
+## Acid-base homeostasis  
 
-## Normal ranges
+Summary of the dietary sources of acids and alkali and the role of the kidney in generating bicarbonate (to aid the excretion of non-volatile acid):
 
-- pH: *7.35 -- 7.45*
-- PaCO~2~: *4.6 -- 6.0 kPa; 1 kPa = 7.5 mmHg*
-- HCO~3~: *22 -- 30 mM*
-- BE: *± 2 mM*
+![](figures/acid_homeostasis.png)
+
+## pH
 
 \BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
   pH=-log[H^{+}]
@@ -45,6 +45,29 @@ In book chapter:
 
 
 ## Adaptation
+
+The relationship between pH, PaCO~2~ and HCO~3~ is described by the Henderson-Hasselbalch equation:  
+
+\BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
+  pH = pKa+log \frac{[A^-]}{[HA]}  
+  (\#eq:HH1)
+\end{equation}
+    
+\begin{equation}
+  pH = 6.1 + log \frac{[HCO_3]}{\alpha .PaCO_2}  
+  (\#eq:HH2)
+\end{equation}
+</div>\EndKnitrBlock{eqnpanel}
+
+This relationship can be visualised in 3D...
+
+![](figures/Davenport_3D.png)
+
+...or 2D in the form of a Davenport plot (shown below) - or alternatively as a Siggard-Anderson plot (pH vs. PaCO~2~ with BE nomogram lines).  
+
+![](figures/Davenport_1.png)
+
+![](figures/Davenport_2.png)
 
 Metabolic adaptation to respiratory alkalosis:  
 
@@ -88,18 +111,18 @@ The causes of a metabolic alkalosis can be classified as being either due to chl
    <td style="text-align:left;"> vomiting / NG losses </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> LOW ECF VOLUME = CHLORIDE-DEPLETION / CHLORIDE-RESPONSIVE </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> GI chloride loss </td>
    <td style="text-align:left;"> colonic villous adenoma / congenital chloride diarrhoea / high-volume ileostomy (rare) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> LOW ECF VOLUME = CHLORIDE-DEPLETION / CHLORIDE-RESPONSIVE </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> renal chloride loss </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> loop / thiazide diuretics * </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> LOW ECF VOLUME = CHLORIDE-DEPLETION / CHLORIDE-RESPONSIVE </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> renal chloride loss </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Bartter / Gitelman * </td>
   </tr>
   <tr>
@@ -108,34 +131,36 @@ The causes of a metabolic alkalosis can be classified as being either due to chl
    <td style="text-align:left;"> true mineralocorticoid XS (low-renin / high-renin) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NORMAL ECF VOLUME = CHLORIDE-RESISTANT </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> renal H + loss </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> apparent mineralocorticoid XS (and Liddle’s) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NORMAL ECF VOLUME = CHLORIDE-RESISTANT </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> renal H + loss </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Cushings </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NORMAL ECF VOLUME = CHLORIDE-RESISTANT </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> renal H + loss </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> post-hypercapnic alkalosis (UCl &lt; 10 mM) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NORMAL ECF VOLUME = CHLORIDE-RESISTANT </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> renal H + loss </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> milk-alkali syndrome </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NORMAL ECF VOLUME = CHLORIDE-RESISTANT </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> intracellular H + shift </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> hypokalaemia </td>
   </tr>
 </tbody>
 </table>
 
 \* in chloride-responsive states UCl \< 10 mM except where chloride is being lost in the urine (i.e. diuretics / Gitelman / Barrter syndrome).
+
+As a general rule, extreme alkalosis (HCO~3~ \> 45 mM) can *only* be due to vomiting (and consider pyloric stenosis / Zollinger Ellison syndrome).  
 
 Post-hypercapnic alkalosis occurs if chronic hypercapnia suddenly corrected (e.g. by mechanical ventilation).
 
@@ -332,7 +357,7 @@ Differential diagnosis of a wide-gap metabolic acidosis:
 
 Propylene glycol (a solvent for parenteral medications: lorazepam, diazepam, phenobarbital) is metabolised to L- and D-lactate.
 
-\* WGMA with elevated OG = EtOH ketoacidosis, MeOH and the glycols. The OG is NOT elevated with salicylates. There is a time-dependant conversion from OG to AG following ingestion of toxic alcohol (metabolites are charged and bind to Na). 
+\* WGMA with elevated OG = EtOH ketoacidosis, MeOH and the glycols. The OG is NOT elevated with salicylates. There is a time-dependant conversion from OG to AG following ingestion of toxic alcohol (EG > glycolic acid > oxalate). 
 
 NB Ethylene glycol = high lactate (false +ve) on ABG machine but not formal lab assay.  
 
@@ -369,13 +394,13 @@ The causes can be classified using the urinary anion gap \@ref(eq:urineAGap) and
    <td style="text-align:left;"> RTA type I (always) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> POS U AG (UNABLE TO ACIDIFY URINE) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> RTA </td>
    <td style="text-align:left;"> RTA type IV (always) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> POS U AG (UNABLE TO ACIDIFY URINE) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> RTA </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> RTA type II (sometimes) * </td>
   </tr>
   <tr>
@@ -384,28 +409,28 @@ The causes can be classified using the urinary anion gap \@ref(eq:urineAGap) and
    <td style="text-align:left;"> RTA type II (sometimes) * </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NEG U AG (ABLE TO ACIDIFY URINE) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> renal (FEHCO3 &gt; 10 – 15 %) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> RTA of renal insufficiency (GFR &gt; 15) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NEG U AG (ABLE TO ACIDIFY URINE) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> extrarenal (FEHCO3 &lt;&lt; 5 % **) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> diarrhoea (GI HCO3 loss) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NEG U AG (ABLE TO ACIDIFY URINE) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> extrarenal (FEHCO3 &lt;&lt; 5 % **) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> ureteric diversion </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NEG U AG (ABLE TO ACIDIFY URINE) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> extrarenal (FEHCO3 &lt;&lt; 5 % **) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> pancreatic secretions </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NEG U AG (ABLE TO ACIDIFY URINE) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> extrarenal (FEHCO3 &lt;&lt; 5 % **) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> biliary secretions </td>
   </tr>
 </tbody>
@@ -413,7 +438,7 @@ The causes can be classified using the urinary anion gap \@ref(eq:urineAGap) and
 
 \* The UAG is positive in all distal RTA. It may be positive or negative in proximal RTA.
 
-\*\* FEHCO~3~ also \< 5 % in dRTA.
+\*\* FEHCO~3~ also \< 5 % in dRTA.  
 
 \BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
   FE_{HCO_{3}} = \frac{U_{HCO_{3}}}{P_{HCO_{3}}} \times \frac{P_{Creat}}{U_{Creat}}
@@ -424,6 +449,8 @@ The causes can be classified using the urinary anion gap \@ref(eq:urineAGap) and
 Hyperchloraemic acidosis may also be caused by iatrogenic `chloride excess`.  This may be particularly pronounced when IV NaCl is used to replace losses of urinary anions that represent a store of "potential bicarbonate" - e.g. ketone bodies or D-lactate [@sabatini2009].
 
 Historically, TPN was a cause of "hyperalimentation acidosis" (as cationic amino acids were metabolised to sulphuric acid) - but contemporary formulations contain a source of potential bicarbonate (e.g. acetate) to offset this.  
+
+HCMA in the context of urinary diverstion occurs because colonic epithelium (used to construct neo-bladder) contains a Cl/HCO~3~ exchanger.  Therefore chloride-rich urine promotes massive HCO3~3~ secretion.  Colonic epithelium is also permeable to NH~3~ so that bacterial urease activity can cause hyperammonaemic encephalopathy.  
 
 ### Cautions in the interpretation of UAG
 
@@ -482,6 +509,12 @@ Free [H^+^] is nM, but we need to excrete mmoles (1 mmol / kg on Western diet), 
     +  *UCa \> 4 mg / kg / day (or spot UCa/Cr \> 0.2) in type I RTA* 
     +  *USS / KUB (medullary nephrocalcinosis in type I RTA)* 
     +  *urinary citrate (low in type I RTA; high in type II / IV RTA)*  
++  kidney biopsy (to detect subclinical TIN)  
+    
+To meausure urine pH must use a well-calibrated pH meter - and either analyse immediately (literally straight away) or collect under mineral oil and can then test at leisure.  (So if pH meter being housed in the lab then must collect under mineral oil.)  Otherwise CO2 will diffuse in, be converted to bicarbonate and raise the pH (i.e. risk of false-positive F&F test leading to erroneous dRTA diagnosis).  
+
+Test urinary RBP (retinol binding protein) as the most sensitive marker of proximal renal tubular dysfunction - good in sarcoid, Sjogren's etc.  Good for diagnosis and for tracking disease activity.  
+
 
 ### Causes
 
@@ -526,7 +559,7 @@ Free [H^+^] is nM, but we need to excrete mmoles (1 mmol / kg on Western diet), 
    <td style="text-align:left;"> inherited </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (ISOLATED) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> acquired </td>
    <td style="text-align:left;"> topiramate </td>
   </tr>
@@ -536,118 +569,118 @@ Free [H^+^] is nM, but we need to excrete mmoles (1 mmol / kg on Western diet), 
    <td style="text-align:left;"> NBCe1A (AR with ocular abnormalities) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> metabolic </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Wilson's </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> metabolic </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> cystinosis </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> metabolic </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> fructose intolerance </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> metabolic </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Dent disease </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> metabolic </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> mitochondrial cytopathies </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> dysproteinaemia </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> myeloma </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> dysproteinaemia </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> LCDD </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> dysproteinaemia </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> LCFS is κ in 96 %, </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> dysproteinaemia </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> amyloid </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> TIN </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Sjogren's </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> TIN </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> other TIN </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> TIN </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> allograft rejection </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> drugs (Abx / cART) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> tenofovir </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> drugs (Abx / cART) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> lamivudine </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> drugs (Abx / cART) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> aminoglycosides </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> drugs (Abx / cART) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> outdated tetracyclines </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> drugs (other) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> cisplatin </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> drugs (other) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> valproate </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> drugs (other) </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> lenalinomide </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> toxins </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Pb </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> toxins </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Hg </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> toxins </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Cd </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> PRTA (WITH FANCONI) </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> toxins </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> aristolochic acid </td>
   </tr>
   <tr>
@@ -656,93 +689,93 @@ Free [H^+^] is nM, but we need to excrete mmoles (1 mmol / kg on Western diet), 
    <td style="text-align:left;"> AEI (AR) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> inherited </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> H-ATPase B1 (AR with SNHL) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> inherited </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> H-ATPase A4 (AR) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> TIN </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> chronic pyelonephritis </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> TIN </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> chronic TIN </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> TIN </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> obstructive uropathy </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> TIN </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> sickle cell </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> TIN </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> allograft rejection </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> autoimmune </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> hypergammaglobulinaemia </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> autoimmune </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> SLE </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> autoimmune </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Sjogren's </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> autoimmune </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> chronic active hepatitis </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> autoimmune </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> PBC </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> drugs </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Li+ </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> drugs </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> amphoterocin </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> drugs </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> toluene </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> nephrocalcinosis </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> hyperPTH </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> nephrocalcinosis </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> idiopathic hypercalciuria </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> DRTA </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> nephrocalcinosis </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> MSK </td>
   </tr>
   <tr>
@@ -751,58 +784,58 @@ Free [H^+^] is nM, but we need to excrete mmoles (1 mmol / kg on Western diet), 
    <td style="text-align:left;"> DM </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> low renin </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> NSAIDs </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> low renin </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> CNIs </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> low renin </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> β– </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> high renin </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> Addison's </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> high renin </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> CAH </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> high renin </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> ACEi / ARB </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> high renin </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> heparin </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> high renin </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> ketoconazole </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> abnormal CD </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> TIN </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> abnormal CD </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> sprionolactone / amiloride </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE IV </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> abnormal CD </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> trimethoprim </td>
   </tr>
   <tr>
@@ -811,14 +844,15 @@ Free [H^+^] is nM, but we need to excrete mmoles (1 mmol / kg on Western diet), 
    <td style="text-align:left;"> CAII (AR with osteopetrosis / cerebral calcification) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> TYPE III </td>
-   <td style="text-align:left;font-style: italic;background-color: white !important;"> acquired </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> topiramate (CA inhibition) </td>
   </tr>
 </tbody>
 </table>
 
-Sjogrens classically causes a dRTA (but can also cause pRTA if interstitial nephritis).
+Sjogrens classically causes a dRTA (but can also cause pRTA if interstitial nephritis).  Autoimmune dRTA is Sjogrens in 80 - 90%.  Subclinical tubular involvment in 30% Sjorens.  Often associated with hypocitruria and low-grade features of Fanconi syndrome.  Treat CIN with MMF or pred / RTX.  Treat dRTA with K citrate.  Autoantibodies to H+-ATPase or bicarb exchanger.  
+
 
 Mitochondrial cytopathy: raised CK, abnormal number of microchondria (EM).
 
@@ -826,3 +860,22 @@ Mitochondrial cytopathy: raised CK, abnormal number of microchondria (EM).
 
 <!-- +  K citrate  -->
 <!-- +  +/- NaHCO~3~  -->
+
+#### Fanconi syndrome
+
+In adults, usually acquired:
+
+- tenfovir and other drugs  
+- heavy metals  
+- LCCD  
+- post-Tx  
+
+
+Check for:
+
+- LMWH proteinuria (e.g. retinol binding protein; high uPCR with a negative dip)  
+- uricosuria  
+- phosphaturia  
+- renal glycosuria  
+
+LMW proteinuria is the most sensitive test (because megalin is the most energy-sensitive process and therefore most vulnerable to becoming disrupted).  Glycosuria appears last (least energy-sensitive process).    

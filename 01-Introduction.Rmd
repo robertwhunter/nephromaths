@@ -4,7 +4,7 @@
 >
 > --- Homer Smith, 1951
 
-One of the great attractions of renal physiology is that is amenable to simple quantitative analysis. Long before we learnt of their molecular basis, the fundamental processes of the kidney were understood by Homer Smith and others in terms of simple quantitative models. 
+One of the great attractions of renal physiology is that is amenable to simple quantitative analysis. Long before we learnt of their molecular basis, the fundamental processes of the kidney were understood by Homer Smith and others in terms of quantitative models. 
 
 In learning these models, the student of nephrology comes to understand the physical basis of the underlying physiology. For example, the *fractional excretion* \@ref(eq:FEX) of a substance is a concept that considers glomerular filtration and tubular reabsorption as independent, sequential processes: as they are in reality. Moreover these equations can be used to diagnose electrolyte and acid-base disorders and to guide their clinical management.  
 

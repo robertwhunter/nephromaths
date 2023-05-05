@@ -21,11 +21,11 @@ Drug causes of hypercalcaemia:
    <td style="text-align:left;"> thiazide diuretics </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Impaired urinary Ca2+ excretion </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;"> calcium-containing antacid preps (milk-alkali) </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Impaired urinary Ca2+ excretion </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;"> lithium </td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@ Drug causes of hypercalcaemia:
    <td style="text-align:left;"> vitamin D preparations </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Increased absorption </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;"> calcium-containing antacid preps (milk-alkali) </td>
   </tr>
   <tr>
@@ -45,15 +45,13 @@ Drug causes of hypercalcaemia:
    <td style="text-align:left;"> vitamin A </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Reduced bone buffering </td>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;"> anti-oestrogens </td>
   </tr>
 </tbody>
 </table>
 
-<!--
-![](figures/HyperCa_drugs.png)
--->
+<!-- ![](figures/HyperCa_drugs.png) -->
 
 ## Investigations in hypercalcaemia:
 

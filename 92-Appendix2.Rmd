@@ -1,0 +1,19 @@
+# Appendix 2 - rules of thumb {#app2}
+
+## pH and [H^+^]
+
+[H^+^] = 80 minus the first two digits of pH after the decimal point.  
+
+PaCO~2~: 1 kPa = 7.5 mmHg.  
+
+## Urine specific gravity and UOsm  
+
+300 mOsm per 0.01 units of SG.    
+
+Therefore:  
+
+- SG 1.010 = 300 mOsm
+- SG 1.020 = 600 mOsm
+- SG 1.030 = 900 mOsm
+
+Caution after radiocontrast.  

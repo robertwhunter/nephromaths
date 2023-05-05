@@ -42,10 +42,10 @@ In the `maintenence phase`, several renal tubular processes act to sustain the m
 
 ![](figures/vomiting1.png)
 
-1) volume depletion causes increased NHE3 activity    
-2) low [Cl] at MD stimulates renin release (and hence aldosterone) - contributing to kaliuresis    
-3) lack of distal tubular Cl limits Cl/HCO~3~ exchange by pendrin and hence stops HCO~3~ secretion by B-type intercalated cells   
-4) lack of distal tubular Cl favours electrogenic Na^+^ exchange – hence H^+^ excretion and K^+^ excretion
+1) volume depletion causes increased NHE3 activity  
+2) low [Cl] at MD stimulates renin release (and hence aldosterone) - contributing to kaliuresis  
+3) lack of distal tubular Cl limits Cl/HCO~3~ exchange by pendrin and hence stops HCO~3~ secretion by B-type intercalated cells  
+4) lack of distal tubular Cl favours electrogenic Na^+^ exchange – hence H^+^ excretion and K^+^ excretion  
 
 This results in a paradoxically acid urine and kaliuresis.  
 
@@ -56,7 +56,7 @@ Burton Rose described two phases of the renal response to vomiting:
 +  early *(\< 3 days)* : pH \> 6.5, high Na, high K, low Cl, high HCO~3~ (*all high except chloride)*
 +  late *(day 4+)* : pH \< 5.5, low Na, low K, low Cl, low HCO~3~ *(all low)*
 
-Early after vomiting, metabolic alkalosis means that XS HCO~3~ is filtered, and the kidney cannot reabsorb this. Therefore bicarbonaturia drives natriuresis and kaliuresis (from increased distal Na delivery +/- volume contraction simulating aldosterone). By day 4, the kidney has upregulated ability to reabsorb HCO~3~, so natriuresis and kaliuresis abates, with paradoxically acid urine.
+Early after vomiting, metabolic alkalosis means that XS HCO~3~ is filtered, and the kidney cannot reabsorb this. Therefore bicarbonaturia drives natriuresis and kaliuresis (from increased distal Na delivery +/- volume contraction simulating aldosterone). By day 4, the kidney has upregulated ability to reabsorb HCO~3~, so natriuresis and kaliuresis abates, with paradoxically acid urine.  
 
 ### Quantitative assessment after vomiting
 
@@ -79,7 +79,7 @@ This will of course under-estimate the true volume of vomit as it does not take 
 
 ### Diarrhoea
 
-The consequences of diarrhoea are a little more straightforward.  GI losses of bicarbonate and potassium tend to give rise to a metabolic (hyperchloraemic) acidosis and hypokalaemia [@gennari2008].  
+The consequences of diarrhoea are more straightforward.  GI losses of bicarbonate and potassium tend to give rise to a metabolic (hyperchloraemic) acidosis and hypokalaemia [@gennari2008].  
 
 
 ## Drugs 
@@ -95,7 +95,7 @@ Balanced crystalloids contain lactate, acetate or gluconate, which are metabolis
 
 ![](figures/crystalloids.png)
 
-It is helpful to consider electrolyte supplements in the context of normal dietary intake:  
+It can be helpful to consider electrolyte supplements in the context of normal dietary intake:  
 
 
 |source                        |Na   |K    |Cl  |HCO3 |urea |
@@ -141,7 +141,7 @@ Potassium:
 
 ## Diet  
 
-Meat-based diets generate acid.  H^+^ production is approximately 1mmol/kg body weight on an omnivorous diet.  A diet based on fruit and vegetables will generate an alkali load [@kamel1990a].  
+Meat-based diets generate acid.  H^+^ production is approximately 1mmol/kg body weight on an omnivorous diet.  A diet based on fruit and vegetables will generate a net alkali load [@kamel1990a].  
 
 
 ## Basic set of investigations
@@ -164,6 +164,7 @@ Ideally, investigations should be targeted to address a specific clinic question
     + K^+^  
     + Cl^--^  
     + osmolality  
+    + creatinine  
 </div>\EndKnitrBlock{algpanel}
 
 
