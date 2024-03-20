@@ -1,0 +1,105 @@
+# Metabolic alkalosis (& chloride homeostasis)  
+
+### Causes of a metabolic alkalosis  
+
+The causes of a metabolic alkalosis can be classified as being either due to chloride depletion (and therefore `chloride responsive`) or due to other causes (`chloride resistant`) [@luke2012a].  
+
+<!-- +  low ECF volume = chloride-depletion / contractional = chloride-responsive  -->
+<!--     +  *vomiting / NG losses*  -->
+<!--     +  *loop / thiazide diuretics \**  -->
+<!--     +  *Bartter's / Gitelman's \**  -->
+<!--     +  *colonic villous adenoma / congenital chloride diarrhoea / high-volume ileostomy (rare)*   -->
+
+<!-- +  normal ECF volume = chloride-resistant  -->
+<!--     +  renal H + loss  -->
+<!--         +  *true mineralocorticoid XS (low-renin / high-renin)*  -->
+<!--         +  *apparent mineralocorticoid XS (and Liddle's)*  -->
+<!--         +  *Cushings*  -->
+<!--         +  *post-hypercapnic alkalosis (UCl \< 10 mM)*  -->
+<!--         +  *milk-alkali syndrome*   -->
+<!--     +  intracellular H + shift  -->
+<!--         +  *hypokalaemia*   -->
+
+<table>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> LOW ECF VOLUME = CHLORIDE-DEPLETION / CHLORIDE-RESPONSIVE </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> GI chloride loss </td>
+   <td style="text-align:left;"> vomiting / NG losses </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> GI chloride loss </td>
+   <td style="text-align:left;"> colonic villous adenoma / congenital chloride diarrhoea / high-volume ileostomy (rare) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> loop / thiazide diuretics * </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> Bartter / Gitelman * </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> NORMAL ECF VOLUME = CHLORIDE-RESISTANT </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> renal H + loss </td>
+   <td style="text-align:left;"> true mineralocorticoid XS (low-renin / high-renin) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> apparent mineralocorticoid XS (and Liddle’s) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> Cushings </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> post-hypercapnic alkalosis (UCl &lt; 10 mM) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> milk-alkali syndrome </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> hypokalaemia </td>
+  </tr>
+</tbody>
+</table>
+
+\* in chloride-responsive states UCl \< 10 mM except where chloride is being lost in the urine (i.e. diuretics / Gitelman / Barrter syndrome).
+
+As a general rule, extreme alkalosis (HCO~3~ \> 45 mM) can *only* be due to vomiting (and consider pyloric stenosis / Zollinger Ellison syndrome).  
+
+Post-hypercapnic alkalosis occurs if chronic hypercapnia suddenly corrected (e.g. by mechanical ventilation).
+
+The milk-alkali syndrome is the triad of hypercalcaemia, metabolic alkalosis and ingestion of large quantities of calcium with alkali; hypercalcaemia increases renal bicarbonate reabsorption (exacerbating alkalosis).
+
+
+### Chloride
+
+U~Cl~ NR = 100 -- 250 mmol / 24 hrs
+
+In chloride-responsive alkalosis, UCl \< 10 mM:  
+
+- vomiting  
+- villous adenoma  
+- congenital chloride diarrhoea  
+- recent diuretics (pause on clinic day in surruptitious use)
+
+In chloride-resistant alkalosis UCl \> 10 -- 30 mM (and also if chloride loss is due to diuretics / tubulopathies).  
+
+UCl is persistently low after vomiting and is therefore a useful test for surreptitious vomiting.
+
+
+#### Chloride-depletion alkalosis
+
+In chloride depletion, reduced ECF volume leads to reduced GFR (less filtered NaHCO~3~) and increased Na reabsorption. Thus NaHCO~3~ reabsorption is increased. Increased distal Na reabsorption leads to increased acid excretion.  Therefore, after [vomiting](#vomit), an acid urine is produced (paradoxically) in the face of a metabolic alkalosis. Treatment is volume expansion with NaCl and correction of hypoK.

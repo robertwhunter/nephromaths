@@ -1,0 +1,165 @@
+# (PART) Phosphate, Calcium, Magnesium {-}
+
+# Phosphate
+
+## Urinary phosphate
+
+The usual reason to measure urinary phosphate excretion is to distinguish renal from extra-renal phosphate wasting in chronic hypophosphataemia.  Renal phosphate wasting may occur in isolation or as part of a Fanconi syndrome [@imel2012a].  
+
+### General approach
+
+Usually simplest and therefore preferable to calculate FEPO~4~ (or TRP) rather than TmP/GFR.  
+
+Other investigations in hypophosphataemia:  
+
+- repeat plasma phosphate (often transient and may have self-corrected)  
+- Ca, PTH (+/- vitD)  
+- Fanconi screen (LMWH proteinuria, uricosuria, glycosuria)  
+- DEXA (low BMD vs. osteomalacia)  
+
+### Measuring urinary phosphate and calculating TmP/GFR {#TMPGFR}
+
+A fasted, morning sample is preferred to minimise the effects of circadian and post-prandial changes in phosphate and creatinine [@imel2012a].  
+
+```{block2, type='algpanel'}
+**Spot urine sample to measure phosphate excretion**:  
+
+- fast overnight; discard the first urine void of the day  
+- collect second voided urine of the day and a paired blood sample  
+- send blood for U&Es, phosphate (and often also HCO~3~, calcium, alkaline phosphatase, PTH, vitamin D...)  
+- send urine for U~Cr~ and U~PO4~ (and often also calcium)  
+- interpret results by calculating TRP or TmP/GFR  
+
+```
+
+```{block2, type='eqnpanel'}
+\begin{equation}
+  \text{fractional excretion of phosphate, }FE_{PO_{4}} = \frac{U_{PO_{4}}}{P_{PO_{4}}} \times \frac{P_{Creat}}{U_{Creat}}
+  (\#eq:FEPO4)
+\end{equation}
+
+\begin{equation}
+  \text{tubular re-absorption of phosphate, }TRP = 1 - FE_{PO_{4}}
+  (\#eq:TRP)
+\end{equation}
+
+```
+
+It may be preferable to express results in terms of the **maximum reabsorption rate** of phosphate, TmP.  Because net phosphate transport will be largely determined by filtered load, this is usually expressed per unit volume of glomerular filtrate: as **TmP/GFR**.  TmP is a *rate* of transport (mg per min); GFR is a rate of flow (ml per min); therefore TmP/GFR is a concentration (mg/ml or mM).  This concentration is the P~PO4~ threshold above which phosphate will appear in the urine [@bijvoet1969].  
+
+This measure is conceptually complex, but offers a number of potential advantages: 
+
+i) it represents a relevant physiological paramater (the capacity of the renal tubule to re-absorb phosphate)  
+
+ii) there are well-defined, age-specific reference ranges (see below)  
+
+Strictly speaking, TmP/GFR can only be determined by subjecting individuals to continuous intravenous phosphate infusions.  However, it can be estimated from the TRP using one of two methods.  
+
+The first is to consult a Walton-Bijvoet *nomogram* [@imel2012a].
+
+The second is to use an *equation* derived by Kenny & Glen [@payne1998a]: 
+
+```{block2, type='eqnpanel'}
+If TRP $\leq$ 0.86 then values lie on linear portion of curve and...
+
+\begin{equation}
+  \text{TmP/GFR} = TRP \times P_{PO_{4}}
+  (\#eq:TmPGFRone)
+\end{equation}
+
+            
+If TRP > 0.86 then values lie on splay and...
+
+\begin{equation}
+  \text{TmP/GFR} = \alpha \times P_{PO_{4}}
+  (\#eq:TmPGFRtwo)
+\end{equation}
+      
+...where,
+
+\begin{equation}
+  \alpha = \frac{0.3 \times TRP}{1 - (0.8 \times TRP)}
+  (\#eq:TmPGFR2alpha)
+\end{equation}
+
+```
+
+There is some evidence that using the equation is less likely result in errors [@barth2000].  
+
+
+### Reference ranges
+
+The normal renal response to hypophosphateaemia is to drop FEPO~4~ to 5% (i.e. TRP \> 0.95).  
+
+Therefore, FEPO~4~ \> 20% (TRP \< 0.8) is abnormal; or 10% and 0.9 if P~PO4~ \< 0.8 mM).  
+
+Age-specific reference ranges for TmP/GFR have been reported [@payne1998a].  These are approximately the same as reference ranges for P~PO4~.  In other words, [TmP/GFR < 0.8 mM](https://pubmed.ncbi.nlm.nih.gov/17895770/) indicates renal phosphate wasting in hypophosphataemia.  
+
+
+## Hypophosphataemia
+
+### Consequences
+
+Largely due to lack of ATP:  
+
+- osteomalacia  
+- muscle weakness / respiratory failure  
+- arrhythmia  
+- rhabdo  
+- metabolic acidosis  
+- haemolytic anaemia  
+
+### Causes of hypophosphataemia  
+
+The differential diagnosis and diagnostic approach is reviewed by Imel & Econs [-@imel2012a].  
+
+Broadly, hypophosphataemia may be due to:  
+
+<!-- a) transcellular shifts (TmP/GFR not low):  -->
+<!--   - respiratory alkalosis  -->
+<!--   - re-feeding syndrome   -->
+
+<!-- b) impaired GI absorption (TmP/GFR not low):  -->
+<!--   - poor dietary intake  -->
+<!--   - malabsorption (including in EtOH XS)  -->
+<!--   - vitamin D deficient / impaired signalling  -->
+<!--   - phosphate binders (including antacids)   -->
+
+<!-- c) renal losses (TmP/GFR low):  -->
+<!--   - FGF23-dep: inherited (e.g. XLH, fibrous dysplasia...)  -->
+<!--   - FGF23-dep: acquired (e.g. tumour-associated osteomalacia, post-renal transplant...)  -->
+<!--   - FGF23-indep: without Fanconi (hyperPTH, diuretics, HHRH)  -->
+<!--   - FGF23-indep: with Fanconi syndrome (inherited or acquired)   -->
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+source('~/OneDrive - University of Edinburgh/R files/R Scripts/Markdown_tables.R')
+df_table <- read.csv("tables/hypoP.csv", header = FALSE)
+
+df_table %>% table_3cols(caps = T)
+
+```
+
+### Notes on specific causes
+
+**Renal phosphate wasting:**
+
+Outside of the post-transplant setting, the only three possible causes are:  
+
+i) Fanconi syndrome  
+ii) hereditary hypophosphataemic rickets  
+iii) TIO  
+
+
+**Hereditary hypophosphataemic rickets:**
+Almost always X-linked (PHEX mutations - leading to increased FGF-23).  
+
+<br>
+
+**TIO**
+
+- benign mesenchymal tumours secreting FGF-23 (or sometimes other phosphatonins)  
+- isolated hypoPO4  
+- usually profound and symptomatic (multiple pathological fractures)  
+- differentiated from genetic causes by historically normal phosphate level  
+- usually very hard to find the tumour; can use MRI, PET but Ix of choice is dotadate scan (used for NET tumours)  
+

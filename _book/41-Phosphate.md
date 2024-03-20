@@ -1,3 +1,5 @@
+# (PART) Phosphate, Calcium, Magnesium {-}
+
 # Phosphate
 
 ## Urinary phosphate
@@ -19,19 +21,16 @@ Other investigations in hypophosphataemia:
 
 A fasted, morning sample is preferred to minimise the effects of circadian and post-prandial changes in phosphate and creatinine [@imel2012a].  
 
-```{block2, type='algpanel'}
-**Spot urine sample to measure phosphate excretion**:  
+\BeginKnitrBlock{algpanel}<div class="algpanel">**Spot urine sample to measure phosphate excretion**:  
 
 - fast overnight; discard the first urine void of the day  
 - collect second voided urine of the day and a paired blood sample  
 - send blood for U&Es, phosphate (and often also HCO~3~, calcium, alkaline phosphatase, PTH, vitamin D...)  
 - send urine for U~Cr~ and U~PO4~ (and often also calcium)  
 - interpret results by calculating TRP or TmP/GFR  
+</div>\EndKnitrBlock{algpanel}
 
-```
-
-```{block2, type='eqnpanel'}
-\begin{equation}
+\BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
   \text{fractional excretion of phosphate, }FE_{PO_{4}} = \frac{U_{PO_{4}}}{P_{PO_{4}}} \times \frac{P_{Creat}}{U_{Creat}}
   (\#eq:FEPO4)
 \end{equation}
@@ -40,8 +39,7 @@ A fasted, morning sample is preferred to minimise the effects of circadian and p
   \text{tubular re-absorption of phosphate, }TRP = 1 - FE_{PO_{4}}
   (\#eq:TRP)
 \end{equation}
-
-```
+</div>\EndKnitrBlock{eqnpanel}
 
 It may be preferable to express results in terms of the **maximum reabsorption rate** of phosphate, TmP.  Because net phosphate transport will be largely determined by filtered load, this is usually expressed per unit volume of glomerular filtrate: as **TmP/GFR**.  TmP is a *rate* of transport (mg per min); GFR is a rate of flow (ml per min); therefore TmP/GFR is a concentration (mg/ml or mM).  This concentration is the P~PO4~ threshold above which phosphate will appear in the urine [@bijvoet1969].  
 
@@ -57,8 +55,7 @@ The first is to consult a Walton-Bijvoet *nomogram* [@imel2012a].
 
 The second is to use an *equation* derived by Kenny & Glen [@payne1998a]: 
 
-```{block2, type='eqnpanel'}
-If TRP $\leq$ 0.86 then values lie on linear portion of curve and...
+\BeginKnitrBlock{eqnpanel}<div class="eqnpanel">If TRP $\leq$ 0.86 then values lie on linear portion of curve and...
 
 \begin{equation}
   \text{TmP/GFR} = TRP \times P_{PO_{4}}
@@ -79,8 +76,7 @@ If TRP > 0.86 then values lie on splay and...
   \alpha = \frac{0.3 \times TRP}{1 - (0.8 \times TRP)}
   (\#eq:TmPGFR2alpha)
 \end{equation}
-
-```
+</div>\EndKnitrBlock{eqnpanel}
 
 There is some evidence that using the equation is less likely result in errors [@barth2000].  
 
@@ -129,13 +125,80 @@ Broadly, hypophosphataemia may be due to:
 <!--   - FGF23-indep: without Fanconi (hyperPTH, diuretics, HHRH)  -->
 <!--   - FGF23-indep: with Fanconi syndrome (inherited or acquired)   -->
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE}
-source('~/OneDrive - University of Edinburgh/R files/R Scripts/Markdown_tables.R')
-df_table <- read.csv("tables/hypoP.csv", header = FALSE)
-
-df_table %>% table_3cols(caps = T)
-
-```
+<table>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> CELLULAR SHIFTS </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> respiratory </td>
+   <td style="text-align:left;"> respiratory alkalosis </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> metabolic </td>
+   <td style="text-align:left;"> re-feeding syndrome </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> hungry bones </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> LOW GI ABSORPTION </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> vit D-indep </td>
+   <td style="text-align:left;"> poor dietary intake </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> malabsorption (usually EtOH XS) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> phosphate binders (including antacids) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> liver disease </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> vitamin D deficient / impaired signalling </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-dep </td>
+   <td style="text-align:left;"> inherited (e.g. XLH, fibrous dysplasia…) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> acquired (e.g. tumour-induced osteomalacia, post-transplant…) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> without Fanconi (hyperPTH, diuretics, HHRH) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> with Fanconi syndrome (inherited or acquired) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;"> MISCELLANEOUS </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-dep </td>
+   <td style="text-align:left;"> IV iron (inhibits FGF-23 clearance) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> sepsis / burns </td>
+  </tr>
+</tbody>
+</table>
 
 ### Notes on specific causes
 

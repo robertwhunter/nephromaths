@@ -1,0 +1,42 @@
+# Hypernatraemia
+
+### Causes of hypernatraemia    
+
+In contrast to hyponatraemia, which may pose a diagnostic conundrum, in hypernatraemia it is almost always easy to work out the underlying cause.  Hypernatraemia is caused by loss of free water (dehydration) or gain of Na.  
+
+
+|        Na gain        |    water loss     |   hypotonic fluid loss (renal)    | hypotonic fluid loss (other) |
+|:---------------------:|:-----------------:|:---------------------------------:|:----------------------------:|
+|      NaHCO\(_3\)      | insensible losses | osmotic diuresis (glucose, urea…) |     vomiting / NG losses     |
+|         NaCl          |    hypodipsia     |     post-obstructive diuresis     |          diarrhoea           |
+|     soy ingestion     |        NDI        |         post-ATI diuresis         |            burns             |
+|       sea water       |    central DI     |          loop diuretics           |           sweating           |
+| primary aldosteronism |  gestational DI   |                                   |                              |
+
+Because the thirst resoponse is such a powerful negative feedback controlled of P~Osm~, in most cases hypernatraemia arises through *lack of access to water* rather than excessive water losses *per se*.  This is often iatrogenic: a classic example being the patient with chronic diabetes insipidus who, having been used to drinking many litres of water per day, becomes hypernatraemic when they are admitted to hospital and their access to water is limited.  
+
+Differential diagnosis of hypernatraemia due to free water deficiency:  
+
+![](figures/hyperNa_causes.png)
+
+### Diagnosis in hypernatraemia
+
+![](figures/hyperNa_algorithm.png)
+
+### Treatment of hypernatraemia  
+
+The treatment of hypernatraemia is simple: give more free water (either enterally or as intravenous 5% glucose).  The total body water deficit can be estimated as follows (where total body water, TBW is given by \@ref(eq:TBW)):
+
+\BeginKnitrBlock{eqnpanel}<div class="eqnpanel">
+\begin{equation}
+  \text{water excess } = TBW \times (1-\frac{P_{Na}}{140})
+  (\#eq:aqxs)
+\end{equation}
+
+\begin{equation}
+  \text{water defecit } = TBW \times (\frac{P_{Na}}{140}-1)\approx \frac{P_{Na}-140}{3}
+  (\#eq:aqdef)
+\end{equation}
+</div>\EndKnitrBlock{eqnpanel}
+
+Armed with this estimate, fluid may be prescribed at an appropriate rate to achieve gradual restoration of normal plasma tonicity.  
