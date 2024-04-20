@@ -26,7 +26,7 @@ The causes of hyponatraemia can be classified by volume status, U~Osm~ and U~Na~
 
 ![](figures/Na_loop_annotated.png)
 
-### Drug causes of hyponatraemia
+## Drug causes of hyponatraemia
 
 <table>
 <tbody>
@@ -82,7 +82,7 @@ The causes of hyponatraemia can be classified by volume status, U~Osm~ and U~Na~
 </table>
 
 
-### Correction for hyperglycaemia  
+## Correction for hyperglycaemia  
 Hyponatraemia can result from an influx of water into the vascular (and interstitial) space in presence of an abnormaly high concentration of a plasma osmole.  The commonest such clinical scenario is that of hyperglycaemia.  (Hyponatraemia in this context is not dangerous *per se* because plasma tonicity is maintained near normal by glucose, an [effective osmole](#tonicity).)  
 <br>
 <br>
@@ -97,7 +97,7 @@ The value that P~Na~ will correct to with resolution of hyperglycaemia can be es
 NB alternatively this can calculated by adding 0.4 mM to measured P~Na~ for every 1 mM rise in P~glucose~.  The correction factor for haemodialysis patients is lower (0.27 mM for every 1 mM glucose) [@penne2010].  
 </div>\EndKnitrBlock{eqnpanel}
 
-### Urine sodium  
+## Urine sodium  
 
 In the steady-state, urinary sodium excretion will reflect sodium intake.  On a normal Western diet, daily NaCl intake might be ~9g (=154 mmoles) [@campbell2015].  If this were excreted in 2L or urine, then U~Na~ would be ~ 77mM.  
 <br>
@@ -122,7 +122,7 @@ U~Na~ will not accurately report EABV in the presence of any drug or disease tha
 + glycosuria  
 
 
-#### FE~Na~
+### FE~Na~
 
 Urine sodium levels can be expressed as a fractional excretion.  
 
@@ -252,61 +252,4 @@ The first clinical sign that over-correction is imminent is a rise in urine outp
     
 ...up to a maximum of 100 ml per hr
 </div>\EndKnitrBlock{eqnpanel}
-
-<br>
-
-### Drug causes of hyponatraemia
-
-<table>
-<tbody>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Mechanism </td>
-   <td style="text-align:left;"> Drugs </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Impaired urinary dilution </td>
-   <td style="text-align:left;"> thiazide diuretics </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Renal salt wasting </td>
-   <td style="text-align:left;"> NSAIDs / antibiotics / PPIs (if AIN) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> SIADH </td>
-   <td style="text-align:left;"> antidepressants (SSRIs, TCAs) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
-   <td style="text-align:left;"> antipsychotics </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
-   <td style="text-align:left;"> anticonvulsants (esp. carbemazepine) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
-   <td style="text-align:left;"> anti-cancer (vinscritine, cisplatin…) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
-   <td style="text-align:left;"> opioids </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
-   <td style="text-align:left;"> MDMA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Reset osmostat </td>
-   <td style="text-align:left;"> venlafaxine </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
-   <td style="text-align:left;"> carbamazepine </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;background-color: white !important;"> Excessive thirst </td>
-   <td style="text-align:left;"> MDMA </td>
-  </tr>
-</tbody>
-</table>
 

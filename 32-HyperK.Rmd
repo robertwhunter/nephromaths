@@ -1,2 +1,63 @@
 # Hyperkalaemia
 
+## Causes of hyperkalaemia  
+
+i)  spurious 
+ii) distribution (ECF/ICF shifts) 
+iii) impaired renal K^+^ excretion 
+
+Renal excretion of K^+^ may be impaired if any of the following are limited [@hunter2019]: 
+
+- GFR 
+- tubular flow rate 
+- delivery of Na^+^ to the distal nephron 
+- aldosterone signalling in the distal nephron 
+
+
+![](figures/K_loop_annotated.png)
+Hyperkalaemia is often due to an inappropriate shift from electrogenic to electroneutral Na^+^ reabsorption:  
+
+![](figures/hyperK_causes.png)
+
+Therefore the causes of hyperkalaemia are:  
+
+<!-- - excessive potassium load  -->
+<!--     - diet  -->
+<!--     - IV penicillins   -->
+<!-- - transcellular shifts  -->
+<!--     - rhabdomyolysis, $\beta$-blockers, digoxin, anaestheic agents, mannitol   -->
+<!-- - renal impairment (AKI / CKD)   -->
+<!-- - defects in aldosterone signalling  -->
+<!--     - impaired renin secretion (diabetes mellitus, $\beta$-blockers, NSAIDS)  -->
+<!--     - impaired AngII signalling (ACEi, ARBs)  -->
+<!--     - impaired aldosterone synthesis (Addisons's, heparins, ketoconazole)  -->
+<!--     - impaired MR activaton (PHAI, spironolactone, eplerenone)   -->
+<!-- - defects in electrogenic Na reabosorption  -->
+<!--     - ENaC blockade (PHAI, amiloride, triamterene, trimethoprim, pentamidine, Li^+^)  -->
+<!--     - NCC activation (PHAII, CNIs)   -->
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+source('~/OneDrive - University of Edinburgh/R files/R Scripts/Markdown_tables.R')
+df_hyperK3 <- read.csv("tables/hyperK_3col.csv", header = FALSE)
+df_hyperK2 <- read.csv("tables/hyperK_2col.csv", header = FALSE)
+
+df_hyperK3 %>% table_3cols(caps = T)
+#print("or...")
+#df_hyperK2 %>% table_2cols
+
+```
+
+Use FECl response to thiazides as functional test for PHAII (normal response is < 3% increment).  
+
+
+## Causes of spurious hyper- and hypokalaemia  
+
+PseudohyperK from K-EDTA contamination.   
+
+PseudohyperK due to prolonged delay prior to centrifugation *(blood cells leak K in cold weather)*.  
+
+PseudohypoK due to prolonged delay prior to centrifugation *(blood cells take up K via Na-K-ATPase in the warm; "seasonal pseudohypoK" in summer)*.
+
+PseudohyperK due to leucocytosis (WBC \> 70) -- *K released from cells during clot formation (test by measuring serum and plasma K simultaneously)*.
+
+Familial hyperK due to abnormalities in RBC membrane permeability.

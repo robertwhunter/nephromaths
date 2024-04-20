@@ -33,7 +33,6 @@ X-linked hypercalciuric nephrolithiasis = Dent’s disease, XLR nephrolithiasis,
 
 ![](figures/tubulopathies_acquired.png)
 
-
 Autoimmune associations with dRTA other than Sjogren are: SLE, PBC, AIH, thyroiditis.  
 
 Can get dRTA mimic secondary to low UNa (e.g. cirrhosis, heart failure, nephrotic syndrome).  For complete list of 2ry causes see supplemental table 1 in [ESPN clinical practice points, NDT 2021](https://doi: 10.1093/ndt/gfab171).  
@@ -56,11 +55,12 @@ Other tubulopathy phenotypes:
 
 ### Interpretation of these electrolyte syndromes
 
-Only causes of hyperchloraemic acidosis:  
+Causes of hyperchloraemic acidosis:  
 
 - diarrhoea / other lower GI losses (upH < 5.5)  
 - RTA  
 - ureteric diversion  
+- iatrogenic chloride excess  
 
 <br>
 
@@ -73,39 +73,6 @@ NB can get a transient Fanconi-type syndrome (without glycosuria) in untreated d
 <br>
 <br>
 
-### Notes on mechanisms (see [ESPN clinical practice points, NDT 2021](https://doi: 10.1093/ndt/gfab171)):  
-
-Mechanism of **hypoK in dRTA**:  
-
-i) response to systemic acidosis (inhibits PCT Na reabsorption and therefore stimulates RAAS)  
-ii) increased voltage gradient in CD (Na reabsorption not balanced by H excretion)  
-iii) sometimes also drug-induced direct causes (e.g. amphoterocin)  
-
-<br>
-<br>
-
-Mechanism of **hypoK in pRTA**:  
-
-i) increased HCO3 delivery and flow rate in distal nephron (Unwin 2001)
-
-<br>
-<br>
-
-Mechanism of **hypercalciuria in dRTA**:
-
-i) release of Ca from bone (as protons are buffered by apatite)  
-ii) tubular resistance to the anti-calicuric effects of PTH  
-
-<br>
-<br>
-
-Mechanisms of **stones / nephrocalcinosis in dRTA**:  
-
-i) hypercalciuria  
-ii) hypocituria (enhanced reabsorption of citrate in PCT; citrate inhibits stone formation)
-
-<br>
-<br>
 
 ## Diagnostic approach in suspected tubulopathy
 
@@ -126,29 +93,6 @@ Endogenous toxins = paraproteins
 <br>
 <br>
 
-### Urine pH
-
-Urine pH useful but potential for error:  
-
-- upH > 5.5 (uAG +ve) = dRTA 
-- upH < 5.5 (uAG -ve) = pRTA or diarrhoea 
-
-<br>
-
-Cautions with upH (see supplement for [ESPN clinical practice points, NDT 2021](https://doi: 10.1093/ndt/gfab171)):  
-- artificial high upH if delayed testing (CO2 diffuses out of urine to drop both urinary H+ and HCO3)  
-- artificial high upH if urea-splitting organisms (generating NH3)  
-- invalid if uNa < 10 mM (acidification is Na-dep)
-
-A [nice study](https://pubmed.ncbi.nlm.nih.gov/22700881/) showed that actually the risk of diagnostic error in dRTA from CO2 diffusion is probably quite low.  Tested effect of mixing urine samples with air (n = 100).  Exposure to air reduces urine pCO2 and HCO3 by 66 -- 75%.  CO2 diffusion out of urine samples occurs in first 5 minutes, with no subsequent change out to 50 mins.  This does tend to raise pH - but effect is only small (c. 0.1 pH unit) and particularly so if urine pH < 5.5 to begin with.  
-
-<br>
-
-Concordance between urine dipstick and pH meter result is [not brilliant but not terrible](https://pubmed.ncbi.nlm.nih.gov/23435644/).  So perhaps more important to use pH meter rather than a dip.  
-
-<br>
-<br>
-
 ### Specialised testing
 
 Rarely a role for more specialist testing:  
@@ -161,7 +105,31 @@ Rarely a role for more specialist testing:
 <br>
 <br>
 
+## Sjogren syndrome
+
+Spectrum of kidney disease including (often overlapping):
+
+- pure tubulopathies  
+- tubuolocentric lymphocytic TIN (= "extraglandular epithelialitis")  
+- IC MPGN of which 66% cryoglobulinaemia  
+- cryoglobulinaemic vasculitis  
+
+![](figures/Sjogren.png)
+<br>
+<br>
+
+dRTA associated with Ro, La, hyperIg.  
+NDI common but almost always well-compensated.  
+GN associated with lymphoma.  
+
+<!--
+
+<br>
+<br>
+
 ## Management
+ 
+-->
 
 <!-- 
 
@@ -188,42 +156,18 @@ Chronic hypoK probably okay; danger during intercurrent D&V.
 
 --> 
 
-### RTA  
+<!-- ### Salt-losing nephropathy   -->
 
-**Alkali supplements** for RTA (see [ESPN clinical practice points, NDT 2021](https://doi: 10.1093/ndt/gfab171)):  
+<!-- Rx of **Gitleman** (see [KDIGO controversies](http://dx.doi.org/10.1016/j.kint.2016.09.046) and UKKA / RCA guidelines):   -->
 
-- citrate unpalatable; longer half-life (as requires hepatic metabolism), more concentrated (2 - 3 mmmol/ml)  
-- HCO3 associated with belching; less concentrated (1 mmol/ml)  
-- microgranular formulation of K citrate and KHCO3 since 2017  
-- usually 2 - 3 mmol/kg/day in adults (target HCO3, Cl, K and UCa); start at 60 mmol/day  
-- may need additional KCl  
-- avoid thaizides (will aggravate hypoK)  
-- should have surveillance USS  
-
-<br>
-
-Uptodate:  
-
-- see table 1 for options of alkali therapy  
-- dRTA = start 80 - 120 mmol citrate (or HCO3) per day; usual maintenance 30 - 50 (or 1 - 2 mmol/kg/day)  
-- pRTA needs much higher doses because therapeutic HCO3 load will exceed Tm and cause a bicarbonate diureis - therefore need 10 -- 15 mmmol/kg/day - may aggravate hypoK - so may need liquid sodium citrate as most concentrated  
-- may need thiazides (to limit HCO3 wasting) / amiloride (to limit hypoK) in pRTA  
-
-<br>
-<br>
-
-### Salt-losing nephropathy  
-
-Rx of **Gitleman** (see [KDIGO controversies](http://dx.doi.org/10.1016/j.kint.2016.09.046) and UKKA / RCA guidelines):  
-
-- target K 3.0 mM and Mg 0.60 mM  
-- use KCl, starting 40 mmol/day  
-- not on an empty stomach; can give in water or syrup  
-- inorganic Mg salts > low bioavailability > osmotic diarrhoea  
-- organic salts (aspartate, citrate, lactate) better  
-- start 300 mg (~12 mmol) per day as SR tabets, bd - qds with meals  
-- only rarely amiloride / MRAs / indometacin  
-- almost always avoid RASi (aggravate NaCl wasting) - unless 2ry FSGS  
-- sick day rules (get bloods checked whenever unwell) - see supplemental table in KDIGO paper  
-- elective surgery if K > 3 and Mg > 0.5  
+<!-- - target K 3.0 mM and Mg 0.60 mM   -->
+<!-- - use KCl, starting 40 mmol/day   -->
+<!-- - not on an empty stomach; can give in water or syrup   -->
+<!-- - inorganic Mg salts > low bioavailability > osmotic diarrhoea   -->
+<!-- - organic salts (aspartate, citrate, lactate) better   -->
+<!-- - start 300 mg (~12 mmol) per day as SR tabets, bd - qds with meals   -->
+<!-- - only rarely amiloride / MRAs / indometacin   -->
+<!-- - almost always avoid RASi (aggravate NaCl wasting) - unless 2ry FSGS   -->
+<!-- - sick day rules (get bloods checked whenever unwell) - see supplemental table in KDIGO paper   -->
+<!-- - elective surgery if K > 3 and Mg > 0.5   -->
 

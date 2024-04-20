@@ -1,6 +1,6 @@
 # Hypernatraemia
 
-### Causes of hypernatraemia    
+## Causes of hypernatraemia    
 
 In contrast to hyponatraemia, which may pose a diagnostic conundrum, in hypernatraemia it is almost always easy to work out the underlying cause.  Hypernatraemia is caused by loss of free water (dehydration) or gain of Na.  
 
@@ -24,11 +24,11 @@ Differential diagnosis of hypernatraemia due to free water deficiency:
 
 ![](figures/hyperNa_causes.png)
 
-### Diagnosis in hypernatraemia
+## Diagnosis in hypernatraemia
 
 ![](figures/hyperNa_algorithm.png)
 
-### Treatment of hypernatraemia  
+## Treatment of hypernatraemia  
 
 The treatment of hypernatraemia is simple: give more free water (either enterally or as intravenous 5% glucose).  The total body water deficit can be estimated as follows (where total body water, TBW is given by \@ref(eq:TBW)):
 

@@ -26,9 +26,9 @@ df_table %>% table_2cols()
 
 ## Urine calcium
 
-Urine calcium excretion will vary according to calcium intake and urinary sodium excretion (with U~Ca~ and U~Na~ changing in parallel) [@foley2010].  
+Urine calcium excretion will vary according to calcium intake and urinary sodium excretion (with U~Ca~ and U~Na~ changing in parallel) [@foley2010].  There is also diurnal variation.  
 
-Urine calcium excretion is best assessed on 24 hr collection, rather than spot samples.  
+Therefore urine calcium excretion is best assessed on 24 hr collection, rather than spot samples.  
 
 Results may be expressed either as:  
 
@@ -64,8 +64,10 @@ Therefore, a Ca/Cr of x mg/mg = 2.84x mmmol/mmol.
 
 + \>4 mg per kg per day
 + \>300 mg (= 7.50 mmol) per day (men) or >250 mg (= 6.25 mmol) per day (women)  
-+ Ca/Cr ratio > 0.20 mg/mg (adults) - or > 0.15 in second void urine after an overnight fast    
++ Ca/Cr ratio > 0.6 mmol/mmol = 0.20 mg/mg (adults) - or > 0.15 mg/mg in second void urine after an overnight fast    
 + FE~Ca~ > 2 % (CCCR > 0.020)
+
+In an observational study of stone-formers (Curhan, KI 2001), stone risk elevated at thresholds lower than these classical cut-offs of 300 mg (M) or 250 mg (F) - but stone risk obviously complex and related to other urinary salts / pH etc.  
 
 
 ### Hypocalciuria (e.g. FHH, Gitelman):  

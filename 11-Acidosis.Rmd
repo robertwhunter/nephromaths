@@ -1,6 +1,6 @@
 # Metabolic acidosis
 
-### Anion & osmolar gaps
+## Serum anion & osmolar gaps
 
 Metabolic acidoses are classified as `wide-anion-gap` (WGMA) or `normal-anion-gap` (= hyperchloraemic, HCMA).  In WGMA, the acidosis is caused by an exogenous acid present in plasma.  This is not measured directly, but will manifest as an apparent "anion gap".  
 
@@ -58,7 +58,7 @@ Therefore to interpret delta ratios:
 
 ![](figures/AG2.png)
 
-`Osmolar gaps` are used to identify exogenous or un-measured osmoles in the plasma (which may be present in a subset of WGMA in which the acid is osmotically active): 
+The `osmolar gap` is used to identify exogenous or un-measured osmoles in the plasma (which may be present in a subset of WGMA in which the acid is osmotically active): 
 
 ```{block2, type='eqnpanel'}
 \begin{equation}
@@ -71,6 +71,41 @@ Therefore to interpret delta ratios:
   (\#eq:Osmgap)
 \end{equation}
 ```
+
+<br>
+<br>
+
+## Investigations in HCMA {#IxHCMA}
+
+### Urine pH
+
+Urine pH useful but there are some important practical considerations and potential for error in interpretation.  
+
+- upH > 5.5 (uAG +ve) = dRTA 
+- upH < 5.5 (uAG -ve) = pRTA or diarrhoea 
+
+<br>
+<br>
+
+Pitfalls with urine pH (see supplement for [ESPN clinical practice points, NDT 2021](https://doi: 10.1093/ndt/gfab171)):  
+
+- sample should be fresh and tested without delay (else risks of CO2 diffusion and urea-splitting organisms)  
+- a pH meter is more accurate than dipstick (but does this matter? - see below)  
+- uNa should be > 10 mM (else lack of distal tubular Na can induced a functional dRTA due to loss of negative tubular potential gradient)  
+- obviously may be alkaline in context of urinary diversion  
+
+Theoretically, delayed testing could cause an artificially high pH (i.e. false +ve RTA diagnosis) as CO2 diffuses out of urine to drop both urinary H+ and HCO3. However, a [nice study](https://pubmed.ncbi.nlm.nih.gov/22700881/) showed that actually the risk of diagnostic error in dRTA from CO2 diffusion is probably quite low.  Tested effect of mixing urine samples with air (n = 100).  Exposure to air reduces urine pCO2 and HCO3 by 66 -- 75%.  CO2 diffusion out of urine samples occurs in first 5 minutes, with no subsequent change out to 50 mins.  This does tend to raise pH - but effect is only small (c. 0.1 pH unit) and particularly so if urine pH < 5.5 to begin with.  Therefore the historical practice of collecting under mineral oil is unnecessary.  
+
+An apparent inability to acidify urine has been reported in some patients with chronic diarrhoea (Batlle, NEJM 1998; Palmer & Clegg, CJASN 2019).  This is attributed either to UNa < 10 mM (Batlle, NEJM 1998; ESPN / ERKnet dRTA guidelines supplement) and / or to high levels of ammonium in the urine raising pH – particularly if stimulated by hypoK (https://www.uptodate.com/contents/urine-anion-and-osmolal-gaps-in-metabolic-acidosis).  Therefore, interpret upH in the context of uNA and uAG.  
+
+<br>
+
+Concordance between urine dipstick and pH meter result is [not brilliant but not terrible](https://pubmed.ncbi.nlm.nih.gov/23435644/).  For many patients it will be good enough to decide whether confidently above or below 5.5 - but caution if dipstick pH < 6.0.  
+
+<br>
+<br>
+
+### Urine anion gap, osmolar gap, ammonium
 
 Historically, it has been technically difficult to measure urinary ammonium.  Therefore the *urinary* anion gap has been used as a proxy measure - either in isolation or in combination with the urinary osmolar gap [@kraut2012; @sharma2015]: 
 
@@ -101,11 +136,64 @@ Historically, it has been technically difficult to measure urinary ammonium.  Th
 \end{equation}
 ```
 
+![](figures/uAG.png)
 UAG normal range is positive 30 -- 50.  
 
-### Causes of a metabolic acidosis
+Classical interpretation of uAG:
 
-#### Approach to metabolic acidosis
+- normally+ve  30 –- 90 (dietary absorption of Na and K exceed that of Cl – and this has become more +ve in recent decades as diet has changed)  
+- if zero, then NH~4~ excretion around 80 mmol per day (Kamel & Halperin, KI Reports 2021)... ...therefore +50 = 30 mmol per day  
+- in context of HCMA: under –ve 20 = lots of NH4 (>100 mM) = appropriate = diarrhoea (“neg-GUT-tive”)  
+- in context of HCMA: over +ve 20 = inappropriately low NH4 (<60 mM) = RTA  
+- and +/- 20 hard to interpret with confidence (UpToDate)  
+
+<br>
+<br>
+
+However, this may be largely nonsense for several reasons.  The main criticism is that in steady state, uNa, K and Cl must reflect intake (argued eloquently by Uribarri, JASN 2021).  There is therefore a heavy dependence on diet (normal uAG from +40 to +70 since 1980s = more dietary K with organic anions – Uribarri JASN 2021).  The correlation between uAG and directly-measured NH~4~ in (non-acidaemic) subjects is terrible (Ubarri, AJKD 2022).  
+
+<br>
+
+uAG is also subject to errors from:
+
+- other unmeasured anions – tend to give +ve AG (Batlle, CJASN 2018)...  
+- ...including bicarbonaturia in pRTA on supplements or with urinary diversion and if upH > 6.5 then likely bicarbonaturia, so expect obligate +ve uAG in metabolic alkalosis   
+- unmeasured cations (e.g. Li+) = tend to give –ve AG  
+- a dependance on upH (Uribarri JASN 2021);  at upH = 7: uHCO~3~ = 10 mM and significant increase in divalent uPO~4~ – so tend to +ve AG…  
+- impaired ammoniagenesis in AKI or CKD (from decreased PCT mass, hyperK, RAAS blockade and lower aldo)  
+- extreme volume depletion (uNa < 10 mM prevents acidification)  
+- irrelevant extra-renal ammoniagenesis with urea-splitting organisms  
+
+Some unmeasured aniones - e.g. β-hydroxybutyrate / acetoacetone - might be detected with an uOG.
+
+![](figures/uAG_problems.png)
+<br>
+
+So how do we reconcile all of these concerns with the historical data showing diagnostic utility in dRTA vs. diarrhoea?  Most likely that uAG is a bad measure of uNH~4~ but could differentiate between RTA and diarrhoea for other reasons.  In dRTA, uAG is positive if samples taken when patients in negative K balance: high uK will tend to +ve uAG whilst hypokalaemia will impair ammoniagenesis and raise upH.  In diarrhoea, uAG is negative because there is preferential loss of Na and K over Cl - hence relatively lower body Na + K, then reflected in urinary excretion.  In NH4Cl infusion, Cl is delivered without Na or K, leading to high uCl and -ve AG.  
+
+<br>
+<br>
+
+The urinary osmolar gap should have fewer limitations than uAG:  
+
+![](figures/uOG.png)
+The theoretical concerns about invalid reasoning violating balance principles don't apply.  Still subject to errors from unmeasured osmoles and urea-splitting organisms.  Correlation with uNH~4~ very good in some studies (Fujimaru, Nephron 2021) and terrible in others (Raphael, CJASN 2019).  
+
+<br>
+
+Interpretation of [uOG](https://www.uptodate.com/contents/urine-anion-and-osmolal-gaps-in-metabolic-acidosis):  
+
+- normal: 10 – 90 (= 5 – 45 mM NH4)  
+- in context of HCMA: uOG > 400 = 200 mM NH4 = appropriate response = diarrhoea  
+- in context of HCMA: uOG < 150 = 75 mM NH4 = inadequate response = dRTA  
+- ...or for a more complex interpretation see Kamel & Halperin (KI Reports, 2021): multiply uNH4/uCr by estimated Cr excretion rate and deem >50 mmol NH4 per day an adequate response to acidosis.  
+
+<br>
+<br>
+
+## Causes of a metabolic acidosis
+
+### Approach to metabolic acidosis
 
 
 ```{block2, type='algpanel'}
@@ -115,8 +203,8 @@ Order of investigations in metabolic acidosis:
 2)  ΔAG vs ΔHCO~3~ in WGMA -- is rise in AG proportional to fall in HCO~3~ (or is this a mixed metabolic disorder)?  
 3)  PaCO~2~ -- is the fall in PaCO~2~ proportional to the fall in HCO~3~ (0.16 kPa per mM)?  
 4)  +/- OG for a WGMA  
-5)  +/- UAG for HCMA  
-6)  +/- FEHCO~3~ for HCMA with --ve UAG  
+5)  +/- upH, uAG, uOG for HCMA  
+6)  +/- FEHCO~3~ for HCMA with --ve UAG (but easier to first look for Fanconi syndrome)  
 
 ΔAG / ΔHCO~3~ \< 1 mixed WGMA / HCMA or urinary ketone losses (DKA)
 ΔAG / ΔHCO~3~ \> 2 mixed WGMA and metabolic alkalosis
@@ -150,9 +238,7 @@ Propylene glycol (a solvent for parenteral medications: lorazepam, diazepam, phe
 
 \* WGMA with elevated OG = EtOH ketoacidosis, MeOH and the glycols. The OG is NOT elevated with salicylates. There is a time-dependant conversion from OG to AG following ingestion of toxic alcohol (EG > glycolic acid > oxalate). 
 
-NB Ethylene glycol = high lactate (false +ve) on ABG machine but not formal lab assay.  
-
-<!-- Administer fomepizole early (before significant acidosis). Indications for RRT (prefer HD to HF): acidosis, renal failure, EG level \> 50 mg/L. -->
+NB Ethylene glycol = high lactate (false +ve) on ABG machine but not formal lab assay.  Administer fomepizole early (before significant acidosis). Indications for RRT (prefer HD to HF): acidosis, renal failure, EG level \> 50 mg/L.  
 
 
 #### HCMA (normal gap) {#HCMA}
@@ -203,18 +289,3 @@ Historically, TPN was a cause of "hyperalimentation acidosis" (as cationic amino
 
 HCMA in the context of urinary diverstion occurs because colonic epithelium (used to construct neo-bladder) contains a Cl/HCO~3~ exchanger.  Therefore chloride-rich urine promotes massive HCO3~3~ secretion.  Colonic epithelium is also permeable to NH~3~ so that bacterial urease activity can cause hyperammonaemic encephalopathy.  
 
-### Cautions in the interpretation of UAG
-
-i) extreme volume depletion 
-    - results in low UNa and UCl
-    - low UCl limits NH~4~ excretion and may therefore lead to a "spurious" positive UAG in diarrhoea  
-
-ii) ketoacidosis 
-    - unmeasured anions in the urine (β-hydroxybutyrate and acetoacetone)
-    - may therefore lead to a positive UAG even though urinary NH4+ excretion is increased\...
-    - ...detect this by measuring the urinary osmolar gap  
-
-iii) glue-sniffing (toluene) 
-    - unmeasured anions in the urine (hippurate) 
-
-A +ve UAG in the context of *alkaline* urine could signify bicarbonaturia (post-vomiting, loop diuretics, post-hypercapnoea).

@@ -1,7 +1,7 @@
 --- 
 title: "Nephromaths"
 author: "Robert W Hunter"
-date: "2024-03-20"
+date: "2024-04-20"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [Bib_Nephromaths.bib]
@@ -24,7 +24,7 @@ It is important to state that such analysis can **never** be used in isolation t
 
 For a broader discussion of the **major limitations** inherent in attempts to use equations to guide clinical descision-making see [chapter 2](#validity).  
 
+<br>
 
 # Acknowledgements {-}
-I would like to thank John Neary (Renal Physician, Edinburgh) and Matthew Bailey (Professor of Renal Physiology) for teaching me most of what I know about electrolyte disorders over the years.  
-
+I would like to thank John Neary (Renal Physician, Edinburgh) and Matthew Bailey (Professor of Renal Physiology) for teaching me most of what I know about electrolyte disorders over the years.  Also Ben Walsh at UCL for answering all my tricky questions and for explaining renal tubular physiology in a more engaging, accessibly and entertaining way than anybody else ever could.  

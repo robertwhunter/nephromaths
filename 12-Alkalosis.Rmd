@@ -1,6 +1,6 @@
 # Metabolic alkalosis (& chloride homeostasis)  
 
-### Causes of a metabolic alkalosis  
+## Causes of a metabolic alkalosis  
 
 The causes of a metabolic alkalosis can be classified as being either due to chloride depletion (and therefore `chloride responsive`) or due to other causes (`chloride resistant`) [@luke2012a].  
 
@@ -37,7 +37,7 @@ Post-hypercapnic alkalosis occurs if chronic hypercapnia suddenly corrected (e.g
 The milk-alkali syndrome is the triad of hypercalcaemia, metabolic alkalosis and ingestion of large quantities of calcium with alkali; hypercalcaemia increases renal bicarbonate reabsorption (exacerbating alkalosis).
 
 
-### Chloride
+## Chloride
 
 U~Cl~ NR = 100 -- 250 mmol / 24 hrs
 
@@ -52,7 +52,9 @@ In chloride-resistant alkalosis UCl \> 10 -- 30 mM (and also if chloride loss is
 
 UCl is persistently low after vomiting and is therefore a useful test for surreptitious vomiting.
 
+<br>
+<br>
 
-#### Chloride-depletion alkalosis
+### Chloride-depletion alkalosis
 
 In chloride depletion, reduced ECF volume leads to reduced GFR (less filtered NaHCO~3~) and increased Na reabsorption. Thus NaHCO~3~ reabsorption is increased. Increased distal Na reabsorption leads to increased acid excretion.  Therefore, after [vomiting](#vomit), an acid urine is produced (paradoxically) in the face of a metabolic alkalosis. Treatment is volume expansion with NaCl and correction of hypoK.

@@ -28,7 +28,7 @@ The causes of hyponatraemia can be classified by volume status, U~Osm~ and U~Na~
 
 ![](figures/Na_loop_annotated.png)
 
-### Drug causes of hyponatraemia
+## Drug causes of hyponatraemia
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 source('~/OneDrive - University of Edinburgh/R files/R Scripts/Markdown_tables.R')
@@ -39,7 +39,7 @@ df_table %>% table_2cols()
 ```
 
 
-### Correction for hyperglycaemia  
+## Correction for hyperglycaemia  
 Hyponatraemia can result from an influx of water into the vascular (and interstitial) space in presence of an abnormaly high concentration of a plasma osmole.  The commonest such clinical scenario is that of hyperglycaemia.  (Hyponatraemia in this context is not dangerous *per se* because plasma tonicity is maintained near normal by glucose, an [effective osmole](#tonicity).)  
 <br>
 <br>
@@ -56,7 +56,7 @@ NB alternatively this can calculated by adding 0.4 mM to measured P~Na~ for ever
 
 ```
 
-### Urine sodium  
+## Urine sodium  
 
 In the steady-state, urinary sodium excretion will reflect sodium intake.  On a normal Western diet, daily NaCl intake might be ~9g (=154 mmoles) [@campbell2015].  If this were excreted in 2L or urine, then U~Na~ would be ~ 77mM.  
 <br>
@@ -83,7 +83,7 @@ U~Na~ will not accurately report EABV in the presence of any drug or disease tha
 + glycosuria  
 
 
-#### FE~Na~
+### FE~Na~
 
 Urine sodium levels can be expressed as a fractional excretion.  
 
@@ -221,18 +221,6 @@ The first clinical sign that over-correction is imminent is a rise in urine outp
 \end{equation}
     
 ...up to a maximum of 100 ml per hr
-
-```
-
-<br>
-
-### Drug causes of hyponatraemia
-
-```{r, echo=FALSE, message=FALSE, warning=FALSE}
-source('~/OneDrive - University of Edinburgh/R files/R Scripts/Markdown_tables.R')
-df_table <- read.csv("tables/HypoNa_drugs.csv", header = FALSE)
-
-df_table %>% table_2cols()
 
 ```
 
