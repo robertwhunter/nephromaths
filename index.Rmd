@@ -12,10 +12,12 @@ csl: the-journal-of-physiology.csl
 # github-repo: 
 url: 'https://nephrobooks.netlify.com'
 description: "How to use blood and urine electrolytes to diagnose and treat electrolyte and acid-base disorders."
-# cover-image: "HARMONY.png"
+# cover-image: "figures/nephromaths_title.jpeg"
 # can we change citation styles?? - e.g. `csl: zotero-style-file.csl` 
 
 ---
+
+![](figures/nephromaths_title.jpeg)
 
 # Disclaimer {- #disc}
 This short book aims to provide a quick reference guide for clinicians who wish to use equations to better understand disorders in electrolyte and acid-base homeostasis.  
