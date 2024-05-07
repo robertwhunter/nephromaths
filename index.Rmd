@@ -17,9 +17,12 @@ description: "How to use blood and urine electrolytes to diagnose and treat elec
 
 ---
 
+# Cover {-}
+
 ![](figures/nephromaths_title.jpeg)
 
 # Disclaimer {- #disc}
+
 This short book aims to provide a quick reference guide for clinicians who wish to use equations to better understand disorders in electrolyte and acid-base homeostasis.  
 
 It is important to state that such analysis can **never** be used in isolation to make reliable clinical descisions.  Equations can provide a useful adjunct to clinical judgement, but thoughtful clinical judgement is far more likely to lead to accurate diagnosis and successful treatment than is "number crunching". Therefore this book does **not** aim to replace the judgement of clinicians. 
