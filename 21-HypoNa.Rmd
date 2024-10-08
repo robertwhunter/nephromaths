@@ -224,3 +224,94 @@ The first clinical sign that over-correction is imminent is a rise in urine outp
 
 ```
 
+<br>
+<br>
+
+## SIAD
+
+### Diagnosis
+
+Diagnostic criteria:  
+
+- POsm < 275 mOsm  
+- UOsm > 100 mOsm  
+- euvolaemic  
+- UNa > 30 mM (in normal salt and aq intake)  
+- absence of adrenal insufficiency, severe hypothyroidism, advanced CKD, diuretics...  
+
+Therefore **must** do a short-synACTHen test before diagnosing SIAD.  
+
+<br>
+
+Supplemental criteria:  
+
+- Purate < 0.24 mM  
+- Purea < 3.6 mM  
+- FENa > 0.5%  
+- FEurea > 55%  
+- FEurate > 12%  
+
+<br>
+<br>
+
+Investigations once SIAD confirmed ([Warren et al., 2023](https://doi.org/10.1210/endrev/bnad010)):  
+
+- drug chart review  
+- thorough history and examination (chest and CNS disease, cancer, infection, pain, stress...)  
+- CXR +/- CT thorax (in most)  
+- CT head and sinuses (in most)  
+- CT abdo/pelvis (less often)  
+- FDG-PET, DOTATE-PET (rarely)  
+
+<br>
+
+The list of drugs that can cause hypotonic hyponatraemia is very extensive; the table above is far from comprehensive.  See [here](https://doi.org/10.1210/endrev/bnad010) for more complete list.  Don't be caught out by missing:  
+
+- tramadol, NSAIDs, opiods  
+- nicotine  
+- amiodarone  
+- PPIs  
+- ACEi (although unusual)  
+- methotrexate...  
+
+<br>
+
+Neuroendocrine tumours - classically olfactory neuroblastomas - can cause SIAD for years before the tumour declares itself.  Therefore CT of nasal sinuses an important part of the work-up, particularly in younger patients.  DOTATATE-PET has been used to diagnose NETs in other locations.  
+
+<br>
+<br>
+
+### Subtypes  
+
+A = persistent high AVP (e.g. pituitary / paraneoplastic)  
+B = reset osmostat (i.e. can still suppress AVP at lower POsm; commoner in elderly)  
+C = abnormal AVP response only a lower POsm  
+D = AVP undetectable (e.g. NSIAD or paraneoplastic AVP-like-peptide)  
+E = only recently described  
+
+...and some would consider cerebral salt-wasting (e.g. in SAH) as a distinct entity; others as a special instance of SIAD.  
+
+<br>
+<br>
+
+### Treatment
+
+Rationale for treating chronic, "asymptomatic" hypoNa is the biological plausibility and small-scale mechanistic studies that hypoNa may cause its associated morbidities: cognitive dysfunction, falls, fracture, death ([Warren et al., 2023](https://doi.org/10.1210/endrev/bnad010)).  For example, correction of PNa in an RCT was associated with [improved biomarkers of bone formation](https://doi.org/10.1210/clinem/dgad238).  The evidence that 'allostatic' adaptation to hyponatraemia might cause various morbidities was reviewed by [Portales-Castillo & Sterns (2019)](https://doi.org/10.1053/j.ajkd.2018.10.004).  
+
+However, there is no guideline consensus or robust RCT evidence to support this approach.  [European Guidelines (2014)](https://doi.org/10.1530/EJE-13-1020) advise *against* treating mild, chronic, asymptomatic hypoNa (i.e. PNa > 130 mM) to raise PNa *per se*.  A [Cochrane review](https://doi.org/10.1002/14651858.CD010965.pub2) found that there is no high-quality evidence regarding the effects of correction of chronic, non-hypovolaemic, hypotonic hypoNa on hard patient outcomes.  
+
+<br>
+
+**First-line** in all is fluid restriction:  
+
+- start c. 1000 ml per day and consider Furst ratio  
+- practically, can advise to ['drink only when thirsty or eating'](https://doi.org/10.1093/ndt/gfae162)  
+<br>
+
+**Second-line** options:  
+
+- tolvaptan (and ensure free fluid intake)  
+- urea (with fluid restriction)  
+- [SGLT2i](https://doi.org/10.1681/ASN.2022050623) (+/- fluid restriction - e.g. 1500 ml in the JASN RCT)  
+- NaCl + furosemide (with fluid restriction)  
+

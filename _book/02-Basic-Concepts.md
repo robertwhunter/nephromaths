@@ -52,11 +52,39 @@ The clearance of other substances can be compared to that of creatinine (or inul
   \text{fractional excretion, }FE_{X} = \frac{U_{X}}{P_{X}} \times \frac{P_{Creat}}{U_{Creat}}
   (\#eq:FEX)
 \end{equation}
-Note that for substances (such as Mg^2+^) that are heavily protein-bound in plasma, a correction factor is applied to account for the fact that not all of plasma X is availble to be filtered.  
+    
+Note that for substances (such as Mg^2+^) that are heavily protein-bound in plasma, a correction factor is applied to account for the fact that not all of plasma X is availble to be filtered.  (So divide by 0.7 for FEMg or 0.5 for FECa.)
+
+\begin{equation}
+  \text{fractional excretion, }FE_{X} = \frac{U_{X}}{P_{X} \times (1-b)} \times \frac{P_{Creat}}{U_{Creat}}
+  (\#eq:FEX2)
+\end{equation}
+    
+...where b is the fraction that is protein-bound (e.g. 0.3 for Mg).  
 
 \begin{equation}
   \text{tubular reabsorption, }TR_{X} = 1-FE_{X}
   (\#eq:TRX)
+\end{equation}
+    </div>\EndKnitrBlock{eqnpanel}
+
+Note that FEs are hard to interpret in CKD; normal ranges quoted are for patients with normal GFR.  As GFR declines, FE of all substances (Na<sup>+</sup>, K<sup>+</sup>, PO<sub>4</sub><sup>3-</sup>, Mg<sup>2+</sup> etc.) [all rise](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6959939/) (which makes sense: will preserve net renal excretion).  Therefore FE<sub>X</sub> unreliable when eGFR below \~45 ml/min.  Prefer 24 hr collections in that context.  
+
+Derivation of FE:
+
+\BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
+  \text{filtered load} = \text{GFR} \times P_X = C_{Cr} \times P_X = V \times (U_{Cr} \div P_{Cr}) \times P_X
+  (\#eq:filtered)
+\end{equation}
+    
+\begin{equation}
+  \text{excreted} = V \times U_X
+  (\#eq:excreted)
+\end{equation}
+    
+\begin{equation}
+  FE_X = \frac{\text{excreted}}{\text{filtered load}} = \frac{V \times U_X}{V \times (U_{Cr} \div P_{Cr}) \times P_X} = \frac{{P_{Cr} \times U_X}}{U_{Cr} \times P_X}
+  (\#eq:FEderived)
 \end{equation}
     </div>\EndKnitrBlock{eqnpanel}
 

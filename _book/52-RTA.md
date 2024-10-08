@@ -409,7 +409,7 @@ Mitochondrial cytopathy: raised CK, abnormal number of microchondria (EM).
 
 In adults, usually acquired:
 
-- tenfovir and other drugs  
+- tenfovir and other drugs (antivirals, fumaderm for Psoriasis)  
 - heavy metals  
 - LCCD  
 - post-Tx  

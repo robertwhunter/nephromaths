@@ -23,7 +23,7 @@
 <meta name="author" content="Robert W Hunter" />
 
 
-<meta name="date" content="2024-05-07" />
+<meta name="date" content="2024-10-08" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -191,6 +191,12 @@ div.csl-indent {
 <li class="chapter" data-level="8.4.1" data-path="hyponatraemia.html"><a href="hyponatraemia.html#calculating-free-water-clearance"><i class="fa fa-check"></i><b>8.4.1</b> Calculating free water clearance</a></li>
 <li class="chapter" data-level="8.4.2" data-path="hyponatraemia.html"><a href="hyponatraemia.html#clinical-utility-of-free-water-clearance"><i class="fa fa-check"></i><b>8.4.2</b> Clinical utility of free water clearance</a></li>
 <li class="chapter" data-level="8.4.3" data-path="hyponatraemia.html"><a href="hyponatraemia.html#urine-flow-rate-in-hyponatraemia"><i class="fa fa-check"></i><b>8.4.3</b> Urine flow rate in hyponatraemia</a></li>
+</ul></li>
+<li class="chapter" data-level="8.5" data-path="hyponatraemia.html"><a href="hyponatraemia.html#siad"><i class="fa fa-check"></i><b>8.5</b> SIAD</a>
+<ul>
+<li class="chapter" data-level="8.5.1" data-path="hyponatraemia.html"><a href="hyponatraemia.html#diagnosis"><i class="fa fa-check"></i><b>8.5.1</b> Diagnosis</a></li>
+<li class="chapter" data-level="8.5.2" data-path="hyponatraemia.html"><a href="hyponatraemia.html#subtypes"><i class="fa fa-check"></i><b>8.5.2</b> Subtypes</a></li>
+<li class="chapter" data-level="8.5.3" data-path="hyponatraemia.html"><a href="hyponatraemia.html#treatment"><i class="fa fa-check"></i><b>8.5.3</b> Treatment</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="9" data-path="hypernatraemia.html"><a href="hypernatraemia.html"><i class="fa fa-check"></i><b>9</b> Hypernatraemia</a>
@@ -373,11 +379,33 @@ Therefore it can be impossible to tell whether a value for U<sub>Osm</sub>, U<su
 <p><span class="math display" id="eq:FEX">\[\begin{equation}
   \text{fractional excretion, }FE_{X} = \frac{U_{X}}{P_{X}} \times \frac{P_{Creat}}{U_{Creat}}
   \tag{2.2}
-\end{equation}\]</span>
-Note that for substances (such as Mg<sup>2+</sup>) that are heavily protein-bound in plasma, a correction factor is applied to account for the fact that not all of plasma X is availble to be filtered.</p>
+\end{equation}\]</span></p>
+<p>Note that for substances (such as Mg<sup>2+</sup>) that are heavily protein-bound in plasma, a correction factor is applied to account for the fact that not all of plasma X is availble to be filtered. (So divide by 0.7 for FEMg or 0.5 for FECa.)</p>
+<p><span class="math display" id="eq:FEX2">\[\begin{equation}
+  \text{fractional excretion, }FE_{X} = \frac{U_{X}}{P_{X} \times (1-b)} \times \frac{P_{Creat}}{U_{Creat}}
+  \tag{2.3}
+\end{equation}\]</span></p>
+<p>…where b is the fraction that is protein-bound (e.g. 0.3 for Mg).</p>
 <span class="math display" id="eq:TRX">\[\begin{equation}
   \text{tubular reabsorption, }TR_{X} = 1-FE_{X}
-  \tag{2.3}
+  \tag{2.4}
+\end{equation}\]</span>
+</div>
+<p>Note that FEs are hard to interpret in CKD; normal ranges quoted are for patients with normal GFR. As GFR declines, FE of all substances (Na<sup>+</sup>, K<sup>+</sup>, PO<sub>4</sub><sup>3-</sup>, Mg<sup>2+</sup> etc.) <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6959939/">all rise</a> (which makes sense: will preserve net renal excretion). Therefore FE<sub>X</sub> unreliable when eGFR below ~45 ml/min. Prefer 24 hr collections in that context.</p>
+<p>Derivation of FE:</p>
+
+<div class="eqnpanel">
+<p><span class="math display" id="eq:filtered">\[\begin{equation}
+  \text{filtered load} = \text{GFR} \times P_X = C_{Cr} \times P_X = V \times (U_{Cr} \div P_{Cr}) \times P_X
+  \tag{2.5}
+\end{equation}\]</span></p>
+<p><span class="math display" id="eq:excreted">\[\begin{equation}
+  \text{excreted} = V \times U_X
+  \tag{2.6}
+\end{equation}\]</span></p>
+<span class="math display" id="eq:FEderived">\[\begin{equation}
+  FE_X = \frac{\text{excreted}}{\text{filtered load}} = \frac{V \times U_X}{V \times (U_{Cr} \div P_{Cr}) \times P_X} = \frac{{P_{Cr} \times U_X}}{U_{Cr} \times P_X}
+  \tag{2.7}
 \end{equation}\]</span>
 </div>
 </div>
