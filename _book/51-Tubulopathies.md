@@ -122,6 +122,85 @@ dRTA associated with Ro, La, hyperIg.
 NDI common but almost always well-compensated.  
 GN associated with lymphoma.  
 
+<br>
+<br>
+
+## Lithium-associated tubulopathy
+
+Lithium causes:
+
+- AVP-R (NDI)   
+- (usually incomplete) dRTA  
+- chronic TIN  
+- podocytopathy   
+- hyperCa (in 10% - can lead to parathyroid hyperplasia, therefore not easily reversible) 
+
+<br>
+<br>
+
+### Pathogenesis
+
+Renal toxicity largely explicable by effects in the distal tubule - but may have more pervasive effects on the rest of the renal tubule and the glomerulus.  
+
+In [humans](https://pubmed.ncbi.nlm.nih.gov/10906157/) and [animals](https://pubmed.ncbi.nlm.nih.gov/3012187/), see chronic TIN with cortical and medullary cysts, predominantly arising from distal tubules (from Lectin stains).  High prevalence of FSGS and global GS.  
+
+<br>
+
+Chronic Li<sup>+</sup> leads to down-regulation of AQP2 expression from:  
+- direct reduction in APQ2 [mRNA](https://pubmed.ncbi.nlm.nih.gov/16495377/)  
+- direct effects on AQP2 [lysosomal degradation](https://pubmed.ncbi.nlm.nih.gov/21881002/)  
+- increased PGE2 production by medullary interstitial cells  
+- GSK3b inhibition > beta-catenin > cell-cycle arrest  
+- [growth-arrest](https://pubmed.ncbi.nlm.nih.gov/24408872/) of principle cells  
+
+AQP2 activity controlled by exo- and endo-cytosis, regulated by phosphorylation and ubiquitination of C-terminus.  
+
+<br>
+<br>
+
+### Polyuria
+
+AVP-R in up to 40%.  May [persist long-term](https://pubmed.ncbi.nlm.nih.gov/848808/).  
+
+Both AVP-D and primary polydipsia have been described in patients on chronic Li - therefore [may still require water deprivation test](https://www.uptodate.com/contents/renal-toxicity-of-lithium/).  Or perhaps copeptin test?  
+
+Rx options:  
+
+- low Na diet  
+- amiloride (preferable if continuing Li) - evidence from 20 patients!  
+- thiazide  
+- NSAIDs (indomethacin)    
+- dDAVP  
+- viagra (AJP 2012, Am J Nephron 2015) 
+- tamoxifen (AJP 2018)  
+
+Must closely monitor Li<sup>+</sup> levels if using diuretics (volume depletion > enhanced PCT reabsorption of Li<sup>+</sup> > higher Li<sup>+</sup> levels).  
+
+<br>
+<br>
+
+### TIN
+
+CKD from chronic TIN in up to 20%.  
+
+Best data from [Lancet meta-analysis, 2012](https://pubmed.ncbi.nlm.nih.gov/22265699/) and [Swedish registry report, 2014](https://pubmed.ncbi.nlm.nih.gov/24503277/).  
+
+eGFR c. 6 ml/min lower than matched controls.  
+
+Big increase in RR of ESKD (c. 8x) but absolute risk of ESKD remains reasonably low.  Assuming ESKD risk of 0.1% in the general population, this would be around 0.8% on long-term Li<sup>+</sup>.  (Matches well with reported rate in Lancet meta-analysis: 0.5%.)  There are relatively few published data.  In the Swedish registry report, ESKD occurred in 15% of the Li<sup>+</sup>-taking population.  This may be due to the older age of these patients; in their age-restricted control population (over 55 yrs), there was an ESKD rate of 2%.  
+
+Usually other classical RFs for CKD.  Mean duration of Li<sup>+</sup> therapy before ESKD was 27 years.  
+
+<br>
+<br>
+
+### Podocytopathy  
+
+Minimal change nephropathy [has been described](https://www.uptodate.com/contents/renal-toxicity-of-lithium/).  Occurs within first few months of therapy and reversible on stopping Li<sup>+</sup>.  
+
+FSGS and global GS classically considered to be secondary to the tubulopathy but this may be a direct effect (e.g. [foot process effacement common](https://pubmed.ncbi.nlm.nih.gov/10906157/)).  Good evidence for direct effect on podocyte homeostasis in [rodent and fly models](https://pubmed.ncbi.nlm.nih.gov/30679422/): inhibition of GSK3 results in podocyte apoptosis.   
+
+
 <!--
 
 <br>
