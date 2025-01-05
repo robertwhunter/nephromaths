@@ -89,7 +89,10 @@ Then measure UOsm (see above):
 
 Use Cr excretion to assess completeness of 24 hr collection.  [Expect](https://pubmed.ncbi.nlm.nih.gov/25858764/) 150 +/- 40 micromol/kg in women or 190 +/- 40 micromol/kg in men.  
 
+<br>
+
 Usual daily osmolar exretion is 10 mOsm/kg on a standard Western diet:   
+
  - when [this exceeds 900 mOsm](https://pubmed.ncbi.nlm.nih.gov/26687922/), urine volumes are appreciably larger  
  - when [this exceeds 1200 - 1400 mOsm](https://pubmed.ncbi.nlm.nih.gov/9125003/), there is a *bona fide* solute diuresis  
 
@@ -160,8 +163,6 @@ Urea levels also correlated pretty well with diagnosis (\< 5 mM = AVP-D with 98%
 Urine osmolality c. 300 mOsm in AVP-D and AVP-R c.f. 500 mOsm in dehydration or salt overload.  
 
 If there is an associated polyuria-polydipsia syndrome then can evaluate as above.  
-
-NB - think my current slides on this may be incorrect! - need to amend and also hyperNa section of nephromaths.  
 
 <br>
 <br>
