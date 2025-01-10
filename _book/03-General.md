@@ -34,7 +34,7 @@ For any disturbance in electrolyte or acid-base homeostasis it is usually worth 
 
 ### Vomiting
 
-The consequences of vomiting are reasonably complex.  Chloride loss leads to a metabolic alkalosis and the subsequent bicarbonaturia - and aldosterone secretion - lead to urinary losses of potassium (and to a lesser extent sodium) [@galla2000; @gennari2008; @luke2012a].  
+The consequences of vomiting are [reasonably complex](https://www.kidneyfish.net/post/bicarbonaturia/).  Chloride loss leads to a metabolic alkalosis and the subsequent bicarbonaturia - and aldosterone secretion - lead to urinary losses of potassium (and to a lesser extent sodium) [@galla2000; @gennari2008; @luke2012a].  
 
 In the `generation phase` of the metabolic alkalosis, gastric acid secretion (to compensate for losses in vomiting) is accompanied by secretion of HCO~3~ into the systemic circulation.  Initially this excess bicarbonate spills over into the urine, with the bicarbonaturia driving renal sodium and potassium loss.  
 
@@ -58,6 +58,10 @@ Burton Rose described two phases of the renal response to vomiting:
 
 Early after vomiting, metabolic alkalosis means that XS HCO~3~ is filtered, and the kidney cannot reabsorb this. Therefore bicarbonaturia drives natriuresis and kaliuresis (from increased distal Na delivery +/- volume contraction simulating aldosterone). By day 4, the kidney has upregulated ability to reabsorb HCO~3~, so natriuresis and kaliuresis abates, with paradoxically acid urine.  
 
+The consistently low U~Cl~ is helpful when distinguishing vomiting from salt-losing nephropathies: a FE~Cl~ \< 0.5% suggests vomiting or purging.  
+
+<br>
+
 ### Quantitative assessment after vomiting
 
 One entertaining exercise is to use the extent of any metabolic alkalosis to estimate the volume of vomitus [@kamel1990a].  The volume of distribution of bicarbonate approximates to total body water, TBW \@ref(eq:TBW) [@sabatini2009].  Therefore we can calculate:
@@ -80,6 +84,12 @@ This will of course under-estimate the true volume of vomit as it does not take 
 ### Diarrhoea
 
 The consequences of diarrhoea are more straightforward.  GI losses of bicarbonate and potassium tend to give rise to a metabolic (hyperchloraemic) acidosis and hypokalaemia [@gennari2008].  
+
+Chronic laxative use may not be disclosed.  Clinical features include:  
+
+- finger clubbing (senna)  
+- melanosis coli (senna)  
+- ammonium urate stones (radiolucent but visible on CTKUB) - thought to arise from the combination of hyperuricaemia from volume depletion and ammoniagenesis in response to chronic acidosis  
 
 
 ## Drugs 

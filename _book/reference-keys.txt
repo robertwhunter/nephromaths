@@ -181,8 +181,11 @@ pathogenesis
 polyuria-1
 tin
 podocytopathy
+salt-wasting-tubulopathies
 renal-tubular-acidosis
 classification-of-rta
+pathogenesis-of-hypokalaemic-rta
+pathogenesis-of-hyperkalaemic-rta
 associations
 investigation-of-suspected-rta
 causes-1

@@ -19,6 +19,44 @@
 <br>
 <br>
 
+### Pathogenesis of hypokalaemic RTA  
+
+Normally, the tubular threshold for HCO<sub>3</sub> is around 24 - 26 mM, so that plasma [HCO<sub>3</sub>] is maintained in that range.  
+
+In dRTA, there is no change in the tubular threshold for HCO<sub>3</sub> but due to a failure of distal acidification, urine pH never falls even in the face of systemic acidosis.  
+
+In pRTA, there is a [reduction in the apparent Tm](https://www.kidneyfish.net/post/bicarbonaturia/) (and hence tubular threshold) for HCO<sub>3</sub>.  As a consequence, in mild systemic acidosis, there is renal bicarbonate wasting, maintaining an alkaline urine.  However, as the acidosis becomes more profound and [HCO<sub>3</sub>] drops below the tubular threshold, there is no tubular HCO<sub>3</sub> loss and - because distal acidification remains intact - the urine can be acidified.  
+
+(These mechanisms were established by [Edelman and colleagues](https://pubmed.ncbi.nlm.nih.gov/6059425/) in children with RTA in the late 1960s.)
+
+![](figures/pRTA.png)
+Therefore:  
+
+- in dRTA: urine pH is never low (always well above 5.5); a negative acid balance can never be achieved - hence the severe skeletal phenotype  
+
+- in pRTA: urine pH may be alkaline or acid - depending on how profound the systemic acidosis is; negative acid balance can be achieved, avoiding a very severe skeletal phenotype    
+
+<br>
+
+Furthermore:  
+
+- in dRTA: relatively modest HCO~3~ supplementation is required in dRTA (in the order of 1 mmol per kg per day to regenerate that lost to the buffering of non-volatile acid)  
+
+- in pRTA: absolutely massive HCO~3~ supplementation - above 10 mmol per kg per day - would be required to drive systemic [HCO~3~] into the normal range; this might end up being counter-productive if the associated bicarbonaturia drives excessive K^+^ and Na^+^ loss  
+
+<br>
+<br>
+
+### Pathogenesis of hyperkalaemic RTA
+
+Two mechanisms account for type IV RTA:
+
+i) reduced mineralocorticoid activity in the distal nephron, meaning that there is less electrogenic Na^+^ reabsorption (through ENaC) and a diminished electrical force driving H^+^ and K^+^ secretion; 
+
+ii) hyperkalaemia *per se* impairs ammoniagenesis in the PCT  
+
+<br>
+<br>
 
 ### Associations
 
@@ -54,8 +92,6 @@ Test urinary RBP (retinol binding protein) as the most sensitive marker of proxi
 <br>
 
 USS more sensitive than CT for nephrocalcinosis in the context of hypoparathyroidism, but CT more specific (Boyce JCEM 2013).  Plain films very insensitive.  Therefore prefer USS for screening (but consider CT for verification).  
-
-
 
 ### Causes
 

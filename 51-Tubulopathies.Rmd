@@ -200,6 +200,40 @@ Minimal change nephropathy [has been described](https://www.uptodate.com/content
 
 FSGS and global GS classically considered to be secondary to the tubulopathy but this may be a direct effect (e.g. [foot process effacement common](https://pubmed.ncbi.nlm.nih.gov/10906157/)).  Good evidence for direct effect on podocyte homeostasis in [rodent and fly models](https://pubmed.ncbi.nlm.nih.gov/30679422/): inhibition of GSK3 results in podocyte apoptosis.   
 
+<br>
+<br>
+
+## Salt-wasting tubulopathies
+
+The inherited salt-wasting tubulopathies (Bartter and Gitleman syndromes) are characterised by profound salt-wasting with salt-craving and hypokalaemic alkalosis from secondary hyperaldosteronism.  
+
+Gitelman commoner than Bartter. In adults, usually type 3 Bartter (overlap with Gitelman phenotype as ClC-Kb also expressed in DCT).
+
+
+In **Bartter** syndrome, there is also:  
+
+- [uncoupled tubuloglomerular feedback](https://pubmed.ncbi.nlm.nih.gov/33509356/) (in the absence of NaKCl uptake by MD cells, the MD behaves as if there is profound volume depletion, stimulating PGE~2~ and renin production - hence role for NSAIDs)  
+
+- hypercalciuria and nephrocalcinosis  
+
+- usually normal plasma Mg (except in some cases of type 3)  
+
+<br>
+
+In **Gitelman** syndrome, there is also:  
+
+- hypocalciuria  
+- hypomagnesaemia  
+- chondrocalcinosis   
+- sometimes hypertension in adults  
+
+<br>
+
+Adults can develop CKD and secondary FSGS (when RASi usually used - otherwise avoid).  
+
+<br>
+
+Liberal NaCl and K (+/- Mg) supplementation is required to target K \> 3 mM and Mg \> 0.6 mM.  Risk of dangerous hypoK during intercurrent vomiting / diarrhoea.  See [expert guidelines](https://pubmed.ncbi.nlm.nih.gov/33509356/).  
 
 <!--
 
