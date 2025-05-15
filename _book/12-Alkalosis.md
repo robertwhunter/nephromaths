@@ -77,12 +77,36 @@ The causes of a metabolic alkalosis can be classified as being either due to chl
 
 \* in chloride-responsive states UCl \< 10 mM except where chloride is being lost in the urine (i.e. diuretics / Gitelman / Barrter syndrome).
 
+
+![](figures/alkalosis_differential.png)
+
+Perhaps a more useful classification would be:
+
+i) Pendrin-dependent with volume depletion = extra-renal chloride loss  
+ii) ENaC-dependent with volume depletion = renal chloride loss (secondary aldosteronism)  
+iii) ENaC-dependent with volume expansion = primary mineralocorticoid XS  
+iv) base-loading  
+
+Initial diagnostic work-up includes checking volume status, blood pressure, serum chloride and urinary chloride.  Checking renin and aldosterone levels then helpful if suspected mineralocorticoid XS.  
+
 As a general rule, extreme alkalosis (HCO~3~ \> 45 mM) can *only* be due to vomiting (and consider pyloric stenosis / Zollinger Ellison syndrome).  
 
-Post-hypercapnic alkalosis occurs if chronic hypercapnia suddenly corrected (e.g. by mechanical ventilation).
 
-The milk-alkali syndrome is the triad of hypercalcaemia, metabolic alkalosis and ingestion of large quantities of calcium with alkali; hypercalcaemia increases renal bicarbonate reabsorption (exacerbating alkalosis).
+### Specific syndromes and their mechanisms
 
+**Cystic fibrosis**: loss of chloride in sweat and / or downregulation of renal pendrin (so uCl may be high or low).  
+
+**Post-hypercapnic alkalosis**: occuds when chronic hypercapnoea is abruptly corrected - usuall in the context of mechanical ventilation.  Chronic increase in renal HCO~3~ reabsorption and ammoniagenesis leads to loss of urinary NH~4~Cl.  Therefore induces a low-Cl state that [requires Cl resuscitation](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/13749130/) to correct.  
+
+**Pendred syndrome** (AR): no acid-base disturbace at baseline but susceptible to alkalosis when provoked (e.g. by thiazides).  
+
+**Calcium-alkali syndrome** (formerly 'milk-alkali'): triad of hypercalcaemia, alkalosis, AKI.  Caused by ingestion of large quantities of calcium (+/- alkali); often exacerbated by thiazides.  Inhibition of CaSR in TALH causes salt-wasting (and hence chloride depletion and secondary hyperaldosteronism) and alkalosis stimulates Ca^2+^ reabsorption through [TRPV5](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/20413609/) in DCT.  So a vicious cycle; abort with IV NaCl.  
+
+**Crack cocaine**: sometimes made with drain cleaner.  
+
+**Hypokalaemia**: associated with alkalosis because of a common underlying cause (e.g. hyperaldosteronsim), cell shifts and / or hypokalaemia stimulating ammoniagenesis.  
+
+<br>
 
 ## Chloride
 

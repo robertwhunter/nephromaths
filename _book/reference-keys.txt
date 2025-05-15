@@ -95,6 +95,7 @@ wgma
 HCMA
 metabolic-alkalosis-chloride-homeostasis
 causes-of-a-metabolic-alkalosis
+specific-syndromes-and-their-mechanisms
 chloride
 chloride-depletion-alkalosis
 water-and-sodium

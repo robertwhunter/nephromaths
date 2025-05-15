@@ -193,8 +193,9 @@ Interpretation of [uOG](https://www.uptodate.com/contents/urine-anion-and-osmola
 
 ## Causes of a metabolic acidosis
 
-### Approach to metabolic acidosis
+![](figures/acidosis_differential.png)
 
+### Approach to metabolic acidosis
 
 ```{block2, type='algpanel'}
 Order of investigations in metabolic acidosis:  
@@ -234,9 +235,9 @@ df_table %>% table_2cols()
 
 ```
 
-Propylene glycol (a solvent for parenteral medications: lorazepam, diazepam, phenobarbital) is metabolised to L- and D-lactate.
+Propylene glycol (a solvent for parenteral medications: lorazepam, diazepam, phenobarbital) is metabolised to L- and D-lactate.  
 
-\* WGMA with elevated OG = EtOH ketoacidosis, MeOH and the glycols. The OG is NOT elevated with salicylates. There is a time-dependant conversion from OG to AG following ingestion of toxic alcohol (EG > glycolic acid > oxalate). 
+\* WGMA with elevated OG = EtOH ketoacidosis, MeOH and the glycols. The OG is NOT elevated with salicylates. There is a time-dependant conversion from OG to AG following ingestion of toxic alcohol (EG > glycolic acid > oxalate).  
 
 NB Ethylene glycol = high lactate (false +ve) on ABG machine but not formal lab assay.  Administer fomepizole early (before significant acidosis). Indications for RRT (prefer HD to HF): acidosis, renal failure, EG level \> 50 mg/L.  
 
