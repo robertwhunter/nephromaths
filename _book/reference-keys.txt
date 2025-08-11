@@ -69,7 +69,7 @@ tonicity
 gaps
 general-approach-to-a-patient-with-electrolyte-disturbance
 vomit
-electrolyte-content-of-gi-fluids
+electrolyte-content-of-body-fluids
 vomiting
 quantitative-assessment-after-vomiting
 diarrhoea
