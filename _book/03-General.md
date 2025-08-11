@@ -17,18 +17,18 @@ For any disturbance in electrolyte or acid-base homeostasis it is usually worth 
 ### Electrolyte content of body fluids
 
 
-|source                                 |Na        |Cl       |K        |H       |HCO3     |consequence                                                  |
-|:--------------------------------------|:---------|:--------|:--------|:-------|:--------|:------------------------------------------------------------|
-|vomiting / NG                          |20 - 60   |140      |10 - 14  |60 - 80 |-        |hypochloraemic hypokalaemic alkalosis                        |
-|bile                                   |150       |100      |5        |-       |30 - 40  |                                                             |
-|diarrhoea / colostomy                  |30 - 140  |60       |30 - 70  |-       |20 - 80  |                                                             |
-|high-volume ileostomy                  |100 - 140 |75 - 125 |5 - 10   |-       |0 - 30   |                                                             |
-|low-volume ileostomy                   |50 - 100  |25 - 75  |5 - 10   |-       |0 - 30   |                                                             |
-|pancreatic                             |125 - 140 |50 - 75  |5 - 10   |-       |80 - 140 |                                                             |
-|jejunal                                |140       |135      |5        |-       |10       |                                                             |
-|fever / dehydration / hyperventilation |-         |-        |-        |-       |-        |hypernatraemia                                               |
-|polyuria                               |variable  |variable |variable |-       |variable |                                                             |
-|chyle                                  |140       |105      |5        |-       |25       |electrolytes similar to plasma; loss of fat-soluble vitamins |
+|source                                 |Na        |Cl       |K        |H  |HCO3     |consequence                                                  |
+|:--------------------------------------|:---------|:--------|:--------|:--|:--------|:------------------------------------------------------------|
+|vomiting / NG                          |60        |140      |10       |80 |-        |hypochloraemic hypokalaemic alkalosis                        |
+|bile                                   |150       |100      |5        |-  |40       |                                                             |
+|diarrhoea / colostomy                  |30 - 140  |60       |30 - 60  |-  |40 - 80  |                                                             |
+|high-volume ileostomy                  |100 - 140 |75 - 125 |5        |-  |0 - 30   |                                                             |
+|low-volume ileostomy                   |50 - 100  |25 - 75  |5        |-  |0 - 30   |                                                             |
+|pancreatic                             |140       |75       |8        |-  |100      |                                                             |
+|jejunal                                |140       |135      |5        |-  |10       |                                                             |
+|fever / dehydration / hyperventilation |-         |-        |-        |-  |-        |hypernatraemia                                               |
+|polyuria                               |variable  |variable |variable |-  |variable |                                                             |
+|chyle                                  |140       |105      |5        |-  |25       |electrolytes similar to plasma; loss of fat-soluble vitamins |
 
 <!-- +--------------------------+----------+----------+----------+-----------+ -->
 <!-- |fluid                     |Na (mM)   |K (mM)    |Cl (mM)   |HCO~3~ (mM)| -->
@@ -44,7 +44,7 @@ For any disturbance in electrolyte or acid-base homeostasis it is usually worth 
 <!-- |pancreatic juice          |140       |5         |75        |140        | -->
 <!-- +--------------------------+----------+----------+----------+-----------+ -->
 
-(all values are in mM; data from *FLUID THERAPY and disorders of electrolye balance*, WH Taylor, 1970; [@gennari2008] & NICE Guidance on IV Fluid Therapy, 2017).  
+All values are in mM; data from *FLUID THERAPY and disorders of electrolye balance*, WH Taylor, 1970; [@gennari2008] & [NICE Guidance on IV Fluid Therapy, 2017](https://www.nice.org.uk/guidance/cg174/resources).  
 
 <br>
 

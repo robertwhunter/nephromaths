@@ -36,7 +36,7 @@ knitr::kable(df_body_fluids)
 <!-- |pancreatic juice          |140       |5         |75        |140        | -->
 <!-- +--------------------------+----------+----------+----------+-----------+ -->
 
-(all values are in mM; data from *FLUID THERAPY and disorders of electrolye balance*, WH Taylor, 1970; [@gennari2008] & NICE Guidance on IV Fluid Therapy, 2017).  
+All values are in mM; data from *FLUID THERAPY and disorders of electrolye balance*, WH Taylor, 1970; [@gennari2008] & [NICE Guidance on IV Fluid Therapy, 2017](https://www.nice.org.uk/guidance/cg174/resources).  
 
 <br>
 

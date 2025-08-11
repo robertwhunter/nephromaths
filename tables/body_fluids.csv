@@ -1,10 +1,10 @@
 source,Na,Cl,K,H,HCO3,consequence
-vomiting / NG,20 - 60,140,10 - 14,60 - 80,-,hypochloraemic hypokalaemic alkalosis
-bile,150,100,5,-,30 - 40,
-diarrhoea / colostomy,30 - 140,60,30 - 70,-,20 - 80,
-high-volume ileostomy,100 - 140,75 - 125,5 - 10,-,0 - 30,
-low-volume ileostomy,50 - 100,25 - 75,5 - 10,-,0 - 30,
-pancreatic,125 - 140,50 - 75,5 - 10,-,80 - 140,
+vomiting / NG,60,140,10,80,-,hypochloraemic hypokalaemic alkalosis
+bile,150,100,5,-,40,
+diarrhoea / colostomy,30 - 140,60,30 - 60,-,40 - 80,
+high-volume ileostomy,100 - 140,75 - 125,5,-,0 - 30,
+low-volume ileostomy,50 - 100,25 - 75,5,-,0 - 30,
+pancreatic,140,75,8,-,100,
 jejunal,140,135,5,-,10,
 fever / dehydration / hyperventilation,-,-,-,-,-,hypernatraemia
 polyuria,variable,variable,variable,-,variable,
