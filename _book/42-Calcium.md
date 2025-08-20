@@ -22,7 +22,7 @@ Drug causes of hypercalcaemia:
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
-   <td style="text-align:left;"> calcium-containing antacid preps (milk-alkali) </td>
+   <td style="text-align:left;"> calcium-containing antacid preps (calcium-alkali) </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
@@ -34,7 +34,7 @@ Drug causes of hypercalcaemia:
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
-   <td style="text-align:left;"> calcium-containing antacid preps (milk-alkali) </td>
+   <td style="text-align:left;"> calcium-containing antacid preps (calcium-alkali) </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;"> Stimulation of PTH secretion </td>
@@ -56,6 +56,7 @@ Drug causes of hypercalcaemia:
 ## Investigations in hypercalcaemia:
 
 ![](figures/HyperCa.png)
+See [alkalosis chapter](#alksyndromes) for a description of the calcium-alkali syndrome.  
 
 ## Urine calcium
 

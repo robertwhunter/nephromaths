@@ -92,7 +92,7 @@ Initial diagnostic work-up includes checking volume status, blood pressure, seru
 As a general rule, extreme alkalosis (HCO~3~ \> 45 mM) can *only* be due to vomiting (and consider pyloric stenosis / Zollinger Ellison syndrome).  
 
 
-### Specific syndromes and their mechanisms
+### Specific syndromes and their mechanisms {#alksyndromes}
 
 **Cystic fibrosis**: loss of chloride in sweat and / or downregulation of renal pendrin (so uCl may be high or low).  
 

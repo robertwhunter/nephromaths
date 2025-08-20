@@ -23,6 +23,7 @@ df_table %>% table_2cols()
 ## Investigations in hypercalcaemia:
 
 ![](figures/HyperCa.png)
+See [alkalosis chapter](#alksyndromes) for a description of the calcium-alkali syndrome.  
 
 ## Urine calcium
 
