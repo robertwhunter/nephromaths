@@ -101,7 +101,7 @@ Chronic laxative use may not be disclosed.  Clinical features include:
 
 - finger clubbing (senna)  
 - melanosis coli (senna)  
-- ammonium urate stones (radiolucent but visible on CTKUB) - thought to arise from the combination of hyperuricaemia from volume depletion and ammoniagenesis in response to chronic acidosis  
+- ammonium urate stones (radiolucent but visible on CTKUB) - thought to arise from the combination of ammoniagenesis in response to chronic acidosis, acid urine (decreasing urate solubility) and volume depletion (concentrated urine)
 
 
 ## Drugs 

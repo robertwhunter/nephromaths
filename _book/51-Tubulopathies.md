@@ -225,7 +225,7 @@ In **Gitelman** syndrome, there is also:
 - hypocalciuria  
 - hypomagnesaemia  
 - chondrocalcinosis   
-- sometimes hypertension in adults  
+- [hypertension](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/23328711/) in adults (40 - 50%); renin elevated     
 
 <br>
 
