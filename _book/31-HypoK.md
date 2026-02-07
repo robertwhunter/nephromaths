@@ -30,6 +30,13 @@ iii) K loss (renal or extra-renal)
 <!--         +  *diarrhoea, villous adenoma*   -->
 
 <table>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
 <tbody>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL </td>

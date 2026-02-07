@@ -64,11 +64,12 @@ Causes of hyperchloraemic acidosis:
 
 <br>
 
-Fanconi = glucose, urate, phosphate, aa, LWMP (uPCR > 50 without uACR or RBP), vitD deficiency
+Fanconi = glucose, urate, phosphate, aa, LWMP (uPCR > 50 without uACR or RBP), vitD deficiency.  VitD deficiency is associated with pRTA.  This iscommonly explained as pRTA causing osteomalacia from impaired hydroxylation and hypoPO4 but there are some case reports suggesting vitD deficiency as a *cause* of pRTA.  
+
+NB can get a transient Fanconi-type syndrome (without glycosuria) in untreated dRTA; resolves when hypokalaemia-acidosis is corrected.   
 
 Suspect incomplete dRTA if recurrent stones, nephrocalcinosis and borderline low or low-normal TCO2.  
 
-NB can get a transient Fanconi-type syndrome (without glycosuria) in untreated dRTA.  
 
 <br>
 <br>
@@ -222,10 +223,13 @@ In **Bartter** syndrome, there is also:
 
 In **Gitelman** syndrome, there is also:  
 
-- hypocalciuria  
+- hypocalciuria with ectopic calcification (chondrocalcinosis)   
 - hypomagnesaemia  
-- chondrocalcinosis   
 - [hypertension](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/23328711/) in adults (40 - 50%); renin elevated     
+
+<br>
+
+Bartter type III is a special case because also low Mg as CLCNKB encodes for a basolateral Cl channel that is also present in DCT; so type III Bartter is mild (presents in adulthood) and may resemble Gitleman.  It is the most common form.  
 
 <br>
 

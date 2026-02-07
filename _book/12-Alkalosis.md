@@ -21,6 +21,13 @@ The causes of a metabolic alkalosis can be classified as being either due to chl
 <!--         +  *hypokalaemia*   -->
 
 <table>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
 <tbody>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;"> LOW ECF VOLUME = CHLORIDE-DEPLETION / CHLORIDE-RESPONSIVE </td>

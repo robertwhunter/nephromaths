@@ -74,7 +74,7 @@ vomiting
 quantitative-assessment-after-vomiting
 diarrhoea
 drugs
-iv-fluids-electrolyte-supplements
+supplements
 diet
 basic-set-of-investigations
 acid-base-chloride
@@ -191,6 +191,7 @@ associations
 investigation-of-suspected-rta
 causes-1
 fanconi-syndrome
+management-of-adult-drta
 app1
 notation
 glossary-of-abbreviations
@@ -199,4 +200,5 @@ ph-and-h
 urine-specific-gravity-and-uosm
 appendix-3---whats-the-mechanism
 mechanisms-in-drta-see-espn-clinical-practice-points-ndt-2021
+mechanisms-in-salt-wasting-tubulopathy-see-dutta-layton-ajp-renal-2024-a-modelling-study
 appendix-4---references

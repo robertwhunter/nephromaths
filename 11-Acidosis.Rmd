@@ -18,6 +18,8 @@ NB some people also include P~K~ in the calculation.
 \end{equation}
     
 NB ADD ON to correct for hypoalbuminaemia.  
+
+NB also remember to use the actual (NOT standardised) bicarbonate in AG calculation.  
     
 ```
 

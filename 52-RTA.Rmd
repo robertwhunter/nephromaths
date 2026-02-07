@@ -60,9 +60,18 @@ ii) hyperkalaemia *per se* impairs ammoniagenesis in the PCT
 
 ### Associations
 
+Classically:  
+
 - dRTA CaP stones (alkaline urine, hypocitraturia, hypercalciuria)    
-- nephrocalcinosis (in inherited forms particularly)    
-- osteoporosis  
+- nephrocalcinosis (near-universal in inherited forms)    
+- osteomalacia / rickets  
+
+<br>
+
+Also often present but under-appreciated:  
+
+- urinary concentrating deficit if nephrocalcinosis (therefore vulnerable to dehydration)   
+- CKD from nephrocalcinosis     
 
 <br>
 <br>
@@ -92,6 +101,9 @@ Test urinary RBP (retinol binding protein) as the most sensitive marker of proxi
 <br>
 
 USS more sensitive than CT for nephrocalcinosis in the context of hypoparathyroidism, but CT more specific (Boyce JCEM 2013).  Plain films very insensitive.  Therefore prefer USS for screening (but consider CT for verification).  
+
+<br>
+<br>
 
 ### Causes
 
@@ -139,16 +151,42 @@ df_table %>% table_3cols(caps = T)
 
 <br>
 
+**Inherited dRTA** caused by mutations in A-IC proteins (see [here](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/28233610/) & [here](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/33914889/)):  
+
+- apical H+-ATPase subunits (ATP6V1B1, ATP6V0A4) \> AR 
+- basolateral HCO3-Cl exchanger (AE1 aka SLC4A1) \> AD/AR 
+- transcription factor regulating H+-ATPase expressuib (FOXI1) \> AR 
+- unknown (WDR72) \> AR 
+
+All of the mutations that can affect H+-ATPase function (i.e. including FOXI1) may have SNHL.  SNHL nearly universal in ATP6VB1; around 50% in ATP6V04.  Some AE1 mutations associated with haemolytic anaemia (not all because of alternative splicing in red cell and kidney isoforms).  
+
+AR forms almost always presents with failure-to-thrive in first year of life.  AD SLC4A1 mutations and AR WDR72 mutations are milder phenotype: typically present in primary school and often by screening in family members.  
+
+AD SLC4A1 disease (the commonest form) typically diagnosed in adolescence / adulthood.  
+
+Similarly, idRTA (incomplete) usually in adults: suspect if nephrocalcinosis / stones and borderline HCO3 / hypocitraturia.  K > 3.8 mM is strongly predictive against this diagnosis.  
+
+<br>
+<br>
+
+Acquired causes of dRTA:
+
+- pSS
+- other autoimmune (SLE, PBC, AIH, thyroiditis)
+- MSK
+- nephrocalcinosis (e.g. FHCCN)
+- drugs
+
+<br>
+
 Sjogrens classically causes a dRTA (but can also cause pRTA if interstitial nephritis).  Autoimmune dRTA is Sjogrens in 80 - 90%.  Subclinical tubular involvment in 30% Sjorens.  Often associated with hypocitruria and low-grade features of Fanconi syndrome.  Treat CIN with MMF or pred / RTX.  Treat dRTA with K citrate.  Autoantibodies to H+-ATPase or bicarb exchanger.  
 
 <br>
 
 Mitochondrial cytopathy: raised CK, abnormal number of microchondria (EM).
 
-<!-- ### Treatment -->
-
-<!-- +  K citrate  -->
-<!-- +  +/- NaHCO~3~  -->
+<br>
+<br>
 
 ## Fanconi syndrome
 
@@ -172,19 +210,27 @@ LMW proteinuria is the most sensitive test (because megalin is the most energy-s
 <!-- <br> -->
 <!-- <br> -->
 
-<!-- ## Management -->
+## Management of adult dRTA
 
-<!-- **Alkali supplements** for RTA (see [ESPN clinical practice points, NDT 2021](https://doi: 10.1093/ndt/gfab171)):   -->
+**Alkali supplements** for RTA (see [ESPN clinical practice points, NDT 2021](https://doi: 10.1093/ndt/gfab171)):
 
-<!-- - citrate unpalatable; longer half-life (as requires hepatic metabolism), more concentrated (2 - 3 mmmol/ml)   -->
-<!-- - HCO3 associated with belching; less concentrated (1 mmol/ml)   -->
-<!-- - microgranular formulation of K citrate and KHCO3 since 2017   -->
-<!-- - usually 2 - 3 mmol/kg/day in adults (target HCO3, Cl, K and UCa); start at 60 mmol/day   -->
-<!-- - may need additional KCl   -->
-<!-- - avoid thaizides (will aggravate hypoK)   -->
-<!-- - should have surveillance USS   -->
+<!-- - citrate unpalatable; longer half-life (as requires hepatic metabolism), more concentrated (2 - 3 mmmol/ml) -->
+<!-- - HCO3 associated with belching; less concentrated (1 mmol/ml) -->
+<!-- - microgranular formulation of K citrate and KHCO3 since 2017 -->
+<!-- - usually 2 - 3 mmol/kg/day in adults (target HCO3, Cl, K and UCa); start at 60 mmol/day -->
+<!-- - may need additional KCl -->
+<!-- - avoid thaizides (will aggravate hypoK) -->
+<!-- - should have surveillance USS -->
 
-<!-- <br> -->
+- target normal HCO3, Cl, K and a urine Ca-excretion within normal range  
+- usually 2 - 3 mEq/kg/day alkali in adults  
+- prefer K-citrate for the reasons [here](#supplements), prefer frequent dosing  
+- ...and sometimes need additional K supplements  
+- vegan diet (or as vegan as possible)  
+- DEXA every 2 - 3 yrs in adults  
+- surveillance USS 1 - 2 yrs (or CTKUB) to detect stones early   
+
+<br>
 
 <!-- Uptodate:   -->
 

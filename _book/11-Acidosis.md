@@ -17,6 +17,8 @@ NB some people also include P~K~ in the calculation.
 \end{equation}
     
 NB ADD ON to correct for hypoalbuminaemia.  
+
+NB also remember to use the actual (NOT standardised) bicarbonate in AG calculation.  
     </div>\EndKnitrBlock{eqnpanel}
 
 ![](figures/cAG.png)
@@ -218,6 +220,12 @@ Differential diagnosis of a wide-gap metabolic acidosis:
 <!-- +  **K** \*^?^ ketoacidosis -->
 
 <table>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
 <tbody>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;"> G </td>
@@ -284,6 +292,13 @@ The causes can be classified using the urinary anion gap \@ref(eq:urineAGap) and
 <!--         +  *biliary secretions* -->
 
 <table>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
 <tbody>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;"> POS U AG (UNABLE TO ACIDIFY URINE) </td>

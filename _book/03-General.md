@@ -113,7 +113,7 @@ Chronic laxative use may not be disclosed.  Clinical features include:
 Many drugs can affect renal electrolyte handling.  Some will be obvious (e.g. renin-angiotensin system inhibitors and diuretics); some are less so.  It is worth paying particular attention to antimicrobial agents [@zietse2009], anti-virals, PPIs and chemotherapy.  Ask about drug exposure in the past; drugs such as cisplatin or lithium can cause changes in renal electrolyte handling that persist for many years.  
 
 
-## IV fluids & electrolyte supplements
+## IV fluids & electrolyte supplements {#supplements}
 
 0.9% NaCl can induce a [hyperchloraemic acidosis](#HCMA).
 
@@ -144,11 +144,14 @@ It can be helpful to consider electrolyte supplements in the context of normal d
 
 NB the values (all mmoles) in the table above are very approximate; HCO3 refers to bicarbonate or bicarbonate-equivalents (i.e. substances that will be metabolised to bicarbonate).   
 
-Citrate often preferred to HCO~3~ (either as NaHCO~3~ or in sando-K) for long-term supplementation in RTA for three reasons:  
+K citrate often preferred to HCO~3~ (either as NaHCO~3~ or in sando-K) for long-term supplementation in RTA for at least 6 reasons:  
 
-i) because will correct hypocituria (and reduce stone risk);  
-ii) will avoid a sodium load (in NaHCO~3~) which will increase UCa and increase stone risk;  
-iii) bicarbonate can be poorly tolerated as it is converted to CO~2~ in the stomach, causing bloating.  
+i) rational treatment to correct both hypoK and acidosis;  
+ii) will correct hypocituria (and reduce stone risk);  
+iii) will avoid a sodium load (in NaHCO~3~) which could theoretically increase UCa and increase stone risk;  
+iv) bicarbonate can be poorly tolerated as it is converted to CO~2~ in the stomach, causing bloating; 
+v) as citrate is a 'pro-drug' (relies on hepatic conversion to HCO~3~), may extend half-life; 
+vi) liquid forms are more concentrated than HCO~3~.  
 
 Conversion of citrate may be impaired in liver disease.    
 

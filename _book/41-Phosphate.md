@@ -126,6 +126,13 @@ Broadly, hypophosphataemia may be due to:
 <!--   - FGF23-indep: with Fanconi syndrome (inherited or acquired)   -->
 
 <table>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
 <tbody>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;"> CELLULAR SHIFTS </td>

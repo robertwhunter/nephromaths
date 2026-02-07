@@ -37,6 +37,13 @@ Therefore the causes of hyperkalaemia are:
 <!--     - NCC activation (PHAII, CNIs)   -->
 
 <table>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
 <tbody>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;"> EXCESSIVE K LOAD </td>

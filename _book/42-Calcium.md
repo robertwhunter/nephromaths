@@ -11,6 +11,12 @@ Hypercalcaemia can be classified as PTH-dependent or PTH-independent:
 Drug causes of hypercalcaemia:  
 
 <table>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
 <tbody>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;"> Mechanism </td>
