@@ -97,6 +97,45 @@ Normally, kidney has to dispose ot 70 mmol non-volatile acid per day through TA 
 <br>
 <br>
 
+### Citrate metabolism in acidosis  
+
+In reponse to chronic acidosis, the proximal tubules also increase citrate reabsorption (with consequent hypocituria).  
+
+[Hypocituria](https://www.ncbi.nlm.nih.gov/books/NBK564392/#:~:text=Etiology,%5D%5B20%5D%5B21%5D) is a common risk factor for urolithiasis.  (See also this [chapter](https://link.springer.com/rwe/10.1007/978-3-030-52719-8_111) and [review](https://www-nature-com.eux.idm.oclc.org/articles/s41581-023-00699-9).)
+
+Citrate is present in diet: high in citrus fruits and coconut water.  Is filtered by glomeruli and reabsorbed in the PCT by the sodium-dicarboxylic acid cotransporter, NaDC1.  (Citric acid is of course a tricarboxylic acid.)  Metabolised in rpTEC mitochondria in citric acid cycle to make CO~2~ and H~2~O.  NaDC1 is unregulated in response to metabolic acidosis: makes sense as a defence against systemic acidosis by retaining alkali.  
+
+Citrate is the most abundant urinary organic base and the most important chelator for urinary calcium.  Therefore hypocituria causes calcium oxalate / calcium phosphate stones.  
+
+<br>
+
+**Risk factors for hypocituria**:
+
+- dietary (high meat / high Na / low fruit)  
+- dRTA (due to systemic acidosis / hypoK)...  
+- ...but not Fanconi pRTA (as cannot reabsorb filtered citrate)  
+- chronic diarrhoea (due to metabolic acidosis / hypoK)
+- chronic GI malabsorption / Roux-en-Y bypass
+- hypokalaemia (see below)  
+- topiramate (due to metabolic acidosis)  
+- thiazides (due to hypoK)  
+
+The effect of hypoK causing hypocituria explained as hypoK causing intercellular acidification of rpTECs, so [stimulating the Na-citrate co-transporter](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/1683169/).  
+
+<br>
+
+**Treatment of hypocituria**:
+
+Can measure 24 hr citrate excretion or just treat empirically in most stone-formers:    
+
+- dietary measures  
+- K citrate supplements  
+
+K citrate has been shown to reduce urinary calcium excretion in CaOx stone-formers (perhaps due to correction of acidosis / correction of hypoK / binding calcium in the gut).  
+
+<br>
+<br>
+
 ### Renal response to alkalosis
 
 An alkalosis will correct automatically as HCO~3~- exceeds the Tm.  

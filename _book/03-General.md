@@ -147,7 +147,7 @@ NB the values (all mmoles) in the table above are very approximate; HCO3 refers 
 K citrate often preferred to HCO~3~ (either as NaHCO~3~ or in sando-K) for long-term supplementation in RTA for at least 6 reasons:  
 
 i) rational treatment to correct both hypoK and acidosis;  
-ii) will correct hypocituria (and reduce stone risk);  
+ii) both the K and the citrate will correct hypocituria (and reduce stone risk);  
 iii) will avoid a sodium load (in NaHCO~3~) which could theoretically increase UCa and increase stone risk;  
 iv) bicarbonate can be poorly tolerated as it is converted to CO~2~ in the stomach, causing bloating; 
 v) as citrate is a 'pro-drug' (relies on hepatic conversion to HCO~3~), may extend half-life; 

@@ -83,6 +83,7 @@ ph
 adaptation
 renal-control-of-acid-base-homeostasis
 normal-renal-response-to-chronic-acidosis
+citrate-metabolism-in-acidosis
 renal-response-to-alkalosis
 metabolic-acidosis
 serum-anion-osmolar-gaps
