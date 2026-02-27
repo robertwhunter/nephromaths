@@ -155,7 +155,9 @@ vi) liquid forms are more concentrated than HCO~3~.
 
 Conversion of citrate may be impaired in liver disease.    
 
-K citrate liquid is unpalatable.  Recommendations to improve palatability include diluting with a glass of water / lemonade / apple juice and following dose with a large volume of water, drinking chilled, using a straw and / or adding [artificial sweeteners](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/21815827/).  Rinse mouth afterwards (but avoid brushing for 30 mins).  Take with meals.  Effervescent, wax-embedded cystals or granules are alternative solid forms.  
+K citrate liquid is unpalatable.  Recommendations to improve palatability include diluting with a glass of water / lemonade / apple juice and following dose with a large volume of water, drinking chilled, using a straw and / or adding [artificial sweeteners](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/21815827/).  Rinse mouth afterwards (but avoid brushing for 30 mins).  Take after meals.  Effervescent, wax-embedded cystals or granules are alternative solid forms.  
+
+Potassium citrate liquid (5 ml) has same composiation as one Effercitrate tablet: K citrate 1.5 g plus citric acid 0.25 g.  This delivers approximately 14 mmol K and 6 -- 8 mmol citrate.  (If you do the maths is 6 mmmol but effercitrate product documentation says 8 mmol).  
 
 Various "Lemonade therapies" have been tested as potential home remedies.  Lemon juice will deliver citrate but not much potassium (which might be important - see above).  A typical starting dose is 60 -- 120 ml lemon juice per day (very approximately 30 -- 60 mmol citrate).  Studies comparing to K citrate supplements are small and have variable results, but overall suggest that "lemonade therapy" can increase urinary citrate but to a lesser extent than K citrate supplements.  Adherence is limited (due to poor tolerability) and definitive evidence of efficacy at preventing stones is lacking.  See [here](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/17919696/), [here](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/34977512/) and [here](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/17572176/).  
 
