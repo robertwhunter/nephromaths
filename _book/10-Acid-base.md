@@ -103,7 +103,13 @@ In reponse to chronic acidosis, the proximal tubules also increase citrate reabs
 
 [Hypocituria](https://www.ncbi.nlm.nih.gov/books/NBK564392/#:~:text=Etiology,%5D%5B20%5D%5B21%5D) is a common risk factor for urolithiasis.  (See also this [chapter](https://link.springer.com/rwe/10.1007/978-3-030-52719-8_111) and [review](https://www-nature-com.eux.idm.oclc.org/articles/s41581-023-00699-9).)
 
-Citrate is present in diet: high in citrus fruits and coconut water.  Is filtered by glomeruli and reabsorbed in the PCT by the sodium-dicarboxylic acid cotransporter, NaDC1.  (Citric acid is of course a tricarboxylic acid.)  Metabolised in rpTEC mitochondria in citric acid cycle to make CO~2~ and H~2~O, generating bicarbonate (3 molecules HCO~3~ per 1 molecule of citrate).  (Analagous to citrte metabolism in the liver andmuscle.)  NaDC1 is upregulated in response to metabolic acidosis: presumably evolved as a defence against systemic acidosis by retaining alkali.  
+Citrate is present in diet: high in citrus fruits and coconut water.  Is filtered by glomeruli and reabsorbed in the PCT by the sodium-dicarboxylic acid cotransporter, NaDC1.  (Citric acid is of course a tricarboxylic acid.)  Metabolised in rpTEC mitochondria in citric acid cycle to make CO~2~ and H~2~O, generating bicarbonate (3 molecules HCO~3~ per 1 molecule of citrate).  Analagous to citrate metabolism in the liver and muscle.  The 1:3 stoichiometry should be obvious looking at the molecular structure of citrate (shown below with other bicarbonate precursors, that have 1:1 stoichiometry):  
+
+![](figures/HCO3_precursors.png)
+
+Blood citrate concentration low (~100 mcM) but still makes contribution to systemic acid-base homeostasis as ~10 – 30 mmol filtered and ~6 – 24 mmol reabsorbed daily, so approximating 20 – 70 mmol HCO~3~ equivalent.  
+
+NaDC1 is upregulated in response to metabolic acidosis: presumably evolved as a defence against systemic acidosis by retaining alkali.  
 
 Citrate is the most abundant urinary organic base and the most important chelator for urinary calcium.  Therefore hypocituria causes calcium oxalate / calcium phosphate stones.  
 
