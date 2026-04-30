@@ -26,6 +26,10 @@ eq:UOsGap
 eq:UCat
 eq:UCalcNH
 eq:FEHCO3
+eq:A-a
+eq:PAO2
+eq:PAO2approx
+eq:Aaexpected
 eq:TBW
 eq:edelman
 eq:UOsm1
@@ -99,6 +103,12 @@ causes-of-a-metabolic-alkalosis
 alksyndromes
 chloride
 chloride-depletion-alkalosis
+respiratory-acid-base-disorders
+classification-of-respiratory-acid-base-disorders
+a-a-gradient
+alveolar-gas-equation
+explanation
+interpretation
 water-and-sodium
 total-body-water
 plasma-sodium
@@ -132,7 +142,7 @@ hypernatraemia-1
 hyponatraemia-1
 potassium
 quantification
-interpretation
+interpretation-1
 TTKG
 hypokalaemia
 causes-of-hypokalaemia
