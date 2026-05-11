@@ -150,6 +150,7 @@ causes-of-k-loss
 diagnostic-approach
 vomiting-1
 non-reasbsorbable-anions
+cola-induced-hypokalaemia
 hypokalaemic-periodic-paralysis
 hyperkalaemia
 causes-of-hyperkalaemia

@@ -42,20 +42,27 @@ All values are in mM; data from *FLUID THERAPY and disorders of electrolye balan
 
 ### Vomiting
 
-The consequences of vomiting are [reasonably complex](https://www.kidneyfish.net/post/bicarbonaturia/).  Chloride loss leads to a metabolic alkalosis and the subsequent bicarbonaturia - and aldosterone secretion - lead to urinary losses of potassium (and to a lesser extent sodium) [@galla2000; @gennari2008; @luke2012a].  
+The consequences of vomiting are [reasonably complex](https://www.kidneyfish.net/post/bicarbonaturia/) [@galla2000; @gennari2008; @luke2012a].  
 
-In the `generation phase` of the metabolic alkalosis, gastric acid secretion (to compensate for losses in vomiting) is accompanied by secretion of HCO~3~ into the systemic circulation.  Initially this excess bicarbonate spills over into the urine, with the bicarbonaturia driving renal sodium and potassium loss.  
+**Normal stomach acid physiology.**  When H$^+$ is secreted by gastric parietal cells, HCO$_3$ is returned to the blood (the 'alkaline tide').  Low pH in the duodenum is sensed by S-cells > stimulates secretin > HCO$_3$ secretion by pancreas (with return of H$^+$ to the bloodstream).  The alkaline pancreatic secretion neutralises stomach acid in the GI tract and the H$^+$ return to bloodstream counteracts the stomach's 'alkaline tide', so no net effect on systemic pH. 
 
-In the `maintenence phase`, several renal tubular processes act to sustain the metabolic alkalosis.  These are indicated by the numbers in the diagram below: 
+**Generation phase of alkalosis**.   After vomiting, H$^+$ is lost from the body and so pancreatic secretions are diminished.  Therefore the alkaline tide not counterbalanced by duodenal-pancreatic unit and a systemic alkalosis is generated.  
 
-![](figures/vomiting1.png)
+**Maintenance phase**.  Several renal tubular processes act to sustain the metabolic alkalosis.  These are indicated by the numbers in the diagram below: 
 
-1) volume depletion causes increased NHE3 activity  
-2) low [Cl] at MD stimulates renin release (and hence aldosterone) - contributing to kaliuresis  
-3) lack of distal tubular Cl limits Cl/HCO~3~ exchange by pendrin and hence stops HCO~3~ secretion by B-type intercalated cells  
-4) lack of distal tubular Cl favours electrogenic Na^+^ exchange – hence H^+^ excretion and K^+^ excretion  
+![](figures/vomiting_alkalosis.png)
 
-This results in a paradoxically acid urine and kaliuresis.  
+1) volume depletion > AngII > increased NHE3 activity (and hence increased HCO$_3$ reabsorption)  
+2) hypokalaemia > stimulates ammoniagenesis (and hence increased HCO$_3$ production)  
+3) low [Cl] at MD stimulates renin release > aldosterone > enhanced H$^+$ and K$^+$ secretion  
+4) lack of distal tubular Cl limits Cl/HCO~3~ exchange by pendrin and hence stops HCO~3~ secretion by B-type intercalated cells  
+
+...and sometimes also low GFR limits HCO$_3$ filtered load.  
+
+This results in a paradoxically acid urine, with bicarbonaturia driving kaliuresis.  
+
+UCl more reliable indicator of cause (and saline-responsiveness) than UNa or UK because of bicarbonaturia (+/- secondary hyperaldosteronism).  
+
 
 ![](figures/vomiting2.png)
 

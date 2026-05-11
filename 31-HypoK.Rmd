@@ -74,6 +74,24 @@ Eating disorder suggested by alternating alkalosis (vomiting) and acidosis (RTA 
 
 Hypokalaemia can be due to renal tubular K secretion in the presence of a non-reabsorbable anion (classically IV penicillins).  Look for low U.Cl and treat with IV 0.9 % NaCl.  Exacerbated in volume depletion (stimulates aldosterone). 
 
+<br>
+
+## Cola-induced hypokalaemia
+
+Excessive cola production causes a predominatly caffeine-dependent hypokalaemia.  This is mulfactorial with...
+
+...2 mechanisms to shift K$^+$ into cells:  
+
+- caffeine > catecholamines > Na-K-ATPase stimulated  
+- glucose load > insulin > ditto  
+
+...and 2 mechanisms to promote kaliuresis:  
+
+- caffeine > diuresis  
+- + symps (+ block adenosine Rs) > + renin > + aldo  
+
+<br>
+
 
 ## Hypokalaemic periodic paralysis
 
