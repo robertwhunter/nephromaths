@@ -84,7 +84,7 @@ basic-set-of-investigations
 acid-base-chloride
 acid-base-homeostasis
 ph
-adaptation
+carbonic-acid-buffer-system
 renal-control-of-acid-base-homeostasis
 normal-renal-response-to-chronic-acidosis
 citrate-metabolism-in-acidosis
@@ -109,6 +109,16 @@ a-a-gradient
 alveolar-gas-equation
 explanation
 interpretation
+blood-gas-interpretation
+general-approach
+vbg-vs.-abg
+measures-of-acid-base-status
+what-is-on-the-blood-gas-report
+unit-conversions
+principles
+boston-rules
+severinghaus-rules-for-sbe
+error-bars
 water-and-sodium
 total-body-water
 plasma-sodium
@@ -157,7 +167,7 @@ causes-of-hyperkalaemia
 causes-of-spurious-hyper--and-hypokalaemia
 phosphate
 urinary-phosphate
-general-approach
+general-approach-1
 TMPGFR
 reference-ranges
 hypophosphataemia
@@ -168,7 +178,7 @@ calcium
 investigations-in-hypercalcaemia
 urine-calcium
 interpreting-the-results
-unit-conversions
+unit-conversions-1
 normal-calcium-excretion
 hypercalciuria-e.g.-in-hyperpth-other-causes-of-hypercalcaemia-rta
 hypocalciuria-e.g.-fhh-gitelman

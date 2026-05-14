@@ -7,6 +7,13 @@
 Summary of the dietary sources of acids and alkali and the role of the kidney in generating bicarbonate (to aid the excretion of non-volatile acid):
 
 ![](figures/acid_homeostasis.png)
+In the tissues, CO$_2$ diffuses into RBC and converted to HCO$_3$; HCO$_3$ then exported on AE1 (band 3) = chloride / Hamburger shift.  In the lungs, HCO$_3$ re-imported into RBCs (so chloride shifted back out again), converted to CO$_2$ and exhaled; transport direction reverses as CO$_2$ gradients reverse.  This process is important for enhancing the efficiency of CO$_2$ transport – means that the majority of circulating CO$_2$ can be in the form of HCO$_3$.  
+
+(And as RBCs take up CO$_2$ and acidify, O$_2$-Hb dissociation curve shifts to the right, aiding O$_2$ tissue delivery: Bohr effect.)  
+
+
+<br>
+<br>
 
 ## pH
 
@@ -24,7 +31,7 @@ Summary of the dietary sources of acids and alkali and the role of the kidney in
 ```
 
 
-## Adaptation
+## Carbonic acid buffer system
 
 The relationship between pH, PaCO~2~ and HCO~3~ is described by the Henderson-Hasselbalch equation:  
 
@@ -45,22 +52,11 @@ This relationship can be visualised in 3D...
 
 ![](figures/Davenport_3D.png)
 
-...or 2D in the form of a Davenport plot (shown below) - or alternatively as a Siggard-Anderson plot (pH vs. PaCO~2~ with BE nomogram lines).  
+...or 2D in the form of a Davenport plot (shown below) - or alternatively as a Siggard-Andersen plot (pH vs. PaCO~2~ with BE nomogram lines).  See interactive [plotting app](https://www.kidneyfish.net/gases/).  
 
 ![](figures/Davenport_1.png)
 
 ![](figures/Davenport_2.png)
-
-Metabolic adaptation to respiratory alkalosis:  
-
-+  acute (5 -- 10 mins) HCO~3~ 16 -- 18 mM *buffering by serum HCO~3~* 
-+  chronic (2 -- 3 days) HCO~3~ 12 -- 15 mM *renal excretion of HCO3* 
-
-Respiratory adaptation:  
-
-+  for each mM HCO~3~ \< 25 PaCO~2~ should drop by... 0.16 kPa (1.2 mmHg) 
-+  for each mM HCO~3~ \> 25 PaCO~2~ should rise by... 0.08 kPa (0.6 mmHg) 
-+  Winter's formula: PaCO2 (mmHg) = (1.5 × HCO~3~) + 8 +/- 2 *(in metabolic acidosis)*  
 
 <br>
 <br>

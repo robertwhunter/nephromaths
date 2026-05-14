@@ -166,6 +166,8 @@ AD SLC4A1 disease (the commonest form) typically diagnosed in adolescence / adul
 
 Similarly, idRTA (incomplete) usually in adults: suspect if nephrocalcinosis / stones and borderline HCO3 / hypocitraturia.  K > 3.8 mM is strongly predictive against this diagnosis.  
 
+(Intriguingly, there is a [case report](https://www-jci-org.eux.idm.oclc.org/articles/view/188807) of gain-of-function H+-ATPase mutations causing a renal tubular alkalosis!)  
+
 <br>
 <br>
 
