@@ -12,9 +12,7 @@ Almost invariably these assumptions - whilst necessary to produce a simple mathe
 
 The major value of these equations is in their educational potential.  By understanding the models that they represent, one can better understand physiological principles.  The classic example here is the equation used to calculate the fractional excretion of sodium, FE~Na~ \@ref(eq:FENa).  THis equation can be a great way of understanding or explaining the filtration-reabsorption model of renal function and of how renal sodium and water handling can be perturbed in pre-renal *vs* intrinsic renal failure; however it's ability to differentiate pre-renal from intrinsic renal failure in the clinic is poor [@pahwa2016].  
 
-## General principles
-
-### Balance
+## Balance
 
 For much of the time, we live in a state of fluid-electrolyte equilibrium - or "balance".  For any given substance (water, sodium, potassium etc.), the rate of excretion from the body matches rate of ingestion and therefore total body levels remain constant.  
 
@@ -27,7 +25,7 @@ Following any of these perturbations - if given enough time - we will enter a ne
 When interpreting plasma / urinary electrolytes, it is always useful to consider whether the patient is likely to be in a state of neutral, positive or negative balance.  Some calculations assume neutral balance.  
 
 
-### Testing during stress & "normal ranges"
+## Testing during stress & "normal ranges"
 
 During normal physiology, the renal excretion of most substances varies in proportion to dietary intake, in order to maintain balance.  Therefore the concept of a "normal range" for urinary electrolytes does not really apply in the same way as it does for plasma (in which electrolyte concentrations are maintained within a very tight range). 
 Therefore it can be impossible to tell whether a value for U~Osm~, U~Na~, U~K~ etc. is normal or abnormal, without interpreting this in the clinical context.  
@@ -35,7 +33,7 @@ Therefore it can be impossible to tell whether a value for U~Osm~, U~Na~, U~K~ e
 During periods of physiological stress however, urinary electrolytes can be interpreted with reference to the *expected* renal response to that stress.  For example, in water excess when the plasma is hypotonic, a normal kidney would be expected to produce a dilute urine (U~Osm~ < 100 mOsm) and if that is not observed then we can deduce that there is some impediment to renal water excretion.  For example, during potassium depletion we expect the kidney to conserve potassum (U~K~ \< 20 mM; TTKG \< 2) and if that is not observed then we can infer a renal cause for any hypokalaemia.  
 
 
-### Renal clearance & fractional excretion
+## Renal clearance & fractional excretion
 
 The renal `clearance` of a substance is the hypothetical volume of plasma from which that substance is removed by the kidneys, per unit time.  
 
@@ -68,9 +66,7 @@ Note that for substances (such as Mg^2+^) that are heavily protein-bound in plas
 \end{equation}
     </div>\EndKnitrBlock{eqnpanel}
 
-Note that FEs are hard to interpret in CKD; normal ranges quoted are for patients with normal GFR.  As GFR declines, FE of all substances (Na<sup>+</sup>, K<sup>+</sup>, PO<sub>4</sub><sup>3-</sup>, Mg<sup>2+</sup> etc.) [all rise](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6959939/) (which makes sense: will preserve net renal excretion).  Therefore FE<sub>X</sub> unreliable when eGFR below \~45 ml/min.  Prefer 24 hr collections in that context.  
-
-Derivation of FE:
+### Derivation of FE:
 
 \BeginKnitrBlock{eqnpanel}<div class="eqnpanel">\begin{equation}
   \text{filtered load} = \text{GFR} \times P_X = C_{Cr} \times P_X = V \times (U_{Cr} \div P_{Cr}) \times P_X
@@ -88,17 +84,24 @@ Derivation of FE:
 \end{equation}
     </div>\EndKnitrBlock{eqnpanel}
 
-### Tmax
+### FEs: caveats & practicalities
+
+The goldstandard approach for FEPO$_4$, FEMg, FECa & FEurate is to use the second morning void from a patient who has fasted overnight.  (Or alternatively use 24 hr collections.)  The risk in using non-fasting samples is that a physiological increase on post-prandial excretion may be mistaken for renal wasting.  
+
+FEs are hard to interpret in CKD; normal ranges quoted are for patients with normal GFR.  As GFR declines, FE of all substances (Na<sup>+</sup>, K<sup>+</sup>, PO<sub>4</sub><sup>3-</sup>, Mg<sup>2+</sup> etc.) [all rise](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6959939/) (which makes sense: will preserve net renal excretion).  Therefore FE<sub>X</sub> unreliable when eGFR below \~45 ml/min.  Prefer 24 hr collections in that context.  
+
+
+## Tmax
 
 The maximum transport capacity of the renal tubules for a given substance is termed the `T~max~`.  This concept is helpful when thinking about glucose and [phosphate](#TMPGFR) which will appear in the urine when the filtered load exceeds this threshold.  
 
-### Osmolarity, osmolality & tonicity {#tonicity}
+## Osmolarity, osmolality & tonicity {#tonicity}
 
 The `osmolarity` and `osmolality` of a solution express the concentration of osmoles (per unit volume or unit weight respectively).  
 
 `Tonicity` expresses the ability of a solution to induce osmotic water shifts across a given semi-permable membrane.  This will be determined by the osmolarily (or osmolality) of the solution *and* the ability of its constituent osmoles to cross the semi-permeable membrane in question.  Substances that freely cross the membrane are known as `ineffective osmoles` - e.g. [urea for cell membranes](https://www.kidneyfish.net/post/tonic/).  Substances that do NOT freely cross the membrane are `effective osmoles` - e.g. glucose for cell membranes.  
 
-### Gaps
+## Gaps
 
 Some substances cannot be measured directly in plasma or urine - either because we lack an accessible, reliable assay (e.g. as for urinary ammonium) or because we do not know what the substance is (e.g. following the ingestion of an unknown exogenous acid).  In this case, the presence of the substance can be inferred by calculating a `gap`.  
 

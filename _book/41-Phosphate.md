@@ -8,7 +8,7 @@ The usual reason to measure urinary phosphate excretion is to distinguish renal 
 
 ### General approach
 
-Usually simplest and therefore preferable to calculate FEPO~4~ (or TRP) rather than TmP/GFR.  
+Usually simplest and therefore preferable to calculate FEPO~4~ (or TRP) rather than TmP/GFR.  (Ideally on a fasted sample though.)  
 
 Other investigations in hypophosphataemia:  
 
@@ -89,6 +89,7 @@ Therefore, FEPO~4~ \> 20% (TRP \< 0.8) is abnormal; or 10% and 0.9 if P~PO4~ \< 
 
 Age-specific reference ranges for TmP/GFR have been reported [@payne1998a].  These are approximately the same as reference ranges for P~PO4~.  In other words, [TmP/GFR < 0.8 mM](https://pubmed.ncbi.nlm.nih.gov/17895770/) indicates renal phosphate wasting in hypophosphataemia.  
 
+There is diurnal variation plus variation with [age and sex](https://pubmed.ncbi.nlm.nih.gov/18716307/), driven by changes in TmP/GFR.   
 
 ## Hypophosphataemia
 
@@ -142,12 +143,22 @@ Broadly, hypophosphataemia may be due to:
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> metabolic </td>
+   <td style="text-align:left;"> insulin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> re-feeding syndrome </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
    <td style="text-align:left;"> hungry bones </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
+   <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
+   <td style="text-align:left;"> post liver surgery </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;"> LOW GI ABSORPTION </td>
@@ -157,7 +168,7 @@ Broadly, hypophosphataemia may be due to:
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
-   <td style="text-align:left;"> malabsorption (usually EtOH XS) </td>
+   <td style="text-align:left;"> malabsorption (EtOH XS, bariatric surgery) </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
@@ -177,12 +188,12 @@ Broadly, hypophosphataemia may be due to:
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;"> RENAL LOSSES </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;"> FGF23-dep </td>
-   <td style="text-align:left;"> inherited (e.g. XLH, fibrous dysplasia…) </td>
+   <td style="text-align:left;"> inherited (XLH, fibrous dysplasia…) </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
    <td style="text-align:left;font-style: italic;background-color: white !important;">  </td>
-   <td style="text-align:left;"> acquired (e.g. tumour-induced osteomalacia, post-transplant…) </td>
+   <td style="text-align:left;"> acquired (TIO, post-transplant…) </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: white !important;">  </td>
@@ -209,7 +220,7 @@ Broadly, hypophosphataemia may be due to:
 
 ### Notes on specific causes
 
-**Renal phosphate wasting:**
+**Renal isolated phosphate wasting:**
 
 Outside of the post-transplant setting, the only three possible causes are:  
 
@@ -218,16 +229,40 @@ ii) hereditary hypophosphataemic rickets
 iii) TIO  
 
 
-**Hereditary hypophosphataemic rickets:**
-Almost always X-linked (PHEX mutations - leading to increased FGF-23).  
+**IV iron:**
+Apparently restricted to ferric carboxymaltose (e.g. Ferinject).  Inhibits FGF23 degradation.  Can persist for weeks - months.  
+
+
+**Inherited renal phosphate wasting:**
+XLH: X-linked hypophosphataemic rickets.  Presents in young boys.  PHEX loss of function mutations > elevated intact FGF23 > phosphate-wasting and low vitD; tooth mineralisation defects.  Treat with neutralising Ab (Burosumab). 
+
+AR mutations in NaPi-IIa (SLC34A1) = Fanconi, nephrocalcinosis, stones  
+AR mutations in NaPi-IIc (SLC34A3) = HHRH: heretidary hypophosphataemic rickets with hypercalciuria
+
+Less aggressive forms may present in adulthood:  
+
+- late-onset hereditary hypophosphataemic rickets with hypercalciuria (NaPi-IIc; SLC34A3)  
+- kidney stones (SLC34A3 or SLC34A1 heterozygotes - 3 -- 4% allele frequency in general population)  
+- female HLX carriers  
 
 <br>
 
 **TIO**
 
-- benign mesenchymal tumours secreting FGF-23 (or sometimes other phosphatonins)  
-- isolated hypoPO4  
-- usually profound and symptomatic (multiple pathological fractures)  
+- benign, small, slow-growing mesenchymal tumours secreting FGF-23 (or sometimes other phosphatonins not measured with standard assays)    
+- isolated hypoPO4
+- renal PO4 wasting with high / inappropriately normal FGF-23 (unless other phosphatonin) and low 1-25 vitD  
+- usually profound and symptomatic bone demineralisation (bone pain > multiple pathological fractures)  
 - differentiated from genetic causes by historically normal phosphate level  
-- usually very hard to find the tumour; can use MRI, PET but Ix of choice is dotadate scan (used for NET tumours)  
+- usually very hard to find the tumour; can use MRI but...
+- ...Ix of choice is whole body 68Ga-DOTATATE PET CT scan for NET tumours; need to emphasise top-to-toe scan in the request as may be in extremities (e.g. heels) 
+- in theory could treat with Burosumab if tumur resection not possible  
+
+<br>
+
+**TIO mimics**
+
+Sometimes high FGF-23 but no detectable tumour.  A proportion of these cases likely to be autoimmune acquired osteomalacia (e.g. [autoAbs against PHEX](nejm.org/doi/abs/10.1056/NEJMc2405746)).  
+
+Can also get [autoAbs against PHEX](nejm.org/doi/abs/10.1056/NEJMc2405746) > acquired osteomalacia.  Look for this if TIO but not tumour!  
 

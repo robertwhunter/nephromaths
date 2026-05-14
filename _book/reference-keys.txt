@@ -64,10 +64,11 @@ what-this-book-is---and-what-it-is-not
 how-to-use-this-book
 basic-concepts
 validity
-general-principles
 balance
 testing-during-stress-normal-ranges
 renal-clearance-fractional-excretion
+derivation-of-fe
+fes-caveats-practicalities
 tmax
 tonicity
 gaps
@@ -120,6 +121,7 @@ principles
 boston-rules
 severinghaus-rules-for-sbe
 error-bars
+further-testing-in-metabolic-disorders
 water-and-sodium
 total-body-water
 plasma-sodium
@@ -176,6 +178,9 @@ consequences
 causes-of-hypophosphataemia
 notes-on-specific-causes
 calcium
+ca2-homeostasis
+drug-causes-of-hypercalcaemia
+polyuria-in-hyperca
 investigations-in-hypercalcaemia
 urine-calcium
 interpreting-the-results
@@ -190,6 +195,7 @@ consequences-1
 differential-diagnosis-of-hypomagesaemia
 notes-on-specific-causes-1
 investigations
+management
 tubulopathies
 inherited
 notes-on-some-of-the-inherited-tubulopathies

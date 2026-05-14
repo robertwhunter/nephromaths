@@ -187,7 +187,10 @@ Interpretation of [uOG](https://www.uptodate.com/contents/urine-anion-and-osmola
 
 ## Causes of a metabolic acidosis
 
-![](figures/acidosis_differential.png)
+<!-- ![](figures/acidosis_differential.png) -->
+
+![](figures/metabolic_acidosis.png)
+
 
 ### Approach to metabolic acidosis
 

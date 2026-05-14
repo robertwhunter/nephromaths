@@ -85,7 +85,10 @@ The causes of a metabolic alkalosis can be classified as being either due to chl
 \* in chloride-responsive states UCl \< 10 mM except where chloride is being lost in the urine (i.e. diuretics / Gitelman / Barrter syndrome).
 
 
-![](figures/alkalosis_differential.png)
+<!-- ![](figures/alkalosis_differential.png) -->
+
+![](figures/metabolic_alkalosis.png)
+
 
 Perhaps a more useful classification would be:
 

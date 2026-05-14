@@ -64,7 +64,12 @@ Incidence of hypoMg with [PPIs](https://www.kidneyfish.net/post/ppis-and-magnesi
   
 ## Investigations
 
-First, distinguish between GI and renal losses with urinary [Mg].  In the context of hypomagnesaemia:  UMgV > 1 mmol per day or FE~Mg~ \> 2 -- 3 % = renal loss.    
+First, distinguish between GI and renal losses with urinary [Mg].  Remember that ideally FEMg is assessed on a fasting sample (2nd void).    
+
+In the context of hypomagnesaemia:  
+
+- renal losses = FE$_Mg$ \> 3%; UMgV > 1 mmol per day; UMgV/GFR \> 15 mcmol/ml    
+- extra-renal losses = FE$_Mg$ \< 1%; UMgV/GFR \< 5 mcmol/ml  
 
 Next, if renal losses, measure UCaV.  If also high then likely TALH lesion; if isolated Mg-wasting then likely DCT lesion.  
 
@@ -79,6 +84,10 @@ Next, if renal losses, measure UCaV.  If also high then likely TALH lesion; if i
 ```
 
 When calculating FE~Mg~, divide the result by 0.7.  This is because P~Mg~ is multiplied by 0.7 to account for protein binding; only 70% of circulating Mg is free and therefore able to be filtered; 30% is albumin-bound [@agus1999].  
+
+### Management
+
+SGLT2i can raise PMg in both inherited and acquired hypoMg.  
 
 
 

@@ -1,5 +1,7 @@
 # Calcium
 
+## Ca2+ homeostasis  
+
 Serum calcium is regulated by PTH and vitamin D: 
 
 ![](figures/Ca_loop.png) 
@@ -8,7 +10,7 @@ Hypercalcaemia can be classified as PTH-dependent or PTH-independent:
 
 ![](figures/Ca_loop_annotated.png)
 
-Drug causes of hypercalcaemia:  
+### Drug causes of hypercalcaemia:  
 
 <table>
  <thead>
@@ -59,6 +61,10 @@ Drug causes of hypercalcaemia:
 
 <!-- ![](figures/HyperCa_drugs.png) -->
 
+### Polyuria in hyperCa
+
+Activation of the basolateral CaSR in TALH stimulates NKCC2, inducing a NaCl diuresis.  Activation of the apical CaSR in collecting duct inhibits AQP2, inducing a NDI.  These responses have presumably evolved as a defence against kidney stones, but in the context of pathological hypercalcaemia result in polyuria.  Therefore management of hyperCa involves copious NaCl (e.g. aiming for u/o 100 - 150 ml/hr).  The [rationale](https://pmc.ncbi.nlm.nih.gov/articles/PMC8889795/) is to replace NaCl losses and also to encourage calciuresis by driving Na-coupled calcium excretion in PCT.  
+
 ## Investigations in hypercalcaemia:
 
 ![](figures/HyperCa.png)
@@ -108,6 +114,11 @@ Therefore, a Ca/Cr of x mg/mg = 2.84x mmmol/mmol.
 + FE~Ca~ > 2 % (CCCR > 0.020)
 
 In an observational study of stone-formers (Curhan, KI 2001), stone risk elevated at thresholds lower than these classical cut-offs of 300 mg (M) or 250 mg (F) - but stone risk obviously complex and related to other urinary salts / pH etc.  
+
+Two implications of hypercalciuria are:  
+
+i) risk of stones / nephrocalcinosis  
+ii) risk of bone demineralisation  
 
 
 ### Hypocalciuria (e.g. FHH, Gitelman):  

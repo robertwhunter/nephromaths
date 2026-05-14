@@ -1,13 +1,15 @@
 ﻿cellular shifts,respiratory,respiratory alkalosis
+cellular shifts,metabolic,insulin
 cellular shifts,metabolic,re-feeding syndrome
 cellular shifts,metabolic,hungry bones
+cellular shifts,metabolic,post liver surgery
 low GI absorption,vit D-indep,poor dietary intake
-low GI absorption,vit D-indep,malabsorption (usually EtOH XS)
+low GI absorption,vit D-indep,"malabsorption (EtOH XS, bariatric surgery)"
 low GI absorption,vit D-indep,phosphate binders (including antacids)
 low GI absorption,vit D-indep,liver disease
 low GI absorption,vit D-dep,vitamin D deficient / impaired signalling
-renal losses,FGF23-dep,"inherited (e.g. XLH, fibrous dysplasia…)"
-renal losses,FGF23-dep,"acquired (e.g. tumour-induced osteomalacia, post-transplant…)"
+renal losses,FGF23-dep,"inherited (XLH, fibrous dysplasia…)"
+renal losses,FGF23-dep,"acquired (TIO, post-transplant…)"
 renal losses,FGF23-indep,"without Fanconi (hyperPTH, diuretics, HHRH)"
 renal losses,FGF23-indep,with Fanconi syndrome (inherited or acquired)
 miscellaneous,FGF23-dep,IV iron (inhibits FGF-23 clearance)

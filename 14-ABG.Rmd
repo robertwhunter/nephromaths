@@ -113,3 +113,9 @@ Schwartz & Relman, NEJM 1963; Berend et al., NEJM 2014:
 ### Error bars
 
 Expected range probably around [+/- 5 mM](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/18308967/) for bicarbonate response to respiratory perturbations.  There are limits to the extent to which compensation can occur, so the compensation curves is likely to flatten off at extremes.  For example, requirement for O<sub>2</sub> exchange may limit the extent to which ventilation rate can be lowered to compensate for a metabolic alkalosis.  
+
+<br>
+
+## Further testing in metabolic disorders
+
+![](figures/metabolic_workup.png)
