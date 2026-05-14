@@ -5,7 +5,7 @@
 ```{block2, type='algpanel'}
 Systematic approach to blood gas interpretation:  
 
-1)  PaO~2~ \pm Aa gradient (if arterial gas)    
+1)  PaO~2~ +/- Aa gradient (if arterial gas)    
 2)  pH -- acidaemia or alkalaemia?    
 3)  PaCO~2~ -- is there a primary respiratory disorder?  
 4)  HCO3~3~ -- is there a primary metabolic disorder?  
@@ -34,10 +34,10 @@ However, can be large discrepancies in patients with shock or extremes of acid-b
 
 ### What is on the blood gas report?
 
-`pH`, `PaCO<sub>2</sub>` and `PaO<sub>2</sub>` are all measured directly.  The [other parameters](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873626/) are calculated:  
+`pH`, `PaCO2` and `PaO2` are all measured directly.  The [other parameters](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873626/) are calculated:  
 
-- `HCO<sub>3</sub>act` = what the bicarb is in the sample  
-- `HCO<sub>3</sub>std` = what the bicarb would have been if PaCO<sub>2</sub> was normal (i.e. under standard conditions: T37, fully oxygenated, PaCO<sub>2</sub> 5.3 kPa)
+- `HCO3act` = 'actual' = what the bicarb is in the sample  
+- `HCO3std` = 'standard' = what the bicarb would have been if PaCO<sub>2</sub> was normal (i.e. under standard conditions: T37, fully oxygenated, PaCO<sub>2</sub> 5.3 kPa)
 - `BE` = the amount of strong acid that must be added to each liter of fully oxygenated blood to return the pH to 7.40 under standard conditions  
 - `BEecf` = `SBE` = standard BE = assuming Hb 5 g/dL (rationale being that Hb buffers all ECF, not just plasma)  
 
@@ -54,7 +54,7 @@ Therefore, use:
 
 <br>
 
-### What about TCO$_2$?  
+### What about TCO2?  
 
 Measured as the amount of CO$_2$ liberated from serum by the addition of a strong acid to shift pH to well below pKa (Centor, 1990).  CO$_2$ detected with indicator dye.  
 

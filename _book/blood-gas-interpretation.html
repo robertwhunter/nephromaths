@@ -194,11 +194,12 @@ div.csl-indent {
 <li class="chapter" data-level="8.3" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#measures-of-acid-base-status"><i class="fa fa-check"></i><b>8.3</b> Measures of acid-base status</a>
 <ul>
 <li class="chapter" data-level="8.3.1" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#what-is-on-the-blood-gas-report"><i class="fa fa-check"></i><b>8.3.1</b> What is on the blood gas report?</a></li>
-<li class="chapter" data-level="8.3.2" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#unit-conversions"><i class="fa fa-check"></i><b>8.3.2</b> Unit conversions</a></li>
-<li class="chapter" data-level="8.3.3" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#principles"><i class="fa fa-check"></i><b>8.3.3</b> Principles</a></li>
-<li class="chapter" data-level="8.3.4" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#boston-rules"><i class="fa fa-check"></i><b>8.3.4</b> “Boston Rules”</a></li>
-<li class="chapter" data-level="8.3.5" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#severinghaus-rules-for-sbe"><i class="fa fa-check"></i><b>8.3.5</b> Severinghaus rules for SBE:</a></li>
-<li class="chapter" data-level="8.3.6" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#error-bars"><i class="fa fa-check"></i><b>8.3.6</b> Error bars</a></li>
+<li class="chapter" data-level="8.3.2" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#what-about-tco2"><i class="fa fa-check"></i><b>8.3.2</b> What about TCO2?</a></li>
+<li class="chapter" data-level="8.3.3" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#unit-conversions"><i class="fa fa-check"></i><b>8.3.3</b> Unit conversions</a></li>
+<li class="chapter" data-level="8.3.4" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#principles"><i class="fa fa-check"></i><b>8.3.4</b> Principles</a></li>
+<li class="chapter" data-level="8.3.5" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#boston-rules"><i class="fa fa-check"></i><b>8.3.5</b> “Boston Rules”</a></li>
+<li class="chapter" data-level="8.3.6" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#severinghaus-rules-for-sbe"><i class="fa fa-check"></i><b>8.3.6</b> Severinghaus rules for SBE:</a></li>
+<li class="chapter" data-level="8.3.7" data-path="blood-gas-interpretation.html"><a href="blood-gas-interpretation.html#error-bars"><i class="fa fa-check"></i><b>8.3.7</b> Error bars</a></li>
 </ul></li>
 </ul></li>
 <li class="part"><span><b>III Water and sodium</b></span></li>
@@ -401,7 +402,7 @@ div.csl-indent {
 <div class="algpanel">
 <p>Systematic approach to blood gas interpretation:</p>
 <ol style="list-style-type: decimal">
-<li>PaO<sub>2</sub> Aa gradient (if arterial gas)<br />
+<li>PaO<sub>2</sub> +/- Aa gradient (if arterial gas)<br />
 </li>
 <li>pH – acidaemia or alkalaemia?<br />
 </li>
@@ -431,11 +432,11 @@ div.csl-indent {
 <h2><span class="header-section-number">8.3</span> Measures of acid-base status<a href="blood-gas-interpretation.html#measures-of-acid-base-status" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div id="what-is-on-the-blood-gas-report" class="section level3 hasAnchor" number="8.3.1">
 <h3><span class="header-section-number">8.3.1</span> What is on the blood gas report?<a href="blood-gas-interpretation.html#what-is-on-the-blood-gas-report" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p><code>pH</code>, <code>PaCO&lt;sub&gt;2&lt;/sub&gt;</code> and <code>PaO&lt;sub&gt;2&lt;/sub&gt;</code> are all measured directly. The <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873626/">other parameters</a> are calculated:</p>
+<p><code>pH</code>, <code>PaCO2</code> and <code>PaO2</code> are all measured directly. The <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873626/">other parameters</a> are calculated:</p>
 <ul>
-<li><code>HCO&lt;sub&gt;3&lt;/sub&gt;act</code> = what the bicarb is in the sample<br />
+<li><code>HCO3act</code> = ‘actual’ = what the bicarb is in the sample<br />
 </li>
-<li><code>HCO&lt;sub&gt;3&lt;/sub&gt;std</code> = what the bicarb would have been if PaCO<sub>2</sub> was normal (i.e. under standard conditions: T37, fully oxygenated, PaCO<sub>2</sub> 5.3 kPa)</li>
+<li><code>HCO3std</code> = ‘standard’ = what the bicarb would have been if PaCO<sub>2</sub> was normal (i.e. under standard conditions: T37, fully oxygenated, PaCO<sub>2</sub> 5.3 kPa)</li>
 <li><code>BE</code> = the amount of strong acid that must be added to each liter of fully oxygenated blood to return the pH to 7.40 under standard conditions<br />
 </li>
 <li><code>BEecf</code> = <code>SBE</code> = standard BE = assuming Hb 5 g/dL (rationale being that Hb buffers all ECF, not just plasma)</li>
@@ -452,22 +453,24 @@ div.csl-indent {
 <li>…or use TCO<span class="math inline">\(_2\)</span> if actHCO<span class="math inline">\(_3\)</span> not available</li>
 </ul>
 <p><br></p>
-<p>### What about TCO<span class="math inline">\(_2\)</span>?</p>
+</div>
+<div id="what-about-tco2" class="section level3 hasAnchor" number="8.3.2">
+<h3><span class="header-section-number">8.3.2</span> What about TCO2?<a href="blood-gas-interpretation.html#what-about-tco2" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Measured as the amount of CO<span class="math inline">\(_2\)</span> liberated from serum by the addition of a strong acid to shift pH to well below pKa (Centor, 1990). CO<span class="math inline">\(_2\)</span> detected with indicator dye.</p>
 <p>~95% of TCO<span class="math inline">\(_2\)</span> exists as HCO<span class="math inline">\(_3\)</span>. Under normal conditions, HCO3 <span class="math inline">\(\approx\)</span> 24 mM; CO<span class="math inline">\(_2\)</span> <span class="math inline">\(\approx\)</span> 1.2 mM. Therefore venous TCO<span class="math inline">\(_2\)</span> will usually read 2–4 mM higher than a concurrent calculated HCO<span class="math inline">\(_3\)</span> on an ABG sample; 1–2 mM of this difference represents a true difference between venous and arterial blood; 1–2 mM represents a contribution of dissolved CO<span class="math inline">\(_2\)</span> to TCO<span class="math inline">\(_2\)</span>.</p>
 <p>Must be processed promptly; exposure to air will result in loss of TCO<span class="math inline">\(_2\)</span> (up to 6 mM per hr).</p>
 <p><br></p>
 </div>
-<div id="unit-conversions" class="section level3 hasAnchor" number="8.3.2">
-<h3><span class="header-section-number">8.3.2</span> Unit conversions<a href="blood-gas-interpretation.html#unit-conversions" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="unit-conversions" class="section level3 hasAnchor" number="8.3.3">
+<h3><span class="header-section-number">8.3.3</span> Unit conversions<a href="blood-gas-interpretation.html#unit-conversions" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>1 mmHg <span class="math inline">\(\approx\)</span> 0.133 kPa
 1 kPa <span class="math inline">\(\approx\)</span> 7.5 mmHg</p>
 <p><br>
 <br></p>
 <p>## Compensation rules</p>
 </div>
-<div id="principles" class="section level3 hasAnchor" number="8.3.3">
-<h3><span class="header-section-number">8.3.3</span> Principles<a href="blood-gas-interpretation.html#principles" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="principles" class="section level3 hasAnchor" number="8.3.4">
+<h3><span class="header-section-number">8.3.4</span> Principles<a href="blood-gas-interpretation.html#principles" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>HCO<span class="math inline">\(_3\)</span> and TCO<span class="math inline">\(_2\)</span> are co-dependent through two mechanisms:</p>
 <ol style="list-style-type: lower-roman">
 <li>interconversion though bulk shifts in their equilibrium (carbonic acid buffer system);<br />
@@ -479,8 +482,8 @@ div.csl-indent {
 <p><br>
 <br></p>
 </div>
-<div id="boston-rules" class="section level3 hasAnchor" number="8.3.4">
-<h3><span class="header-section-number">8.3.4</span> “Boston Rules”<a href="blood-gas-interpretation.html#boston-rules" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="boston-rules" class="section level3 hasAnchor" number="8.3.5">
+<h3><span class="header-section-number">8.3.5</span> “Boston Rules”<a href="blood-gas-interpretation.html#boston-rules" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Schwartz &amp; Relman, NEJM 1963; Berend et al., NEJM 2014:</p>
 <ul>
 <li>acute respiratory acidosis: 1 mM rise in HCO<sub>3</sub> per 10 mmHg rise in PaCO<sub>2</sub><br />
@@ -497,8 +500,8 @@ div.csl-indent {
 </ul>
 <p><br></p>
 </div>
-<div id="severinghaus-rules-for-sbe" class="section level3 hasAnchor" number="8.3.5">
-<h3><span class="header-section-number">8.3.5</span> <a href="https://pubmed.ncbi.nlm.nih.gov/9671365/">Severinghaus</a> rules for SBE:<a href="blood-gas-interpretation.html#severinghaus-rules-for-sbe" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="severinghaus-rules-for-sbe" class="section level3 hasAnchor" number="8.3.6">
+<h3><span class="header-section-number">8.3.6</span> <a href="https://pubmed.ncbi.nlm.nih.gov/9671365/">Severinghaus</a> rules for SBE:<a href="blood-gas-interpretation.html#severinghaus-rules-for-sbe" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <ul>
 <li>acute respiratory disturbance: no change in BE</li>
 <li>chronic respiratory disturbance: BE changes by 0.4 * PaCO<sub>2</sub></li>
@@ -507,8 +510,8 @@ div.csl-indent {
 </ul>
 <p><br></p>
 </div>
-<div id="error-bars" class="section level3 hasAnchor" number="8.3.6">
-<h3><span class="header-section-number">8.3.6</span> Error bars<a href="blood-gas-interpretation.html#error-bars" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="error-bars" class="section level3 hasAnchor" number="8.3.7">
+<h3><span class="header-section-number">8.3.7</span> Error bars<a href="blood-gas-interpretation.html#error-bars" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Expected range probably around <a href="https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/18308967/">+/- 5 mM</a> for bicarbonate response to respiratory perturbations. There are limits to the extent to which compensation can occur, so the compensation curves is likely to flatten off at extremes. For example, requirement for O<sub>2</sub> exchange may limit the extent to which ventilation rate can be lowered to compensate for a metabolic alkalosis.</p>
 
 </div>

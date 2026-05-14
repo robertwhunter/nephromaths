@@ -114,6 +114,7 @@ general-approach
 vbg-vs.-abg
 measures-of-acid-base-status
 what-is-on-the-blood-gas-report
+what-about-tco2
 unit-conversions
 principles
 boston-rules
